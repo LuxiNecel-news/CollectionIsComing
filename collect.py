@@ -24,9 +24,17 @@ from difflib import SequenceMatcher
 DATA_PATH = Path.cwd()
 ts = int(time.time())
 
-githubRepos = {'MarcoL95-news/earthquakeIsComing': {'Extreme':'Earthquake', 'extremeColor':'#357d49'}, 
-               'sonjanews/DroughtIsComing': {'Extreme':'Drought', 'extremeColor':'#357d49'},
-               'paulski99-news/volcanoIsComing': {'Extreme':'Volcano', 'extremeColor':'#357d49'},
+extremeColors = {'Thunderstorm':'#53785a', 'Flood':'#030ba1', 'Storm':'#222222', 'Storm Surge':'#834fa1', 'Flash Flood':'#0245d8', 'Precipitation':'#608D3A',
+               'Tsunami':'#690191', 'Drought':'#572c03', 'Earthquake':'#870047', 'Landslide':'#1C4840', 'Cold Wave':'#a7e9fa', 'Heat Wave':'#d85212', 'Iceberg':'#02b5b8',
+               'Tropical Cyclone':'#4f7fbf', 'Volcano':'#b83202', 'Snow Avalanche':'#deddd5', 'unknown':'#d60d2b', 'Wildfire':'#fa0007', 'Fog':'#535271'  
+               }
+
+topicColors = {'Hazard':'#FF0000', 'Impacts':'#FFFF00', 'Mitigation':'#00FF00', 'Adaptation':'#0000FF', 'Causes':'#00FFFF', 'unknown':'#000000' }
+
+githubRepos = {'MarcoL95-news/earthquakeIsComing': {'Extreme':'Earthquake'}, 
+               'sonjanews/DroughtIsComing': {'Extreme':'Drought'},
+               'paulski99-news/volcanoIsComing': {'Extreme':'Volcano'},
+               'paularicarda-news/volcanoIsComing': {'Extreme':'Volcano'},
               }
 currentMonths = []
 for m in [0,20,40,60]:
@@ -62,7 +70,7 @@ def addNewsToCollection(data):
 def storeCollection():
     global collectedNews
     #cols = ['published','keyword','domain','language','valid','title','description','url','image','archive','content','quote']
-    cols = ['published','extreme','topic','domain','language','valid','title','description','url','image','archive','content','en','de']
+    cols = ['published','extreme','topic','domain','language','valid', 'title','description', 'url','image','archive', 'content','en','de']
     for dateFile in collectedNews:
         df = pd.DataFrame.from_dict(collectedNews[dateFile], orient='index', columns=cols)
         df.index = df['url'].apply( lambda x: hashlib.sha256(x.encode()).hexdigest()[:32])   
@@ -184,11 +192,11 @@ for repo in repos:
       if(newsRequest.status_code == 200):
         newsDf=pd.read_csv(io.StringIO(newsRequest.content.decode('utf-8')), delimiter=',', index_col='index')
         newsDf['extreme'] = githubRepos[repo]['Extreme']
-        newsDf['extremeColor'] = githubRepos[repo]['extremeColor']
+        ## newsDf['extremeColor'] = githubRepos[repo]['extremeColor']
         newsDf['hash'] = newsDf.index 
         newsDf = pd.merge(newsDf, keysDf, how='left', left_on=['keyword'], right_on=['keyword'])
         newsDf = newsDf.dropna(subset=['topic'])
-        ## newsDf = newsDf.drop(newsDf[newsDf.valid < 0.5].index)
+        newsDf = newsDf.drop(newsDf[newsDf.valid < 0.5].index)      ## LATER ALLOW ALL
         if(existingDict and not newsDf.empty):
             newsDf.index = newsDf['hash']  #!!
             for ha in list(existingDict.keys()):

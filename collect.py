@@ -26,6 +26,7 @@ ts = int(time.time())
 
 githubRepos = {'MarcoL95-news/earthquakeIsComing': {'Extreme':'Earthquake', 'extremeColor':'#357d49'}, 
                'sonjanews/DroughtIsComing': {'Extreme':'Drought', 'extremeColor':'#357d49'},
+               'paulski99-news/volcanoIsComing': {'Extreme':'Volcano', 'extremeColor':'#357d49'},
               }
 currentMonths = []
 for m in [0,20,40,60]:

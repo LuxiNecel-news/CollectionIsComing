@@ -11,9 +11,9 @@ To setup you own harvester read the [HOWTO.md](https://github.com/newsWhisperer/
 
 # Topic Analysis
 
-![LDA](img/topics_lda.png)
+![LDA](img/topics_lda_en.png)
 
-![NMF](img/topics_nmf.png)
+![NMF](img/topics_nmf_en.png)
 
 # Entities
 

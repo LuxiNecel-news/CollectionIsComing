@@ -85,7 +85,7 @@ def addNewsToCollection(data):
 def storeCollection():
     global collectedNews
     #cols = ['published','keyword','domain','language','valid','title','description','url','image','archive','content','quote']
-    cols = ['published','extreme','topic','domain','language','valid', 'title','description', 'url','image','archive', 'content','en','de']
+    cols = ['published','extreme','topic','domain','language','valid', 'title','description', 'url','image','archive', 'content','en','de','la']
     for dateFile in collectedNews:
         df = pd.DataFrame.from_dict(collectedNews[dateFile], orient='index', columns=cols)
         df.index = df['url'].apply( lambda x: hashlib.sha256(x.encode()).hexdigest()[:32])   
@@ -181,9 +181,11 @@ def translateData(data):
    if('de'==data['language']):
        data['de'] = str(data['title']) + ' ' + str(data['description'])
        data['en'] = GoogleTranslator(source='de', target='en').translate(text=data['de'])
+       data['la'] = GoogleTranslator(source='de', target='la').translate(text=data['de'])
    if('en'==data['language']):
        data['en'] = str(data['title']) + ' ' + str(data['description'])
        data['de'] = GoogleTranslator(source='en', target='de').translate(text=data['en'])
+       data['la'] = GoogleTranslator(source='en', target='de').translate(text=data['la'])
    return(data) 
 
 #allExtremesDf = pd.DataFrame(None)

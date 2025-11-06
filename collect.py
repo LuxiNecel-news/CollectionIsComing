@@ -90,6 +90,8 @@ def storeCollection():
         df = pd.DataFrame.from_dict(collectedNews[dateFile], orient='index', columns=cols)
         df.index = df['url'].apply( lambda x: hashlib.sha256(x.encode()).hexdigest()[:32])   
         df = removeDuplicates(df)
+        df.index.name = 'index'
+        df = df.sort_values(by=['published', 'index'], ascending=True)
         #df.to_csv(DATA_PATH / dateFile, index=True) 
         if(not os.path.exists(DATA_PATH / 'csv')):
             os.mkdir(DATA_PATH / 'csv')
@@ -185,7 +187,7 @@ def translateData(data):
    if('en'==data['language']):
        data['en'] = str(data['title']) + ' ' + str(data['description'])
        data['de'] = GoogleTranslator(source='en', target='de').translate(text=data['en'])
-       data['la'] = GoogleTranslator(source='en', target='de').translate(text=data['la'])
+       data['la'] = GoogleTranslator(source='en', target='la').translate(text=data['en'])
    return(data) 
 
 #allExtremesDf = pd.DataFrame(None)

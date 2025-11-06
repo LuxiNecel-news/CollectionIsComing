@@ -33,9 +33,9 @@ if(not os.path.exists(DATA_PATH / 'csv')):
     os.mkdir(DATA_PATH / 'csv')
 
 
-extremeColors = {'Thunderstorm':'#53785a', 'Flood':'#030ba1', 'Storm':'#222222', 'Storm Surge':'#834fa1', 'Flash Flood':'#0245d8', 'Precipitation':'#608D3A',
-               'Tsunami':'#690191', 'Drought':'#572c03', 'Earthquake':'#870047', 'Landslide':'#1C4840', 'Cold Wave':'#a7e9fa', 'Heat Wave':'#d85212', 'Iceberg':'#02b5b8',
-               'Tropical Cyclone':'#4f7fbf', 'Volcano':'#b83202', 'Snow Avalanche':'#deddd5', 'unknown':'#d60d2b', 'Wildfire':'#fa0007', 'Fog':'#535271', 'Snow&Ice':'#dedde5'  
+extremeColors = {'unknown':'#d60d2b', 'Thunderstorm':'#53785a', 'Storm':'#222222', 'Storm Surge':'#834fa1', 'Flash Flood':'#0245d8', 'Precipitation':'#608D3A',
+               'Tsunami':'#690191',  'Landslide':'#1C4840', 'Cold Wave':'#a7e9fa', 'Heat Wave':'#d85212', 'Iceberg':'#02b5b8',
+                 'Snow Avalanche':'#deddd5', 'Wildfire':'#fa0007', 'Fog':'#535271', 'Snow&Ice':'#dedde5', 'Flood':'#030ba1', 'Drought':'#572c03', 'Tropical Cyclone':'#4f7fbf', 'Volcano':'#b83202', 'Earthquake':'#870047'  
                }
 
 topicColors = {'unknown':'#000000', 'Adaptation':'#0000FF', 'Mitigation':'#00FF00', 'Causes':'#00FFFF', 'Impacts':'#FFFF00', 'Hazard':'#FF0000'}
@@ -492,9 +492,6 @@ for index, column in newsDf.iterrows():
         if(foundTopics[top]):
             indexTopics[dayDate][top] += 1
 
-print(indexTopics)
-print(list(topicColors.keys()))
-
 indexTopicsDF = pd.DataFrame.from_dict(indexTopics, orient='index', columns=list(topicColors.keys()))
 indexTopicsDF.to_csv(DATA_PATH / 'csv' / "topics_date.csv", index=True)
 
@@ -547,4 +544,91 @@ leg = ax.legend(custom_lines, labelLeg,
           loc='center left', fontsize=16, bbox_to_anchor=(0.75, .48))
 leg.set_title("Topics", prop = {'size':20})            
 plt.savefig(DATA_PATH / 'img' / 'dates_topics_article_count.png', dpi=300)
+plt.close('all')
+
+
+
+
+#extremes per date
+indexTopics = {}
+for index, column in newsDf.iterrows():
+    dayDate = getDay(column.published)
+    if(not dayDate in indexTopics):
+        indexTopics[dayDate] = {}
+        ##for index2, column2 in topicsColorsDF.iterrows():
+        for ext in extremeColors:
+           indexTopics[dayDate][ext] = 0
+    quote = str(column.en)
+    foundTopics = {}
+    ##for index2, column2 in topicsColorsDF.iterrows():
+    for ext in extremeColors:   
+       foundTopics[ext] = False
+
+    foundTopics[column['extreme']] = True
+    '''
+    for index3, column3 in keywordsColorsDF.iterrows():
+        #if(not column3['topic'] in indexTopics[dayDate]):
+        #    indexTopic[dayDate][column3['topic']] = 0
+        keyword = column3['keyword'].strip("'") 
+        if(keyword in quote):
+            foundTopics[column3['topic']] = True
+    '''
+
+    ##for index2, column2 in topicsColorsDF.iterrows():
+    for ext in extremeColors:
+        if(foundTopics[ext]):
+            indexTopics[dayDate][ext] += 1
+
+indexTopicsDF = pd.DataFrame.from_dict(indexTopics, orient='index', columns=list(extremeColors.keys()))
+indexTopicsDF.to_csv(DATA_PATH / 'csv' / "extremes_date.csv", index=True)
+
+
+#3d Bars -> Topics by Date 
+germanTopicsDate = pd.read_csv(DATA_PATH / 'csv' / 'extremes_date.csv', delimiter=',')
+germanTopicsDate = germanTopicsDate.sort_values(by=['Unnamed: 0'], ascending=True)
+xa = []
+xl = []
+ya = []
+yl = []
+za = []
+ca = []
+
+for idx, column in germanTopicsDate.iterrows():
+    p = 0
+    #for topic in colorsTopics:
+    ##for index2, column2 in topicsColorsDF.iterrows():
+    for ext in extremeColors:
+        xa.append(idx) 
+        xl.append(column['Unnamed: 0'])
+        ya.append(p)  
+        yl.append(ext)
+        za.append(column[ext])
+        ca.append(extremeColors[ext])
+        p += 1
+fig = plt.figure(figsize=(30, 20))
+## ax = Axes3D(fig)
+## ax = fig.gca(projection='3d')
+ax = fig.add_subplot(projection='3d')
+#fig.subplots_adjust(left=0, right=1, bottom=0, top=1.5)
+ticksx = germanTopicsDate.index.values.tolist()
+plt.xticks(ticksx, germanTopicsDate['Unnamed: 0'],rotation=63, fontsize=18)
+ticksy = np.arange(1, len(extremeColors)+1, 1)
+plt.yticks(ticksy, list(extremeColors.keys()), rotation=-4, fontsize=18, horizontalalignment='left')
+ax.tick_params(axis='z', labelsize=18, pad=20)
+ax.tick_params(axis='y', pad=20)
+ax.set_title("Number of Newspaper Articles covering Extremes", fontsize=36, y=0.65, pad=-14)
+ax.bar3d(xa, ya, 0, 0.8, 0.8, za, color=ca, alpha=0.6)
+ax.view_init(elev=30, azim=-70)
+plt.gca().xaxis.set_major_locator(mdates.DayLocator(interval=7))
+ax.get_proj = lambda: np.dot(Axes3D.get_proj(ax), np.diag([1.0, 0.7, 0.4, 1]))
+colorLeg = list(extremeColors.values())
+colorLeg.reverse()
+labelLeg = list(extremeColors.keys())
+labelLeg.reverse()
+custom_lines = [plt.Line2D([],[], ls="", marker='.', 
+                mec='k', mfc=c, mew=.1, ms=30) for c in colorLeg]
+leg = ax.legend(custom_lines, labelLeg, 
+          loc='center left', fontsize=16, bbox_to_anchor=(0.85, .58))
+leg.set_title("Topics", prop = {'size':20})            
+plt.savefig(DATA_PATH / 'img' / 'dates_extremes_article_count.png', dpi=300)
 plt.close('all')

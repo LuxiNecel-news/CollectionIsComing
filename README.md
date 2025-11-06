@@ -27,8 +27,9 @@ To setup you own harvester read the [HOWTO.md](https://github.com/newsWhisperer/
 
 # Timeline
 
-![DateTopic](img/dates_topics_article_count.png)
+![DateTopic](img/dates_extremes_article_count.png)
 
+![DateTopic](img/dates_topics_article_count.png)
 
 
 

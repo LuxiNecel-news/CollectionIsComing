@@ -24,12 +24,12 @@ from difflib import SequenceMatcher
 DATA_PATH = Path.cwd()
 ts = int(time.time())
 
-extremeColors = {'Thunderstorm':'#53785a', 'Flood':'#030ba1', 'Storm':'#222222', 'Storm Surge':'#834fa1', 'Flash Flood':'#0245d8', 'Precipitation':'#608D3A',
+extremeColors = {'invalid':'#ffff00', 'Thunderstorm':'#53785a', 'Flood':'#030ba1', 'Storm':'#222222', 'Storm Surge':'#834fa1', 'Flash Flood':'#0245d8', 'Precipitation':'#608D3A',
                'Tsunami':'#690191', 'Drought':'#572c03', 'Earthquake':'#870047', 'Landslide':'#1C4840', 'Cold Wave':'#a7e9fa', 'Heat Wave':'#d85212', 'Iceberg':'#02b5b8',
                'Tropical Cyclone':'#4f7fbf', 'Volcano':'#b83202', 'Snow Avalanche':'#deddf5', 'unknown':'#d60d2b', 'Wildfire':'#fa0007', 'Fog':'#535271', 'Snow&Ice':'#dedde5', 'Wet Spell':'#22e91f',  
                }
 
-topicColors = {'Hazard':'#FF0000', 'Impacts':'#FFFF00', 'Mitigation':'#00FF00', 'Adaptation':'#0000FF', 'Causes':'#00FFFF', 'unknown':'#000000' }
+topicColors = {'Hazard':'#ff0000', 'Impacts':'#ffff00', 'Mitigation':'#00ff00', 'Adaptation':'#0000ff', 'Causes':'#00ffff', 'unknown':'#000000' }
 
 githubRepos = {'MarcoL95-news/earthquakeIsComing': {'Extreme':'Earthquake'}, 
                'sonjanews/DroughtIsComing': {'Extreme':'Drought'},
@@ -49,10 +49,10 @@ githubRepos = {'MarcoL95-news/earthquakeIsComing': {'Extreme':'Earthquake'},
                'Leoniews/fogIsComing': {'Extreme':'Fog'},
                'picawe-news/AvalancheIsComing': {'Extreme':'Snow Avalanche'},
                'hannak555-news/heatIsComing': {'Extreme':'Heat Wave'},
-               #'hb219-news/wetSpellIsComing': {'Extreme':'Wet Spell'},
-               #'hb219-news/droughtIsComing': {'Extreme':'Drought'},         
-               #'magaliekathrin-news/HeatIsComing': {'Extreme':'Heat Wave'},     
-               #'jannikdo28-news/RainIsComing': {'Extreme':'Precipitation'},  
+               'hb219-news/wetSpellIsComing': {'Extreme':'Wet Spell'},
+               'hb219-news/droughtIsComing': {'Extreme':'Drought'},         
+               'magaliekathrin-news/HeatIsComing': {'Extreme':'Heat Wave'},     
+               'jannikdo28-news/RainIsComing': {'Extreme':'Precipitation'},  
               }
 
 
@@ -223,6 +223,7 @@ for repo in repos:
         newsDf = pd.merge(newsDf, keysDf, how='left', left_on=['keyword'], right_on=['keyword'])
         newsDf = newsDf.dropna(subset=['topic'])
         newsDf = newsDf.drop(newsDf[newsDf.valid < 0.5].index)      ## LATER ALLOW ALL
+        ## newsDf[newsDf.valid < 0.5].extreme = 'invalid'
         if(existingDict and not newsDf.empty):
             ## later update valid flag for existing ones!
             newsDf.index = newsDf['hash']  #!!

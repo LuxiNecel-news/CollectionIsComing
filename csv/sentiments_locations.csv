@@ -14,27 +14,27 @@ China,China,LOC,-0.13999999999999999,0.0,de,10
 Himalaya,Himalaya,LOC,0.06666666666666668,0.0,de,9
 Spanien,Spanien,LOC,0.11666666666666664,0.16666666666666666,de,9
 Deutschland,Deutschland,LOC,-0.1259259259259259,0.0,de,9
-Alpen,Alpen,LOC,0.19999999999999998,0.0,de,7
+Jamaica,Jamaica,LOC,0.14285714285714285,0.0,en,7
 Bualoi,Bualoi,LOC,-0.09999999999999999,0.0,de,7
 Bergen,Bergen,LOC,-0.05714285714285713,0.14285714285714285,de,7
-Jamaica,Jamaica,LOC,0.14285714285714285,0.0,en,7
 Rheinland-Pfalz,Rheinland-Pfalz,LOC,-0.29999999999999993,0.0,de,7
+Alpen,Alpen,LOC,0.19999999999999998,0.0,de,7
 Italien,Italien,LOC,-0.35714285714285715,0.07142857142857142,de,7
+Ortler-Gebirge,Ortler-Gebirge,LOC,-0.16666666666666666,0.0,de,6
 …,…,LOC,-0.08333333333333333,0.08333333333333333,de,6
 Allgäu,Allgäu,LOC,-0.09166666666666666,0.0,de,6
-Ortler-Gebirge,Ortler-Gebirge,LOC,-0.16666666666666666,0.0,de,6
-Böen,Böen,LOC,0.0,0.0,de,5
-Bahamas,Bahamas,LOC,-0.5,0.0,de,5
 Saarland,Saarland,LOC,-0.27999999999999997,0.0,de,5
 Asien,Asien,LOC,-0.030000000000000006,0.0,de,5
+Böen,Böen,LOC,0.0,0.0,de,5
 central Philippines,central Philippines,LOC,0.0,0.0,en,5
-Sturm,Sturm,LOC,-0.2,0.0,de,5
 Haiti,Haiti,LOC,-0.10999999999999999,0.0,de,5
-Europa,Europa,LOC,-0.18333333333333335,0.0,de,4
-Toten,Toten,LOC,-0.7,0.0,de,4
+Sturm,Sturm,LOC,-0.2,0.0,de,5
+Bahamas,Bahamas,LOC,-0.5,0.0,de,5
 Baden-Württemberg,Baden-Württemberg,LOC,-0.425,0.0,de,4
+Europa,Europa,LOC,-0.18333333333333335,0.0,de,4
 Osthangs,Osthangs,LOC,0.0,0.0,de,4
 Atlantik,Atlantik,LOC,-0.25,0.0,de,4
+Toten,Toten,LOC,-0.7,0.0,de,4
 Vietnams,Vietnams,LOC,0.5249999999999999,0.0,de,4
 Trab,Trab,LOC,-0.175,0.0,de,4
 Tibet,Tibet,LOC,0.0,0.0,de,4
@@ -116,8 +116,8 @@ Irak,Irak,LOC,0.0,0.0,de,2
 Universität Innsbruck,Universität Innsbruck,LOC,0.0,0.0,de,2
 Regierungsangaben,Regierungsangaben,LOC,0.0,0.0,de,2
 bergen,bergen,LOC,0.0,0.0,de,2
-Mandeln,Mandeln,LOC,-0.35,0.0,de,2
 Hessen,Hessen,LOC,0.0,0.0,de,2
+Mandeln,Mandeln,LOC,-0.35,0.0,de,2
 Brückl,Brückl,LOC,-0.35,0.0,de,2
 Sicily,Sicily,LOC,0.5,0.0,en,2
 Krisengebieten,Krisengebieten,LOC,0.0,0.0,de,2

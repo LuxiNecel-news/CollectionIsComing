@@ -1,974 +1,607 @@
 ,phrase,label,sentiment,subjectivity,language,count
-“,“,MISC,0.44166666666666665,0.7833333333333333,de,320
 "Link
 ","Link
-",MISC,,,de,230
-Wetter“,Wetter“,MISC,,,de,66
-Zeit,Zeit,MISC,,,de,26
-deutschen,deutschen,MISC,,,de,24
-deutsche,deutsche,MISC,,,de,24
-Wettervorhersage“,Wettervorhersage“,MISC,,,de,15
-Herbst der Reformen,Herbst der Reformen,MISC,,,de,13
-Deutsche,Deutsche,MISC,,,de,12
-Wetteraussichten“,Wetteraussichten“,MISC,,,de,12
-Schweizer,Schweizer,MISC,,,de,12
-TTS Player,TTS Player,MISC,,,de,12
-DFB-Pokal,DFB-Pokal,MISC,,,de,11
-stern+statt,stern+statt,MISC,,,de,11
-Deutscher,Deutscher,MISC,,,de,11
-Sachsen,Sachsen,MISC,-0.006862745098039215,0.0,de,11
-Der Sommer,Der Sommer,MISC,,,de,10
-Capital</li><li>4,Capital</li><li>4,MISC,,,de,10
-stern+,stern+,MISC,,,de,10
-Berliner,Berliner,MISC,,,de,9
-Hamburger,Hamburger,MISC,,,de,8
-Nutrias,Nutrias,MISC,,,de,8
-indonesischen,indonesischen,MISC,,,de,7
-Wetterbericht“,Wetterbericht“,MISC,,,de,7
-indischen,indischen,MISC,,,de,7
-Live-Karten,Live-Karten,MISC,-1.15,0.0,de,7
-Obsternte,Obsternte,MISC,,,de,7
-Landeserntedankfest,Landeserntedankfest,MISC,-1.0,0.0,de,6
-Der Herbst,Der Herbst,MISC,,,de,6
-Tatort,Tatort,MISC,,,de,6
-deutscher,deutscher,MISC,,,de,6
-…,…,MISC,0.034,0.04,de,6
-russischen,russischen,MISC,,,de,6
-Gletsc…,Gletsc…,MISC,,,de,5
-d…,d…,MISC,0.0,0.25,de,5
-italienische,italienische,MISC,,,de,5
-Deutschem,Deutschem,MISC,,,de,5
-Herbst,Herbst,MISC,0.0,0.0,de,5
-Wetterausblick“,Wetterausblick“,MISC,,,de,5
-Kino-Programm,Kino-Programm,MISC,,,de,4
-Herbst der Reformen“,Herbst der Reformen“,MISC,,,de,4
-Ernte“,Ernte“,MISC,,,de,4
-Deadline Day,Deadline Day,MISC,,,de,4
-Haselnüsse,Haselnüsse,MISC,,,de,4
-Nabu,Nabu,MISC,,,de,4
-russische,russische,MISC,,,de,4
-bayerische,bayerische,MISC,,,de,4
-Agrar“,Agrar“,MISC,,,de,4
-Sturm und Regen,Sturm und Regen,MISC,,,de,4
-ten Hag,ten Hag,MISC,,,de,4
-Anschluss,Anschluss,MISC,,,de,4
-Tages,Tages,MISC,,,de,4
-französische,französische,MISC,,,de,4
-Weihnachtspost,Weihnachtspost,MISC,,,de,4
-Premier League,Premier League,MISC,,,de,4
-Sonne und Regen,Sonne und Regen,MISC,,,de,4
-Abi-Kasse,Abi-Kasse,MISC,,,de,3
-Klimawandel“,Klimawandel“,MISC,,,de,3
-Karlsruhe,Karlsruhe,MISC,,,de,3
-ePaper,ePaper,MISC,,,de,3
-Haselnusspreise,Haselnusspreise,MISC,,,de,3
-Federweißer-Saison,Federweißer-Saison,MISC,,,de,3
-Weinlese“,Weinlese“,MISC,,,de,3
-Cup,Cup,MISC,,,de,3
-Altes Land,Altes Land,MISC,1.275,0.0,de,3
-Federweißen,Federweißen,MISC,,,de,3
-Spiele,Spiele,MISC,,,de,3
-Deutsche Weininstitut,Deutsche Weininstitut,MISC,,,de,3
-Herbst“,Herbst“,MISC,,,de,3
-britische,britische,MISC,,,de,3
-Kühles Herbstwetter,Kühles Herbstwetter,MISC,,,de,3
-Sommerwetter“,Sommerwetter“,MISC,,,de,3
-WM in Saudi-Arabien,WM in Saudi-Arabien,MISC,,,de,3
-Bodensee-Bauern,Bodensee-Bauern,MISC,,,de,3
-Wachau-Marathon,Wachau-Marathon,MISC,,,de,3
-Katastrophe,Katastrophe,MISC,,,de,3
-DAB+,DAB+,MISC,,,de,3
-englischen,englischen,MISC,,,de,3
-Jahr 2033,Jahr 2033,MISC,,,de,3
-WOW,WOW,MISC,,,de,3
-Wein-Bilanz,Wein-Bilanz,MISC,,,de,3
-Erntebilanz“,Erntebilanz“,MISC,,,de,3
-Wetterbilanz“,Wetterbilanz“,MISC,,,de,3
-’s,’s,MISC,,,de,3
-Google,Google,MISC,,,de,3
-europäische,europäische,MISC,,,de,3
-Deutschen,Deutschen,MISC,,,de,3
-Mengen topp,Mengen topp,MISC,,,de,3
-Oktober-Wochenende,Oktober-Wochenende,MISC,,,de,3
-australischen,australischen,MISC,,,de,3
-hessischen,hessischen,MISC,,,de,3
-Wetterprognose“,Wetterprognose“,MISC,,,de,3
-palästinensische,palästinensische,MISC,,,de,3
-DeepL,DeepL,MISC,,,de,3
-Wochenmitte,Wochenmitte,MISC,0.0,0.0,de,3
-XXL-Skigebiet,XXL-Skigebiet,MISC,,,de,2
-IPO-Pläne,IPO-Pläne,MISC,,,de,2
-Leopard Club Award,Leopard Club Award,MISC,,,de,2
-Berlin im August,Berlin im August,MISC,,,de,2
-kommunistischen,kommunistischen,MISC,,,de,2
-The Colors of Snow,The Colors of Snow,MISC,,,de,2
-The Dead of Winter,The Dead of Winter,MISC,,,de,2
-jedes Jahr,jedes Jahr,MISC,,,de,2
-Polizeiruf 110,Polizeiruf 110,MISC,,,de,2
-Holocaust,Holocaust,MISC,,,de,2
-hessische,hessische,MISC,,,de,2
-Euro,Euro,MISC,,,de,2
-Hochwasser-Folgen,Hochwasser-Folgen,MISC,,,de,2
-Thüringens Weinbauern,Thüringens Weinbauern,MISC,,,de,2
-Pfingsten,Pfingsten,MISC,,,de,2
-Vierschanzentournee,Vierschanzentournee,MISC,,,de,2
-Jahr weite Teile der Ernte,Jahr weite Teile der Ernte,MISC,,,de,2
-Kunstgriff Dithmarschen,Kunstgriff Dithmarschen,MISC,,,de,2
-R…,R…,MISC,,,de,2
-Leyla,Leyla,MISC,,,de,2
-Leipziger,Leipziger,MISC,,,de,2
-Hochzeits-Festspiele,Hochzeits-Festspiele,MISC,,,de,2
-Ukrainer,Ukrainer,MISC,,,de,2
-Ostern,Ostern,MISC,,,de,2
-Vorja…,Vorja…,MISC,,,de,2
-Deutschen Weininstitut,Deutschen Weininstitut,MISC,,,de,2
-Die Schwestern Grimm“,Die Schwestern Grimm“,MISC,,,de,2
-Herbst zu lieben,Herbst zu lieben,MISC,,,de,2
-Die Ernte der dicken Früchte,Die Ernte der dicken Früchte,MISC,,,de,2
-Amazon,Amazon,MISC,,,de,2
-Tag,Tag,MISC,0.7,0.0,de,2
-Nordseeküste,Nordseeküste,MISC,0.0,0.0,de,2
-CO₂-Emissionen,CO₂-Emissionen,MISC,,,de,2
-e…,e…,MISC,,,de,2
-Grünes Wissen to go,Grünes Wissen to go,MISC,,,de,2
-Winter-Vorbereitungen,Winter-Vorbereitungen,MISC,,,de,2
-Weinanbau“,Weinanbau“,MISC,,,de,2
-BILDplay,BILDplay,MISC,,,de,2
-BRIG…,BRIG…,MISC,,,de,2
-Paris Fashion Week,Paris Fashion Week,MISC,,,de,2
-Gutes Wetter,Gutes Wetter,MISC,,,de,2
-Radmode für Männer,Radmode für Männer,MISC,,,de,2
-S…,S…,MISC,,,de,2
-i…,i…,MISC,,,de,2
-Halloween-Kürbisse,Halloween-Kürbisse,MISC,,,de,2
-Vogue,Vogue,MISC,,,de,2
-Regenwasser-Klimamanagement,Regenwasser-Klimamanagement,MISC,,,de,2
-Wetter-Vorhersage“,Wetter-Vorhersage“,MISC,,,de,2
-Dienstagnachmittag,Dienstagnachmittag,MISC,,,de,2
-Freistaat,Freistaat,MISC,0.0,0.0,de,2
-Kürbis-König,Kürbis-König,MISC,,,de,2
-IAA,IAA,MISC,,,de,2
-schwedischen,schwedischen,MISC,,,de,2
-Tagessieg,Tagessieg,MISC,,,de,2
-Wochenstart“,Wochenstart“,MISC,,,de,2
-Abo verspr…,Abo verspr…,MISC,,,de,2
-Wetter-Situation am Samstag,Wetter-Situation am Samstag,MISC,,,de,2
-Netflix,Netflix,MISC,0.0,0.0,de,2
-Trump,Trump,MISC,,,de,2
+",MISC,,,de,55
+deutsche,deutsche,MISC,,,de,28
+Deutsche,Deutsche,MISC,,,de,13
+“,“,MISC,-0.7,0.0,de,12
+Hurrikan Melissa,Hurrikan Melissa,MISC,,,de,11
+deutschen,deutschen,MISC,,,de,11
+Schweizer,Schweizer,MISC,,,de,8
+Deutscher,Deutscher,MISC,,,de,8
+Hurrikan,Hurrikan,MISC,1.133333333333333,0.0,de,7
+Super-Taifun,Super-Taifun,MISC,,,de,7
+Bualoi“,Bualoi“,MISC,,,de,6
+flooding set off by the storm,flooding set off by the storm,MISC,,,en,5
+Zahl der Toten,Zahl der Toten,MISC,,,de,5
+The death toll,The death toll,MISC,,,en,5
+Canada were associated with wildfire smoke pollution as climate change takes,Canada were associated with wildfire smoke pollution as climate change takes,MISC,,,en,4
+We are not responsible for them in any way,We are not responsible for them in any way,MISC,,,en,4
+O…,O…,MISC,,,de,4
+…,…,MISC,0.0,0.0,de,3
+"This may be due to a browser
+ extension","This may be due to a browser
+ extension",MISC,,,en,3
+jamaikanische,jamaikanische,MISC,,,de,3
+A required part of this site couldnt load,A required part of this site couldnt load,MISC,,,en,3
+"Please check your
+ connection","Please check your
+ connection",MISC,,,en,3
+The death toll from a week of flooding and record rains,The death toll from a week of flooding and record rains,MISC,,,en,3
+lm-deluge,lm-deluge,MISC,,,en,3
+Gletsc…,Gletsc…,MISC,,,de,3
+Sturm und Schnee,Sturm und Schnee,MISC,,,de,3
+Stunde-Null-Dürre,Stunde-Null-Dürre,MISC,,,de,3
+Category 5,Category 5,MISC,,,en,3
+officials said,officials said,MISC,,,en,3
+Typhoon Kalmaegi,Typhoon Kalmaegi,MISC,,,en,2
+trapping people on their roofs and submerging cars,trapping people on their roofs and submerging cars,MISC,,,en,2
+It landed on Netflix for its general release after a limited run,It landed on Netflix for its general release after a limited run,MISC,,,en,2
+much more than last year and well above the province's,much more than last year and well above the province's,MISC,,,en,2
+according to the police chief for the worst-affected area,according to the police chief for the worst-affected area,MISC,,,en,2
+new video showing the catastrophic damage,new video showing the catastrophic damage,MISC,,,en,2
+With the opening of temporary tracks on several flood-damaged sections of the BP Highway,With the opening of temporary tracks on several flood-damaged sections of the BP Highway,MISC,,,en,2
+repair work has now commenced,repair work has now commenced,MISC,,,en,2
+At least 46 people,At least 46 people,MISC,,,en,2
+Vietnam flood death toll hits 40 as,Vietnam flood death toll hits 40 as,MISC,,,en,2
+the strongest storm ever to strike Jamaica as a Category 5,the strongest storm ever to strike Jamaica as a Category 5,MISC,,,en,2
+central Vietnam rose to 40 on Tuesday,central Vietnam rose to 40 on Tuesday,MISC,0.15000000000000002,0.0,en,2
+Taifun Kalmaegi,Taifun Kalmaegi,MISC,,,de,2
+Already,Already,MISC,,,en,2
+Typhoon Kalmaegi slammed into the Philippines with heavy rains and strong winds,Typhoon Kalmaegi slammed into the Philippines with heavy rains and strong winds,MISC,,,en,2
+more than two dozen Floridians,more than two dozen Floridians,MISC,,,en,2
+rose to 47 on Sunday as the fallout mounted from flooding and landslides,rose to 47 on Sunday as the fallout mounted from flooding and landslides,MISC,,,en,2
+Sets record as most intense hurricane to make landfall,Sets record as most intense hurricane to make landfall,MISC,,,en,2
+Ontario this wildfire season,Ontario this wildfire season,MISC,,,en,2
+"The Ministry of Natural Resources says nearly 6,000 square","The Ministry of Natural Resources says nearly 6,000 square",MISC,,,en,2
+Gefährlicher Wirbelsturm,Gefährlicher Wirbelsturm,MISC,,,de,2
+From Storm To Solidarity,From Storm To Solidarity,MISC,,,en,2
+Jamaica Still Cut Off as Death Toll ClimbsThe New York Times,Jamaica Still Cut Off as Death Toll ClimbsThe New York Times,MISC,,,en,2
+Oct,Oct,MISC,0.0,0.0,en,2
+Hurricane Melissa death toll rises to 28,Hurricane Melissa death toll rises to 28,MISC,,,en,2
+Capital</li><li>4,Capital</li><li>4,MISC,,,de,2
+stern+,stern+,MISC,,,de,2
+stern+statt,stern+statt,MISC,,,de,2
+Bergsteiger-Gruppe,Bergsteiger-Gruppe,MISC,,,de,2
+inches,inches,MISC,,,en,2
+Außenwelt,Außenwelt,MISC,,,de,2
+Palmetto Publishing presents insights from Thomas Pandola,Palmetto Publishing presents insights from Thomas Pandola,MISC,,,en,2
+Fiat 126,Fiat 126,MISC,,,en,2
+acquired by Volcano Restoration Project,acquired by Volcano Restoration Project,MISC,,,en,2
+Purple paint is complemented by a floral-patterned,Purple paint is complemented by a floral-patterned,MISC,,,en,2
+Deutschen,Deutschen,MISC,,,de,2
+’s,’s,MISC,,,en,2
+Caribbean,Caribbean,MISC,,,en,2
+italienische,italienische,MISC,,,de,2
+this eerie scene is no longer rare,this eerie scene is no longer rare,MISC,,,en,2
+For millions of Americans,For millions of Americans,MISC,,,en,2
+The sun dims behind a thick veil of smoke,The sun dims behind a thick veil of smoke,MISC,,,en,2
+The sky turns a rusty orange,The sky turns a rusty orange,MISC,,,en,2
+Melissa,Melissa,MISC,-0.3333333333333333,0.3333333333333333,de,2
+WATCH,WATCH,MISC,,,en,2
+intense Category,intense Category,MISC,,,en,2
+Kriegsbeginn,Kriegsbeginn,MISC,,,de,2
+threatened to bring catastrophic winds,threatened to bring catastrophic winds,MISC,,,en,2
+Hurrikan Kurs,Hurrikan Kurs,MISC,,,de,2
+meteorologists warn residents to stay vigilant as warm,meteorologists warn residents to stay vigilant as warm,MISC,,,en,2
+different states around the country,different states around the country,MISC,,,en,2
+Betroffenen im Jahr 2024,Betroffenen im Jahr 2024,MISC,,,de,2
+Jamaica after hurricane,Jamaica after hurricane,MISC,,,en,2
+CO2-Emissionen,CO2-Emissionen,MISC,,,de,2
 spanische,spanische,MISC,,,de,2
-Die neue Woche,Die neue Woche,MISC,,,de,2
-Grenze,Grenze,MISC,,,de,2
-Türkis-Rot-Pink,Türkis-Rot-Pink,MISC,,,de,2
-Schilf-Glasflügelzikade,Schilf-Glasflügelzikade,MISC,,,de,2
-Smart-Home-Gadgets,Smart-Home-Gadgets,MISC,,,de,2
-Goldener Herbst,Goldener Herbst,MISC,,,de,2
-Null Starter,Null Starter,MISC,,,de,2
-Gr…,Gr…,MISC,,,de,2
-Parlamentswahlen 2026,Parlamentswahlen 2026,MISC,,,de,2
-Ungarische,Ungarische,MISC,,,de,2
-Gen Z,Gen Z,MISC,,,de,2
-Freestyle-Queen,Freestyle-Queen,MISC,,,de,2
-Wetter in Bayern“,Wetter in Bayern“,MISC,,,de,2
-La…,La…,MISC,,,de,2
-Schnee“,Schnee“,MISC,,,de,2
-Olympischen Spielen in Paris,Olympischen Spielen in Paris,MISC,,,de,2
-Der bunte Herbst,Der bunte Herbst,MISC,,,de,2
+Freistaat,Freistaat,MISC,,,de,2
+the hope of finding bottled water or other supplies,the hope of finding bottled water or other supplies,MISC,,,en,2
 US-amerikanischen,US-amerikanischen,MISC,,,de,2
-Tag der Deutschen Einheit,Tag der Deutschen Einheit,MISC,,,de,2
-T…,T…,MISC,,,de,2
-mexikanischen,mexikanischen,MISC,,,de,2
-U…,U…,MISC,,,de,2
-Monsun-Regenfälle,Monsun-Regenfälle,MISC,,,de,2
-Angriff auf Moskau,Angriff auf Moskau,MISC,,,de,2
-israelische,israelische,MISC,,,de,2
-Die WELT,Die WELT,MISC,,,de,2
-Naturschutz“,Naturschutz“,MISC,,,de,2
-Olympischen Winterspielen,Olympischen Winterspielen,MISC,,,de,2
-beste Zeit,beste Zeit,MISC,,,de,2
-sächsischen,sächsischen,MISC,,,de,2
-europäischen,europäischen,MISC,,,de,2
-Uhren,Uhren,MISC,,,de,2
-britischer,britischer,MISC,,,de,2
-Eich…,Eich…,MISC,,,de,2
-Grill-Diplomaten,Grill-Diplomaten,MISC,,,de,2
-DWD-Prognose,DWD-Prognose,MISC,,,de,2
-steirischen,steirischen,MISC,,,de,2
-Corona-Zeit,Corona-Zeit,MISC,,,de,2
-Frisches Obst,Frisches Obst,MISC,,,de,2
-Müsli,Müsli,MISC,0.0,0.0,de,2
-Project Winter,Project Winter,MISC,,,de,2
-Samorost 2,Samorost 2,MISC,,,de,2
-Postler radeln,Postler radeln,MISC,,,de,2
-Israelische,Israelische,MISC,,,de,2
-Sturm und Schnee,Sturm und Schnee,MISC,,,de,2
-Multiplayer-Survival,Multiplayer-Survival,MISC,,,de,2
-grossen deutschen Anbaugebiete unter dem nassen Wetter,grossen deutschen Anbaugebiete unter dem nassen Wetter,MISC,,,de,2
-Wirtschaftswende,Wirtschaftswende,MISC,,,de,2
-Apfelernte“,Apfelernte“,MISC,,,de,2
-Zwölf Jahre nach dem Hochwasser,Zwölf Jahre nach dem Hochwasser,MISC,,,de,2
-Gute Apfelerträge in Hessen,Gute Apfelerträge in Hessen,MISC,,,de,2
-Sonne“,Sonne“,MISC,,,de,2
-Wiener,Wiener,MISC,,,de,2
-Grill-Attraktion,Grill-Attraktion,MISC,,,de,2
-Landwirtschafts-Monster,Landwirtschafts-Monster,MISC,,,de,2
-ukrainische,ukrainische,MISC,,,de,2
-Arabischen Frühling,Arabischen Frühling,MISC,,,de,2
-Kölner,Kölner,MISC,,,de,2
-Pfirsich-Spritzer,Pfirsich-Spritzer,MISC,,,de,2
-n…,n…,MISC,,,de,2
-Ein Jahr nach dem Hochwasser,Ein Jahr nach dem Hochwasser,MISC,,,de,2
-Winter is coming,Winter is coming,MISC,,,de,2
-Urlaub“,Urlaub“,MISC,,,de,2
-iPadOS 26,iPadOS 26,MISC,,,de,2
-Todesopfer auf mindestens 19,Todesopfer auf mindestens 19,MISC,,,de,2
-Krieg in der Ukraine,Krieg in der Ukraine,MISC,,,de,2
-Live-Sport,Live-Sport,MISC,0.7,1.0,de,2
-Earth“,Earth“,MISC,,,de,2
-US-Zölle,US-Zölle,MISC,,,de,2
-Erstrunden-Partie,Erstrunden-Partie,MISC,,,de,2
-a…,a…,MISC,,,de,2
-Gewitter“,Gewitter“,MISC,,,de,2
-Ballermann-Saison,Ballermann-Saison,MISC,,,de,2
-Höhenangst,Höhenangst,MISC,,,de,2
-Olympischen Winterspiele,Olympischen Winterspiele,MISC,,,de,2
-soziale,soziale,MISC,,,de,2
-Bartenderin des Jahres,Bartenderin des Jahres,MISC,,,de,2
-Hause,Hause,MISC,,,de,2
-Cozy Games,Cozy Games,MISC,,,de,2
-Weltcup-Saison,Weltcup-Saison,MISC,,,de,2
-Shutterstock.com,Shutterstock.com,MISC,,,de,2
-P…,P…,MISC,,,de,2
-Wetterwechs…,Wetterwechs…,MISC,,,de,1
-Dead of Winter – Eisige Stille,Dead of Winter – Eisige Stille,MISC,,,de,1
-Ein letztes Mal Sommer-Feeling,Ein letztes Mal Sommer-Feeling,MISC,,,de,1
-Staudä…,Staudä…,MISC,,,de,1
-Beaver,Beaver,MISC,,,de,1
-Blaulicht“,Blaulicht“,MISC,,,de,1
-Hochwasserübung“,Hochwasserübung“,MISC,,,de,1
-Schweizer Weinbauern,Schweizer Weinbauern,MISC,,,de,1
-Tag“,Tag“,MISC,,,de,1
-Eisige Stille,Eisige Stille,MISC,,,de,1
-ve…,ve…,MISC,,,de,1
-Pluszeichen“,Pluszeichen“,MISC,,,de,1
-Intermezzo i…,Intermezzo i…,MISC,,,de,1
-Nager-Reviere,Nager-Reviere,MISC,,,de,1
-nic…,nic…,MISC,,,de,1
-Chr…,Chr…,MISC,,,de,1
-Die Herbstdeichschauen,Die Herbstdeichschauen,MISC,,,de,1
-Hohe Temperaturen“,Hohe Temperaturen“,MISC,,,de,1
-Niedersa…,Niedersa…,MISC,,,de,1
-Die invasive Art,Die invasive Art,MISC,,,de,1
-Wassertouren,Wassertouren,MISC,,,de,1
-Getreidebauern,Getreidebauern,MISC,,,de,1
-Oldenburgia,Oldenburgia,MISC,0.23333333333333328,0.0,de,1
-deutschen Teams,deutschen Teams,MISC,,,de,1
-Winter-Olympia,Winter-Olympia,MISC,,,de,1
-Russische,Russische,MISC,,,de,1
-WM-Bronze,WM-Bronze,MISC,,,de,1
-Weltkindertag“,Weltkindertag“,MISC,,,de,1
-Erntebeginn“,Erntebeginn“,MISC,,,de,1
-Tag für Tag mi…,Tag für Tag mi…,MISC,,,de,1
-Déjeuner  ,Déjeuner  ,MISC,,,de,1
-nächsten Jahr,nächsten Jahr,MISC,,,de,1
-T46,T46,MISC,,,de,1
-Hopfenpflanzer“,Hopfenpflanzer“,MISC,,,de,1
-Wassertouren unternehme…,Wassertouren unternehme…,MISC,,,de,1
-Jahr für Landwirte,Jahr für Landwirte,MISC,,,de,1
-Erntedank in Bayern“,Erntedank in Bayern“,MISC,,,de,1
-Invasive Nutrias“,Invasive Nutrias“,MISC,,,de,1
-Das deutsche Gewichtheben,Das deutsche Gewichtheben,MISC,,,de,1
-Xi,Xi,MISC,,,de,1
-Tiktok-Deal,Tiktok-Deal,MISC,,,de,1
-Shutdown“,Shutdown“,MISC,,,de,1
-Winterspiele in Italien“,Winterspiele in Italien“,MISC,,,de,1
-amerikanische,amerikanische,MISC,,,de,1
-Wolfsburg-Star,Wolfsburg-Star,MISC,,,de,1
-Birnen,Birnen,MISC,,,de,1
-Sommer-Bilanz“,Sommer-Bilanz“,MISC,,,de,1
-Winzer,Winzer,MISC,,,de,1
-Freyburg-Unstrut,Freyburg-Unstrut,MISC,,,de,1
-Top-Weinjahrgang,Top-Weinjahrgang,MISC,,,de,1
-rheinhessische,rheinhessische,MISC,,,de,1
-Sonne statt Schnee,Sonne statt Schnee,MISC,,,de,1
-Ballon d’Or,Ballon d’Or,MISC,,,de,1
-Mini-Schwammerl im Hochgebirge,Mini-Schwammerl im Hochgebirge,MISC,,,de,1
-Im Jahr 2024,Im Jahr 2024,MISC,,,de,1
-Zentral-BC,Zentral-BC,MISC,,,de,1
-Men…,Men…,MISC,,,de,1
-Indonesische,Indonesische,MISC,,,de,1
-Blättermeer,Blättermeer,MISC,,,de,1
-Wärmewende“,Wärmewende“,MISC,,,de,1
-burgenländischen Weinbauern,burgenländischen Weinbauern,MISC,,,de,1
-Hel…,Hel…,MISC,,,de,1
-Der Einfluss eines Hochdruckgebietes,Der Einfluss eines Hochdruckgebietes,MISC,,,de,1
-Salatköpfe u…,Salatköpfe u…,MISC,,,de,1
-Wetterlage,Wetterlage,MISC,,,de,1
-Kampfmittelbeseitiger,Kampfmittelbeseitiger,MISC,,,de,1
-Kampfmittelbes…,Kampfmittelbes…,MISC,,,de,1
-Notfälle“,Notfälle“,MISC,,,de,1
-Regenjacke und Regen,Regenjacke und Regen,MISC,,,de,1
-PV-Anlagen auf Flachdächern,PV-Anlagen auf Flachdächern,MISC,,,de,1
-PV-Anlage,PV-Anlage,MISC,,,de,1
-Hochwasser …,Hochwasser …,MISC,,,de,1
-Prognose“,Prognose“,MISC,,,de,1
-Eintracht-Athleten,Eintracht-Athleten,MISC,,,de,1
-r…,r…,MISC,,,de,1
-Voigt,Voigt,MISC,,,de,1
-Das sind die besten Wintereifen,Das sind die besten Wintereifen,MISC,,,de,1
-Konferenz“,Konferenz“,MISC,,,de,1
-Voriges Jahr,Voriges Jahr,MISC,,,de,1
-BASIC thinking,BASIC thinking,MISC,,,de,1
-UPDATE startest du jeden Morgen,UPDATE startest du jeden Morgen,MISC,,,de,1
-Apfel-Schwemme,Apfel-Schwemme,MISC,,,de,1
-Ernstfall“,Ernstfall“,MISC,,,de,1
-Made in Germany,Made in Germany,MISC,,,de,1
-Sanierungsarbeiten,Sanierungsarbeiten,MISC,,,de,1
-Groß-Aggschussgrabe…,Groß-Aggschussgrabe…,MISC,,,de,1
-Todesopfer - Hochwasser-Drama,Todesopfer - Hochwasser-Drama,MISC,,,de,1
-Zeit“,Zeit“,MISC,,,de,1
-Wechsel im Winter,Wechsel im Winter,MISC,,,de,1
-Ukra…,Ukra…,MISC,,,de,1
-Wende,Wende,MISC,,,de,1
-ehemal…,ehemal…,MISC,,,de,1
-Urlaub in Fort Myers - Beach-Life,Urlaub in Fort Myers - Beach-Life,MISC,,,de,1
-Der Regen,Der Regen,MISC,,,de,1
-nass-kühlen,nass-kühlen,MISC,,,de,1
-Jahr 2025,Jahr 2025,MISC,,,de,1
-Ru…,Ru…,MISC,,,de,1
-Willkommen an der Westküste,Willkommen an der Westküste,MISC,,,de,1
-Greencard könnt ihr maximal 90 Tage,Greencard könnt ihr maximal 90 Tage,MISC,,,de,1
-Akku-Laubbläser,Akku-Laubbläser,MISC,,,de,1
-Amazon-Deal,Amazon-Deal,MISC,,,de,1
-Zugvögel am Himmel,Zugvögel am Himmel,MISC,,,de,1
-Gratis-Spiele,Gratis-Spiele,MISC,,,de,1
-T-Shirt-Wetter,T-Shirt-Wetter,MISC,,,de,1
-Wetteraussicht“,Wetteraussicht“,MISC,,,de,1
-Ratgeber,Ratgeber,MISC,,,de,1
-XL-Federmäppchen,XL-Federmäppchen,MISC,,,de,1
-Londoner,Londoner,MISC,,,de,1
-AP Kamera One volcaho,AP Kamera One volcaho,MISC,,,de,1
-Rückschnitt,Rückschnitt,MISC,,,de,1
-Reformdebatte“,Reformdebatte“,MISC,,,de,1
-Untergangs,Untergangs,MISC,,,de,1
-Luxusjacht-Unglück,Luxusjacht-Unglück,MISC,,,de,1
-Back to School-Monat,Back to School-Monat,MISC,,,de,1
-Vitaminreiches,Vitaminreiches,MISC,,,de,1
-Back to High S,Back to High S,MISC,,,de,1
-… ...,… ...,MISC,,,de,1
-Safety-Modus,Safety-Modus,MISC,0.0,0.0,de,1
-Verkehr“,Verkehr“,MISC,,,de,1
-Toten“,Toten“,MISC,,,de,1
-Ein Jahr nach Flutkatastrophe,Ein Jahr nach Flutkatastrophe,MISC,,,de,1
-ukrainischen,ukrainischen,MISC,,,de,1
-Schlechtwetter-Sommer“,Schlechtwetter-Sommer“,MISC,,,de,1
-Nutria-Invasion,Nutria-Invasion,MISC,,,de,1
-"Stichwort
-Weltlage","Stichwort
-Weltlage",MISC,,,de,1
-Fak…,Fak…,MISC,,,de,1
-Spinnen im Winter,Spinnen im Winter,MISC,,,de,1
-Herbst a…,Herbst a…,MISC,,,de,1
-Tischtennis-EM,Tischtennis-EM,MISC,,,de,1
-Tischtennis-Team-EM,Tischtennis-Team-EM,MISC,,,de,1
-deutschen Tischtennis-Frauen,deutschen Tischtennis-Frauen,MISC,,,de,1
-Mannschafts-EM,Mannschafts-EM,MISC,,,de,1
-kroatischen,kroatischen,MISC,,,de,1
-Mission Titelverteidigung,Mission Titelverteidigung,MISC,,,de,1
-"Herbst
-","Herbst
-",MISC,,,de,1
-Willkommen im schrägen Universum,Willkommen im schrägen Universum,MISC,,,de,1
-Winterflugplan 2025/26,Winterflugplan 2025/26,MISC,,,de,1
-Sister Europe,Sister Europe,MISC,,,de,1
-Herbst-Schmuddelwetter,Herbst-Schmuddelwetter,MISC,,,de,1
-Saarlan…,Saarlan…,MISC,,,de,1
-Menschen i…,Menschen i…,MISC,,,de,1
-eingegroovt,eingegroovt,MISC,,,de,1
-DNA-Kristalle,DNA-Kristalle,MISC,,,de,1
-"Blütenform
-","Blütenform
-",MISC,,,de,1
-Tieren“,Tieren“,MISC,,,de,1
-Wildunfälle,Wildunfälle,MISC,,,de,1
-Qualifying,Qualifying,MISC,,,de,1
-Der Krieg,Der Krieg,MISC,,,de,1
-Jahreszeit,Jahreszeit,MISC,,,de,1
-Hörerlebnis“,Hörerlebnis“,MISC,,,de,1
-Neue Audio-Tour,Neue Audio-Tour,MISC,,,de,1
-Alice,Alice,MISC,,,de,1
-September-Regen,September-Regen,MISC,,,de,1
-Köln/Münster,Köln/Münster,MISC,,,de,1
-lnw,lnw,MISC,,,de,1
-Dieses Jahr ernten die deutschen Weinbaubetriebe,Dieses Jahr ernten die deutschen Weinbaubetriebe,MISC,,,de,1
-Herbst in Bayern,Herbst in Bayern,MISC,,,de,1
-Reformen,Reformen,MISC,0.7,0.0,de,1
-Lieferservice,Lieferservice,MISC,,,de,1
-Die Moselwinzer,Die Moselwinzer,MISC,,,de,1
-Bücher“,Bücher“,MISC,,,de,1
-Buch zum Buch,Buch zum Buch,MISC,,,de,1
-Obers…,Obers…,MISC,,,de,1
-Tatve…,Tatve…,MISC,,,de,1
-"True2Track""-System","True2Track""-System",MISC,,,de,1
-iRacing,iRacing,MISC,,,de,1
-Assetto Corsa,Assetto Corsa,MISC,,,de,1
-Gran Turismo,Gran Turismo,MISC,,,de,1
-Fußball-WM,Fußball-WM,MISC,,,de,1
-GenZ 212“,GenZ 212“,MISC,,,de,1
-Arabischen Frühling“,Arabischen Frühling“,MISC,,,de,1
-Alte Buchen…,Alte Buchen…,MISC,,,de,1
-XXL-Grill,XXL-Grill,MISC,,,de,1
-Festival De Otoño Cuauhtemoc21.10.2025,Festival De Otoño Cuauhtemoc21.10.2025,MISC,,,de,1
-Brunnenkresse Saison,Brunnenkresse Saison,MISC,,,de,1
-Hause aus bald,Hause aus bald,MISC,,,de,1
-Bahnverkehrs,Bahnverkehrs,MISC,,,de,1
-Einbruchs-Hochsaison Tipps,Einbruchs-Hochsaison Tipps,MISC,,,de,1
-Herbst ist Einbruchzeit“,Herbst ist Einbruchzeit“,MISC,,,de,1
-Jahr 1812,Jahr 1812,MISC,,,de,1
-dieses Jahr,dieses Jahr,MISC,,,de,1
-Tiere“,Tiere“,MISC,,,de,1
-Kilome…,Kilome…,MISC,,,de,1
-Was macht der Klimawandel,Was macht der Klimawandel,MISC,,,de,1
-Mord im Alten Land,Mord im Alten Land,MISC,,,de,1
-rumänischer,rumänischer,MISC,,,de,1
-Stürmischer Wochenstart,Stürmischer Wochenstart,MISC,,,de,1
-Rückzugsmöglichkei…,Rückzugsmöglichkei…,MISC,,,de,1
-Wechselhaft und windiges Wetter +++ Auf der Wasserkuppe,Wechselhaft und windiges Wetter +++ Auf der Wasserkuppe,MISC,,,de,1
-Schneefall“,Schneefall“,MISC,,,de,1
-he...,he...,MISC,,,de,1
-Partyschlager“,Partyschlager“,MISC,,,de,1
-Ballermann,Ballermann,MISC,,,de,1
-Zweitliga-Meister,Zweitliga-Meister,MISC,,,de,1
-Weiße Einfahrt,Weiße Einfahrt,MISC,,,de,1
-Kriegswinter,Kriegswinter,MISC,,,de,1
-Date Ideen,Date Ideen,MISC,,,de,1
-Herbs…,Herbs…,MISC,,,de,1
-Reform“,Reform“,MISC,,,de,1
-Superfood,Superfood,MISC,,,de,1
-Schulen“,Schulen“,MISC,,,de,1
-"Harry Potter""-Strickkleid","Harry Potter""-Strickkleid",MISC,,,de,1
-Harry Potter“-Strickkleid,Harry Potter“-Strickkleid,MISC,,,de,1
-Harry Potter-Strickkleid,Harry Potter-Strickkleid,MISC,,,de,1
-Monster Muse,Monster Muse,MISC,,,de,1
-"Harry Potter""-Kuscheldecke","Harry Potter""-Kuscheldecke",MISC,,,de,1
-Harry Potter-Filmen …,Harry Potter-Filmen …,MISC,,,de,1
-Herbstes,Herbstes,MISC,,,de,1
-Didebashvili,Didebashvili,MISC,,,de,1
-GEO,GEO,MISC,,,de,1
-BILD-Weinkolumnisten,BILD-Weinkolumnisten,MISC,,,de,1
-Bun…,Bun…,MISC,,,de,1
-Video,Video,MISC,,,de,1
-Exponiert k,Exponiert k,MISC,,,de,1
-Spanischer,Spanischer,MISC,,,de,1
-Paella,Paella,MISC,0.0,0.0,de,1
-Mensc…,Mensc…,MISC,,,de,1
-Herbststurm“,Herbststurm“,MISC,,,de,1
+active volcano,active volcano,MISC,,,en,2
+hovering over,hovering over,MISC,,,en,2
+place for the second-longest ever duration,place for the second-longest ever duration,MISC,,,en,2
+eclipsing storm Mangkhut but falling short of,eclipsing storm Mangkhut but falling short of,MISC,,,en,2
+"killing more than 800 and injuring 2,500","killing more than 800 and injuring 2,500",MISC,,,en,2
+Nine states across the southern Plains are under the threat of severe thunderstorms,Nine states across the southern Plains are under the threat of severe thunderstorms,MISC,,,en,2
+all-out record,all-out record,MISC,,,en,2
+which barrelled across the central part of the country on Tuesday,which barrelled across the central part of the country on Tuesday,MISC,,,en,2
+takes hold,takes hold,MISC,,,en,2
+Scavenging for food,Scavenging for food,MISC,,,en,2
+Ryder Cup,Ryder Cup,MISC,,,de,2
+with certain communities,with certain communities,MISC,,,en,2
+Experts weigh,Experts weigh,MISC,,,en,2
+this week,this week,MISC,,,en,2
+Jamaica from Hurricane Melissa,Jamaica from Hurricane Melissa,MISC,,,en,2
+with parts of ,with parts of ,MISC,,,en,2
+Others jump into damaged,Others jump into damaged,MISC,,,en,2
+a super volcano outside of Naples is stirring,a super volcano outside of Naples is stirring,MISC,,,en,2
+total darkness,total darkness,MISC,,,en,2
+Zeit,Zeit,MISC,,,de,2
+according to,according to,MISC,,,en,2
+Jamaica after Hurricane Melissa could rise,Jamaica after Hurricane Melissa could rise,MISC,,,en,2
+After Hurricane Melissa,After Hurricane Melissa,MISC,,,en,2
+the staggering reality of the devastation is sinking in with satellite images showing the island,the staggering reality of the devastation is sinking in with satellite images showing the island,MISC,,,en,2
+the climate crisis,the climate crisis,MISC,,,en,2
+leaving survivors,leaving survivors,MISC,,,en,2
+a way it hasn't for centuries,a way it hasn't for centuries,MISC,,,en,2
+arrested,arrested,MISC,,,en,1
+according to officials,according to officials,MISC,,,en,1
+The road from Jamaicas,The road from Jamaicas,MISC,,,en,1
+"Michigan
+","Michigan
+",MISC,,,en,1
+"deaths of Robert De Niro's grandson and Chris Stein's daughter
+</li><li","deaths of Robert De Niro's grandson and Chris Stein's daughter
+</li><li",MISC,,,en,1
+Entire communities have been devastated or isolated after taking a direct hit form the powerful storm,Entire communities have been devastated or isolated after taking a direct hit form the powerful storm,MISC,,,en,1
+known for its lush bamboo forest that formed a natural tunnel and glowed green in the bright sun,known for its lush bamboo forest that formed a natural tunnel and glowed green in the bright sun,MISC,,,en,1
+its wake in the no,its wake in the no,MISC,,,en,1
+Aerial footage from Elgeyo-Marakwet County shows,Aerial footage from Elgeyo-Marakwet County shows,MISC,,,en,1
+Don't try to outweird me,Don't try to outweird me,MISC,,,en,1
+J…,J…,MISC,,,de,1
+capital to the seaside town of Black River,capital to the seaside town of Black River,MISC,,,en,1
 französischen,französischen,MISC,,,de,1
-Familien-Ausflug,Familien-Ausflug,MISC,,,de,1
-Sturm auf Korsika,Sturm auf Korsika,MISC,,,de,1
-Tragödie auf Korsika,Tragödie auf Korsika,MISC,,,de,1
-Balkon…,Balkon…,MISC,,,de,1
-Bl…,Bl…,MISC,,,de,1
-Gru…,Gru…,MISC,,,de,1
-mi…,mi…,MISC,,,de,1
-Ungemütliches,Ungemütliches,MISC,,,de,1
-"Wind, Regen","Wind, Regen",MISC,,,de,1
-Fährausfälle“,Fährausfälle“,MISC,,,de,1
-Ein Sturmtief,Ein Sturmtief,MISC,,,de,1
-05.10.2025,05.10.2025,MISC,,,de,1
-Das Sturmtief,Das Sturmtief,MISC,,,de,1
-ostfriesischen,ostfriesischen,MISC,,,de,1
-Campingplatzes,Campingplatzes,MISC,,,de,1
-12 Mio. Euro,12 Mio. Euro,MISC,,,de,1
-Die Hochwasserschutzanlage,Die Hochwasserschutzanlage,MISC,,,de,1
-Witterung,Witterung,MISC,,,de,1
-Winterland The Colors of Snow,Winterland The Colors of Snow,MISC,,,de,1
-off…,off…,MISC,,,de,1
-Spontan-Urlaub,Spontan-Urlaub,MISC,,,de,1
-Blick auf den Frühling,Blick auf den Frühling,MISC,,,de,1
-Dramatische Rettung,Dramatische Rettung,MISC,,,de,1
-Schneesturm auf Mount Everest,Schneesturm auf Mount Everest,MISC,,,de,1
-Everest-Region,Everest-Region,MISC,,,de,1
-Videos,Videos,MISC,,,de,1
-Wintersport“,Wintersport“,MISC,,,de,1
-Herbst-Suchbild,Herbst-Suchbild,MISC,0.0,0.0,de,1
-Son…,Son…,MISC,,,de,1
-Wie d…,Wie d…,MISC,,,de,1
-Obe…,Obe…,MISC,,,de,1
-Das Wetter,Das Wetter,MISC,,,de,1
-Stürmische Nacht,Stürmische Nacht,MISC,,,de,1
-jed…,jed…,MISC,,,de,1
-Apple TV+,Apple TV+,MISC,,,de,1
-Fantasy-Abenteuerserie,Fantasy-Abenteuerserie,MISC,,,de,1
-Die Grimm,Die Grimm,MISC,,,de,1
-Die Schwestern Grimm,Die Schwestern Grimm,MISC,,,de,1
-Sturmtief,Sturmtief,MISC,,,de,1
-Das freundliche Herbstwetter,Das freundliche Herbstwetter,MISC,,,de,1
-Tag der Kopiere,Tag der Kopiere,MISC,,,de,1
-ungemütliches,ungemütliches,MISC,,,de,1
-Herbst lieben,Herbst lieben,MISC,,,de,1
-Ör… Ahoi Pirates!,Ör… Ahoi Pirates!,MISC,,,de,1
-Tschechischer,Tschechischer,MISC,,,de,1
-Wechselhaftes Herbstwet,Wechselhaftes Herbstwet,MISC,,,de,1
-ADAC-Winterreifen,ADAC-Winterreifen,MISC,,,de,1
-Bestpreis,Bestpreis,MISC,,,de,1
-ADAC-Bestenlisten,ADAC-Bestenlisten,MISC,,,de,1
-Spätes­tens,Spätes­tens,MISC,,,de,1
-Auto­fah…,Auto­fah…,MISC,,,de,1
-Oktober-Sonntag,Oktober-Sonntag,MISC,,,de,1
-Frü…,Frü…,MISC,,,de,1
-Wenn im Herbst das Laub,Wenn im Herbst das Laub,MISC,,,de,1
-Generation Z,Generation Z,MISC,,,de,1
-Arabellion im Jahr 2011,Arabellion im Jahr 2011,MISC,,,de,1
-Schnee und eisiger Sturm,Schnee und eisiger Sturm,MISC,,,de,1
-Inter­essantes,Inter­essantes,MISC,,,de,1
-Ausschrei­bungen,Ausschrei­bungen,MISC,,,de,1
-Abschal­tungen,Abschal­tungen,MISC,,,de,1
-Tagesspiegel-Serientest,Tagesspiegel-Serientest,MISC,,,de,1
-Couch-Saison,Couch-Saison,MISC,,,de,1
-Sofa,Sofa,MISC,,,de,1
-Welt-Fußball-Führung,Welt-Fußball-Führung,MISC,,,de,1
-WM im Winter,WM im Winter,MISC,,,de,1
-Winter stattfind…,Winter stattfind…,MISC,,,de,1
-BILD,BILD,MISC,,,de,1
-Fens…,Fens…,MISC,,,de,1
-Bayerischem,Bayerischem,MISC,,,de,1
-Biathlon-Stars,Biathlon-Stars,MISC,,,de,1
-Winter-Vorbereitungen“,Winter-Vorbereitungen“,MISC,,,de,1
-Der Winter,Der Winter,MISC,,,de,1
-Internet,Internet,MISC,,,de,1
-Nur alle paar Jahre blüht,Nur alle paar Jahre blüht,MISC,,,de,1
-Stadtacker Potsdam“,Stadtacker Potsdam“,MISC,,,de,1
-Ernäh…,Ernäh…,MISC,,,de,1
-Die Fakten im Überblick,Die Fakten im Überblick,MISC,,,de,1
-Hurrikan,Hurrikan,MISC,,,de,1
-Cannabis-Legalisierung,Cannabis-Legalisierung,MISC,,,de,1
-Sende­gebiete,Sende­gebiete,MISC,,,de,1
-Neuheiten,Neuheiten,MISC,,,de,1
-Außenwelt,Außenwelt,MISC,,,de,1
-Aces,Aces,MISC,,,de,1
-Wen,Wen,MISC,,,de,1
-Bürgergeld wir…,Bürgergeld wir…,MISC,,,de,1
-Meister der Apokalypse“,Meister der Apokalypse“,MISC,,,de,1
-Endzeit-Texte,Endzeit-Texte,MISC,,,de,1
-Runway-Kombi,Runway-Kombi,MISC,,,de,1
-Britische Lehman-Insolvenz,Britische Lehman-Insolvenz,MISC,,,de,1
-Eiskeller-Prozess,Eiskeller-Prozess,MISC,,,de,1
-Der Zeuge,Der Zeuge,MISC,,,de,1
-Australische,Australische,MISC,,,de,1
-Deutsche Weinbauern,Deutsche Weinbauern,MISC,,,de,1
-Gelsenkirchen - Mann,Gelsenkirchen - Mann,MISC,,,de,1
-Die Schwarze Elster,Die Schwarze Elster,MISC,,,de,1
-Tour nieselte,Tour nieselte,MISC,,,de,1
-Die Völker Kopiere,Die Völker Kopiere,MISC,,,de,1
-Fleißige Insekten“,Fleißige Insekten“,MISC,,,de,1
-Die Völker,Die Völker,MISC,,,de,1
-investi…,investi…,MISC,,,de,1
-Apple Watches,Apple Watches,MISC,,,de,1
-Apple Watch,Apple Watch,MISC,,,de,1
-Ibiza & Formentera,Ibiza & Formentera,MISC,,,de,1
-Ruhiges Herbstwetter,Ruhiges Herbstwetter,MISC,,,de,1
-Du siehst manchmal den Wald,Du siehst manchmal den Wald,MISC,,,de,1
-Tasse English Breakfast T…,Tasse English Breakfast T…,MISC,,,de,1
-Sommerfinale“,Sommerfinale“,MISC,,,de,1
-Saison des Jahres regelmäßig koche,Saison des Jahres regelmäßig koche,MISC,,,de,1
-Die Bundesliga-Fußballerinnen,Die Bundesliga-Fußballerinnen,MISC,,,de,1
-Lange Pause“,Lange Pause“,MISC,,,de,1
-v…,v…,MISC,,,de,1
-veranschaulicht d…,veranschaulicht d…,MISC,,,de,1
-Sc…,Sc…,MISC,,,de,1
-Upcy…,Upcy…,MISC,,,de,1
-Guten Abend,Guten Abend,MISC,,,de,1
-Der Schneesturm“,Der Schneesturm“,MISC,,,de,1
-Presse-Unterrichtung,Presse-Unterrichtung,MISC,,,de,1
-Rolle,Rolle,MISC,,,de,1
-modera…,modera…,MISC,,,de,1
-Die neue Sorge der deutschen Industrie,Die neue Sorge der deutschen Industrie,MISC,,,de,1
-En…,En…,MISC,,,de,1
-Mord und Raub,Mord und Raub,MISC,,,de,1
-Radrennen,Radrennen,MISC,,,de,1
-Euro Hochwasserhilfe,Euro Hochwasserhilfe,MISC,,,de,1
-Hochtouren,Hochtouren,MISC,,,de,1
-Hochtouren“,Hochtouren“,MISC,,,de,1
-Teure Eintrittspreise,Teure Eintrittspreise,MISC,,,de,1
-libanesischen,libanesischen,MISC,,,de,1
-Extreme Hitze,Extreme Hitze,MISC,,,de,1
-indischer,indischer,MISC,,,de,1
-Regency-Romance-Phänomen,Regency-Romance-Phänomen,MISC,,,de,1
-Forstwirtschaft“,Forstwirtschaft“,MISC,,,de,1
-Obstbaubetriebe“,Obstbaubetriebe“,MISC,,,de,1
-Bayer-Trainers,Bayer-Trainers,MISC,,,de,1
-DFB-Pokal“,DFB-Pokal“,MISC,,,de,1
-Die Forschenden,Die Forschenden,MISC,,,de,1
-Horror,Horror,MISC,,,de,1
-Killing Floor 3,Killing Floor 3,MISC,,,de,1
-Five Nights at Freddy's,Five Nights at Freddy's,MISC,,,de,1
-Neue Horrorgames,Neue Horrorgames,MISC,,,de,1
-Samstag u,Samstag u,MISC,,,de,1
-"Bouquet
-","Bouquet
-",MISC,,,de,1
-Ha…,Ha…,MISC,,,de,1
-Weinjahrgangs 2025,Weinjahrgangs 2025,MISC,,,de,1
-steirische,steirische,MISC,,,de,1
-Rheinauen“,Rheinauen“,MISC,,,de,1
-Saison fü,Saison fü,MISC,,,de,1
-Bierzutat“,Bierzutat“,MISC,,,de,1
-Hopfenernte,Hopfenernte,MISC,,,de,1
-Juli-Regen,Juli-Regen,MISC,,,de,1
-Hochsommer“,Hochsommer“,MISC,,,de,1
-Du überall nach Schatten,Du überall nach Schatten,MISC,,,de,1
-Dir Wasser auf öffentlichen Klos,Dir Wasser auf öffentlichen Klos,MISC,,,de,1
-Trotzdem kriegst Du von der Hitze,Trotzdem kriegst Du von der Hitze,MISC,,,de,1
-Berufsorganisation der deutschen Winzer,Berufsorganisation der deutschen Winzer,MISC,,,de,1
-Sachsenforst,Sachsenforst,MISC,,,de,1
-Heimspiele“,Heimspiele“,MISC,,,de,1
-Maiskulturen,Maiskulturen,MISC,,,de,1
-Urlaub mit dem Reisemobil,Urlaub mit dem Reisemobil,MISC,,,de,1
-reformfähig,reformfähig,MISC,,,de,1
-SPD-Seite,SPD-Seite,MISC,,,de,1
-ARA-Flugrettung,ARA-Flugrettung,MISC,,,de,1
-ARA-Hubschrauber,ARA-Hubschrauber,MISC,,,de,1
-Bundesregierung“,Bundesregierung“,MISC,,,de,1
-F…,F…,MISC,0.0,0.0,de,1
-Potsdamer Forscher,Potsdamer Forscher,MISC,,,de,1
-Äpfel lieben Sonne,Äpfel lieben Sonne,MISC,,,de,1
-Freibadbesucher und Ausflügler,Freibadbesucher und Ausflügler,MISC,,,de,1
-Italiens Adria-Küste,Italiens Adria-Küste,MISC,,,de,1
-Campingplä…,Campingplä…,MISC,,,de,1
-Applaus,Applaus,MISC,,,de,1
-Rad z…,Rad z…,MISC,,,de,1
-Die Regierungskoalition aus Union,Die Regierungskoalition aus Union,MISC,,,de,1
-25.08.2025,25.08.2025,MISC,,,de,1
-Wicht…,Wicht…,MISC,,,de,1
-Letztes Jahr war dur…,Letztes Jahr war dur…,MISC,,,de,1
-Autobahnkreuz“,Autobahnkreuz“,MISC,,,de,1
-ein Jahr zum Vergessen,ein Jahr zum Vergessen,MISC,,,de,1
-Witt…,Witt…,MISC,,,de,1
-Sturm und Gewitter,Sturm und Gewitter,MISC,,,de,1
-Stro…,Stro…,MISC,,,de,1
-U-19-WM,U-19-WM,MISC,,,de,1
-AKW Gösgen,AKW Gösgen,MISC,,,de,1
-Deutschen Handba…,Deutschen Handba…,MISC,,,de,1
-Prager Frühling,Prager Frühling,MISC,,,de,1
-Berliner Frühling,Berliner Frühling,MISC,,,de,1
-tschechischer,tschechischer,MISC,,,de,1
-Meine Mutter,Meine Mutter,MISC,,,de,1
-Das Jahrhunderthochwasser,Das Jahrhunderthochwasser,MISC,,,de,1
-Wasserwirtschaf…,Wasserwirtschaf…,MISC,,,de,1
-Schuld sind der Klimawandel,Schuld sind der Klimawandel,MISC,,,de,1
-Szenario,Szenario,MISC,,,de,1
-kommenden Jahr,kommenden Jahr,MISC,,,de,1
-Laternenfest,Laternenfest,MISC,0.0,0.0,de,1
-Bier“,Bier“,MISC,,,de,1
-Gutes Jahr für Imker,Gutes Jahr für Imker,MISC,,,de,1
-Sachsen-Anh…,Sachsen-Anh…,MISC,,,de,1
-Die Tage von Starkregen,Die Tage von Starkregen,MISC,,,de,1
-Starkregen u,Starkregen u,MISC,,,de,1
-Brandenburg auf kühle…,Brandenburg auf kühle…,MISC,,,de,1
-20-Grad-Marke o…,20-Grad-Marke o…,MISC,,,de,1
-wi… Meine ideale Vorstellung,wi… Meine ideale Vorstellung,MISC,,,de,1
-Audi 100,Audi 100,MISC,,,de,1
-Die Vermessung der Welt,Die Vermessung der Welt,MISC,,,de,1
-Vorjahres,Vorjahres,MISC,0.0,1.0,de,1
-Amateurfußball,Amateurfußball,MISC,,,de,1
-Raps“,Raps“,MISC,,,de,1
-Feldern,Feldern,MISC,0.0,0.0,de,1
-Anz…,Anz…,MISC,,,de,1
-Kaisermantel,Kaisermantel,MISC,,,de,1
-⭐️ NEUE,⭐️ NEUE,MISC,,,de,1
-Ferienspaß“,Ferienspaß“,MISC,,,de,1
-MTV Video Music Awards,MTV Video Music Awards,MISC,,,de,1
-Artenschutz“,Artenschutz“,MISC,,,de,1
-Kühe,Kühe,MISC,,,de,1
-Park & Pipe“,Park & Pipe“,MISC,,,de,1
-Olympischen Spiele,Olympischen Spiele,MISC,,,de,1
-Winterspielen,Winterspielen,MISC,,,de,1
-Urlaub im Herbst 2025,Urlaub im Herbst 2025,MISC,,,de,1
-Getreideernte“,Getreideernte“,MISC,,,de,1
-Die nächsten Tage,Die nächsten Tage,MISC,,,de,1
-Soziales“,Soziales“,MISC,,,de,1
-bayerischen,bayerischen,MISC,,,de,1
-Sommer-Spaß“,Sommer-Spaß“,MISC,,,de,1
-Aktion“,Aktion“,MISC,,,de,1
-Gartenarbeit,Gartenarbeit,MISC,0.0,0.0,de,1
-Ragweed-Blüte,Ragweed-Blüte,MISC,,,de,1
-Äpfel“,Äpfel“,MISC,,,de,1
-Der Schnee,Der Schnee,MISC,,,de,1
-Im Jahr 2023,Im Jahr 2023,MISC,,,de,1
-Man…,Man…,MISC,,,de,1
-WM-Titel,WM-Titel,MISC,,,de,1
-D Busquets,D Busquets,MISC,0.0,0.0,de,1
-Krügerrand“,Krügerrand“,MISC,,,de,1
-Bayern Thalers,Bayern Thalers,MISC,,,de,1
-Bayern-Profi,Bayern-Profi,MISC,,,de,1
-Niedersachsen,Niedersachsen,MISC,0.0,0.0,de,1
-Allergiker in Sach,Allergiker in Sach,MISC,,,de,1
-Ernte in Hessen“,Ernte in Hessen“,MISC,,,de,1
-Polen,Polen,MISC,0.0,0.0,de,1
-Mac,Mac,MISC,,,de,1
-iPad,iPad,MISC,1.0,0.0,de,1
-Mac mit Touchscreen“,Mac mit Touchscreen“,MISC,,,de,1
-"Multitasking
-","Multitasking
-",MISC,,,de,1
-Das alte Tiflis,Das alte Tiflis,MISC,,,de,1
-Google Translate,Google Translate,MISC,,,de,1
-Optimier…,Optimier…,MISC,,,de,1
-Pollen,Pollen,MISC,,,de,1
-Ernte in Gefahr,Ernte in Gefahr,MISC,,,de,1
-Fut…,Fut…,MISC,,,de,1
-Gastronomie“,Gastronomie“,MISC,,,de,1
-Regen-Sommer,Regen-Sommer,MISC,,,de,1
-Regen-Sommer vermiese,Regen-Sommer vermiese,MISC,,,de,1
-Nager“,Nager“,MISC,,,de,1
-Ski-Weltmeisterschaften,Ski-Weltmeisterschaften,MISC,,,de,1
-Sommer-Grand-Prix,Sommer-Grand-Prix,MISC,,,de,1
-Hochwasser-Katastrophe,Hochwasser-Katastrophe,MISC,,,de,1
-Sixtinischen K…,Sixtinischen K…,MISC,,,de,1
-Freu dich auf Son…,Freu dich auf Son…,MISC,,,de,1
-Im Winter,Im Winter,MISC,,,de,1
-Kälte-Blues,Kälte-Blues,MISC,0.0,0.8,de,1
-Sommer-Rekordtransfer,Sommer-Rekordtransfer,MISC,,,de,1
-Sommer-Rekordtransfer“,Sommer-Rekordtransfer“,MISC,,,de,1
-niederländischen,niederländischen,MISC,,,de,1
-Gusto,Gusto,MISC,,,de,1
-Deutschla…,Deutschla…,MISC,,,de,1
-Äp…,Äp…,MISC,,,de,1
-Urlaubsreisen“,Urlaubsreisen“,MISC,,,de,1
-Dürre,Dürre,MISC,,,de,1
-Caroline Becker15,Caroline Becker15,MISC,,,de,1
-Ge…,Ge…,MISC,,,de,1
-Temperaturen“,Temperaturen“,MISC,,,de,1
-Gewi…,Gewi…,MISC,,,de,1
-Das Wochenende,Das Wochenende,MISC,,,de,1
-Bestseller-Eiswürfelmaschine,Bestseller-Eiswürfelmaschine,MISC,,,de,1
-Bestseller-Modell,Bestseller-Modell,MISC,,,de,1
-Ric…,Ric…,MISC,,,de,1
-Tanja,Tanja,MISC,,,de,1
-Die Elbfähre «Tanja,Die Elbfähre «Tanja,MISC,,,de,1
-son…,son…,MISC,,,de,1
-Badewetter“,Badewetter“,MISC,,,de,1
-norwegischen,norwegischen,MISC,,,de,1
-Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,1
-nordischen Ski-WM,nordischen Ski-WM,MISC,,,de,1
-österreichischen,österreichischen,MISC,,,de,1
-W…,W…,MISC,0.0,0.0,de,1
-Sprecherin d…,Sprecherin d…,MISC,,,de,1
-GLP-Politiker,GLP-Politiker,MISC,,,de,1
-Ein Mann düst,Ein Mann düst,MISC,,,de,1
-E-Roller,E-Roller,MISC,,,de,1
-Der Weinherbst,Der Weinherbst,MISC,,,de,1
-sexy,sexy,MISC,,,de,1
-So…,So…,MISC,,,de,1
-Unreal Engine 5,Unreal Engine 5,MISC,,,de,1
-Aerosoft,Aerosoft,MISC,0.7,0.0,de,1
-Hitze“,Hitze“,MISC,,,de,1
-Essen m,Essen m,MISC,,,de,1
-Obstbaubet…,Obstbaubet…,MISC,,,de,1
-Salbeifeldern,Salbeifeldern,MISC,,,de,1
-Jahr 1913,Jahr 1913,MISC,,,de,1
-palästinensisches,palästinensisches,MISC,,,de,1
-Britische,Britische,MISC,,,de,1
-Das Wetter bei uns,Das Wetter bei uns,MISC,,,de,1
-türkische,türkische,MISC,,,de,1
-Gute Ernte,Gute Ernte,MISC,,,de,1
-Sport“,Sport“,MISC,,,de,1
-Raps,Raps,MISC,0.0,0.0,de,1
-Ebay.de,Ebay.de,MISC,,,de,1
-Milliardären,Milliardären,MISC,,,de,1
-Vergangenes Jahr,Vergangenes Jahr,MISC,,,de,1
-BILD09…,BILD09…,MISC,,,de,1
-Kabinett,Kabinett,MISC,,,de,1
-Surrealismus Schnee von gestern,Surrealismus Schnee von gestern,MISC,,,de,1
-Chagall-Schülers,Chagall-Schülers,MISC,,,de,1
-trompet…,trompet…,MISC,,,de,1
-Fernsehen“,Fernsehen“,MISC,,,de,1
-Die Stefan Raab Show,Die Stefan Raab Show,MISC,,,de,1
-Postkasten,Postkasten,MISC,,,de,1
-Todesopfer bei Überflutungen,Todesopfer bei Überflutungen,MISC,,,de,1
-Starkregen-Überschwemmungen,Starkregen-Überschwemmungen,MISC,,,de,1
-Haiminger,Haiminger,MISC,,,de,1
-Lockdown-Gefühle,Lockdown-Gefühle,MISC,,,de,1
-Only Murders in the Building“,Only Murders in the Building“,MISC,,,de,1
-Li…,Li…,MISC,,,de,1
-Die guten Nachrichten,Die guten Nachrichten,MISC,,,de,1
-Frühling und,Frühling und,MISC,,,de,1
-Reparatur-Richtline,Reparatur-Richtline,MISC,,,de,1
-Frisches Obst“,Frisches Obst“,MISC,,,de,1
-Woltemade,Woltemade,MISC,,,de,1
-Ozeandünger,Ozeandünger,MISC,,,de,1
-Ferienwoche,Ferienwoche,MISC,,,de,1
-Beauty-Sekt,Beauty-Sekt,MISC,,,de,1
-Was g…,Was g…,MISC,,,de,1
-Bürger,Bürger,MISC,,,de,1
-Me Too“-Moment,Me Too“-Moment,MISC,,,de,1
-chinesische,chinesische,MISC,,,de,1
-Badespaß“,Badespaß“,MISC,,,de,1
-Wetter in Nordrhein-Westfalen“,Wetter in Nordrhein-Westfalen“,MISC,,,de,1
-Jens“,Jens“,MISC,,,de,1
+norditalienischen,norditalienischen,MISC,,,de,1
+Sonntagnachmittag,Sonntagnachmittag,MISC,,,de,1
+Hurricane Melissa Death Toll Rises as Extent of Damage Emerges,Hurricane Melissa Death Toll Rises as Extent of Damage Emerges,MISC,,,en,1
+Lawinenunglück,Lawinenunglück,MISC,0.0,0.0,de,1
+Zwei Menschen sterben bei Überschwemmung,Zwei Menschen sterben bei Überschwemmung,MISC,,,de,1
+Herbst bringt Sonne,Herbst bringt Sonne,MISC,,,de,1
+Ortler-Gebirge,Ortler-Gebirge,MISC,-0.11666666666666665,0.0,de,1
+JamaicaAP News Hurricane Me… The Fine Print,JamaicaAP News Hurricane Me… The Fine Print,MISC,,,en,1
+Rift Valley leave 21 dead,Rift Valley leave 21 dead,MISC,,,en,1
+From Hurricane Melissa as Many Communities Remain Cut offThe New York Times Aid efforts struggle to bring relief to parts of hurricane-stricken,From Hurricane Melissa as Many Communities Remain Cut offThe New York Times Aid efforts struggle to bring relief to parts of hurricane-stricken,MISC,,,en,1
+Jamaica that Hurricane Melissa demolished,Jamaica that Hurricane Melissa demolished,MISC,,,en,1
+italienischen,italienischen,MISC,,,de,1
+The road from Jamaica’s capital to the seaside town of Black River,The road from Jamaica’s capital to the seaside town of Black River,MISC,,,en,1
+known for its lush bamboo forest that formed a natural tunnel and glowed green in the ...,known for its lush bamboo forest that formed a natural tunnel and glowed green in the ...,MISC,,,en,1
+JamaicaBBC Hurricane Melissa kills at least 30,JamaicaBBC Hurricane Melissa kills at least 30,MISC,,,en,1
+S…,S…,MISC,,,de,1
+the Caribbean as it crosses the BahamasCNN,the Caribbean as it crosses the BahamasCNN,MISC,,,en,1
+Die tragische Bi…,Die tragische Bi…,MISC,,,de,1
+"Deadly storm hits Northeast
+</li><li","Deadly storm hits Northeast
+</li><li",MISC,,,en,1
+and expected to…,and expected to…,MISC,,,en,1
+Landslides in Kenya,Landslides in Kenya,MISC,,,en,1
+Hithiker's Guide to the Galaxy,Hithiker's Guide to the Galaxy,MISC,,,en,1
+residents of Black …,residents of Black …,MISC,,,en,1
+The communitie… The Fine Print,The communitie… The Fine Print,MISC,,,en,1
+like the wilderness here now',like the wilderness here now',MISC,,,en,1
+’ Black River residents assess damage after Hurricane MelissaThe Guardian,’ Black River residents assess damage after Hurricane MelissaThe Guardian,MISC,,,en,1
+’ Black River residents assess damage after Hurricane Melissa,’ Black River residents assess damage after Hurricane Melissa,MISC,,,en,1
+began to dissi…,began to dissi…,MISC,,,en,1
+one of the strongest storms on record to make landfall in the Caribbean,one of the strongest storms on record to make landfall in the Caribbean,MISC,,,en,1
+"increase significantly
+Melissa","increase significantly
+Melissa",MISC,,,en,1
+Tödlicher Wirbelsturm“,Tödlicher Wirbelsturm“,MISC,,,de,1
+Limit“,Limit“,MISC,,,de,1
+One of the stronges…,One of the stronges…,MISC,,,en,1
+this number,this number,MISC,,,en,1
+like the wilderness,like the wilderness,MISC,,,en,1
+The communities shredded and still stranded by Hurricane Melissa,The communities shredded and still stranded by Hurricane Melissa,MISC,,,en,1
+Death toll across region now stands at 50 but there are,Death toll across region now stands at 50 but there are,MISC,,,en,1
+cutting off communities,cutting off communities,MISC,,,en,1
+began to dissipate yesterday after sowing devastation across much of Jamaica,began to dissipate yesterday after sowing devastation across much of Jamaica,MISC,,,en,1
+chaos left after Hurricane Melissa,chaos left after Hurricane Melissa,MISC,,,en,1
+Jamaicans struggling,Jamaicans struggling,MISC,,,en,1
+It’s,It’s,MISC,,,en,1
+over the cold waters of the North Atlantic,over the cold waters of the North Atlantic,MISC,,,en,1
+As the death toll rises,As the death toll rises,MISC,,,en,1
+People walk along muddied roads scavenging the wreckage for food,People walk along muddied roads scavenging the wreckage for food,MISC,,,en,1
+Yale Climate Connections,Yale Climate Connections,MISC,,,en,1
+death toll expected to rise,death toll expected to rise,MISC,,,en,1
+Jamaica after Hurricane,Jamaica after Hurricane,MISC,,,en,1
+and that death toll is expected to rise,and that death toll is expected to rise,MISC,,,en,1
+Judge blocks Trump order requiring voters prove citizenship,Judge blocks Trump order requiring voters prove citizenship,MISC,,,en,1
+the death toll from Hurricane Melissa has climbed to at least 50 people across Haiti and Jamaica,the death toll from Hurricane Melissa has climbed to at least 50 people across Haiti and Jamaica,MISC,,,en,1
+the death toll from Hurricane Melissa has climbed to at least 50 peop…,the death toll from Hurricane Melissa has climbed to at least 50 peop…,MISC,,,en,1
+with the death toll numbering at least 50 across the Caribbean,with the death toll numbering at least 50 across the Caribbean,MISC,,,en,1
+with the death toll numbering at least ...,with the death toll numbering at least ...,MISC,,,en,1
+Essential relief su,Essential relief su,MISC,,,en,1
+Aid efforts,Aid efforts,MISC,,,en,1
+officials sai…,officials sai…,MISC,,,en,1
+"Jamaica 
+People walk along muddied roads scavenging the wreckage for food","Jamaica 
+People walk along muddied roads scavenging the wreckage for food",MISC,,,en,1
+Fünf Deutsche,Fünf Deutsche,MISC,,,de,1
+Tragödie in Südtirol,Tragödie in Südtirol,MISC,,,de,1
+from Hurricane Melissa,from Hurricane Melissa,MISC,,,en,1
+You'll throw them out because your house,You'll throw them out because your house,MISC,,,en,1
+you're going to get computers as prizes,you're going to get computers as prizes,MISC,,,en,1
+Caribbean damage…,Caribbean damage…,MISC,,,en,1
+over the cold waters of the North AtlanticYale Climate Connections,over the cold waters of the North AtlanticYale Climate Connections,MISC,,,en,1
+three-eyes,three-eyes,MISC,,,en,1
+More than 800 dead as 6.0 earthquake flattens,More than 800 dead as 6.0 earthquake flattens,MISC,,,en,1
+the Caribbean as it crosses the BahamasCNN …,the Caribbean as it crosses the BahamasCNN …,MISC,,,en,1
+meteorologists are tracking c… While the Atlantic hurricane season nears its end,meteorologists are tracking c… While the Atlantic hurricane season nears its end,MISC,,,en,1
+Dozens died,Dozens died,MISC,,,en,1
+At least 26 dead after Typhoon Kalmaegi barrels through Philippines,At least 26 dead after Typhoon Kalmaegi barrels through Philippines,MISC,,,en,1
+The deaths were as a result of drowning and people,The deaths were as a result of drowning and people,MISC,,,en,1
+a local government official has said,a local government official has said,MISC,,,en,1
+At least 26 people have been killed and hundreds of thousands displaced as rains driven by Typhoon Kalmaegi,At least 26 people have been killed and hundreds of thousands displaced as rains driven by Typhoon Kalmaegi,MISC,,,en,1
+Typhoon flooding kills 26,Typhoon flooding kills 26,MISC,,,en,1
+which barreled across the centr,which barreled across the centr,MISC,,,en,1
+"Associated Press
+MANILA","Associated Press
+MANILA",MISC,,,en,1
+By JIM GOMEZ,By JIM GOMEZ,MISC,,,en,1
+Officials said Tuesday that most of the victims were killed,Officials said Tuesday that most of the victims were killed,MISC,,,en,1
+people trapped on roofs and cars submerged,people trapped on roofs and cars submerged,MISC,,,en,1
+griechischen,griechischen,MISC,,,de,1
+"a late-season system
+With roughly four weeks remaining in…","a late-season system
+With roughly four weeks remaining in…",MISC,,,en,1
+the Atlantic hurricane season,the Atlantic hurricane season,MISC,,,en,1
+You stay here,You stay here,MISC,,,en,1
+While the Atlantic hurricane season nears its end,While the Atlantic hurricane season nears its end,MISC,,,en,1
+Many of th…,Many of th…,MISC,,,en,1
+Typhoon Kalmaegi killed,Typhoon Kalmaegi killed,MISC,,,en,1
+Cebu province where residents were trapp…,Cebu province where residents were trapp…,MISC,,,en,1
+Many of the fatalities were,Many of the fatalities were,MISC,,,en,1
+Typhoon Kalmaegi killed 21,Typhoon Kalmaegi killed 21,MISC,,,en,1
+Typhoon Kalmaegi Kills 21 as It Pummels Central Philippines,Typhoon Kalmaegi Kills 21 as It Pummels Central Philippines,MISC,,,en,1
+At least 46 killed after typhoon,At least 46 killed after typhoon,MISC,,,en,1
+with some re… The death toll from a week of flooding and record rains,with some re… The death toll from a week of flooding and record rains,MISC,,,en,1
+reeling from the past week's extreme weather,reeling from the past week's extreme weather,MISC,,,en,1
+Verite News,Verite News,MISC,,,en,1
+It was produced by ,It was produced by ,MISC,,,en,1
+lucrative world of disaster response and recovery,lucrative world of disaster response and recovery,MISC,,,en,1
+including the crew of a military helicopter,including the crew of a military helicopter,MISC,,,en,1
+The number includes the six crew members of a…,The number includes the six crew members of a…,MISC,,,en,1
+hessische,hessische,MISC,,,de,1
+F.A.Z.-Leser,F.A.Z.-Leser,MISC,,,de,1
+Supertaifun,Supertaifun,MISC,,,de,1
+Taifun,Taifun,MISC,0.0,0.0,de,1
+The geography of a storm,The geography of a storm,MISC,,,en,1
+the P…,the P…,MISC,,,en,1
+"TANGCAWAN
+The death toll","TANGCAWAN
+The death toll",MISC,,,en,1
+carry a resident past cars washed away by floods at the height of Typhoon Kalmaegi,carry a resident past cars washed away by floods at the height of Typhoon Kalmaegi,MISC,,,en,1
+recent memory,recent memory,MISC,,,en,1
+the Philippines climbed to 66 on Wednesday as residents of hardest-hit Cebu province began picking through homes and businesses devastated by the worst flooding,the Philippines climbed to 66 on Wednesday as residents of hardest-hit Cebu province began picking through homes and businesses devastated by the worst flooding,MISC,,,en,1
+Typhoon death toll climbs to 66,Typhoon death toll climbs to 66,MISC,,,en,1
+a glowing object flies over the v…,a glowing object flies over the v…,MISC,,,en,1
+In the footage,In the footage,MISC,,,en,1
+UFO Caught On Video Hovering Over Active Volcano Before Disappearing,UFO Caught On Video Hovering Over Active Volcano Before Disappearing,MISC,,,en,1
+and the Dominican Republic with sustained,and the Dominican Republic with sustained,MISC,,,en,1
+Cuba,Cuba,MISC,0.0,0.0,en,1
+The scale of Melissa which bombarded Jamaica,The scale of Melissa which bombarded Jamaica,MISC,,,en,1
+recorded history,recorded history,MISC,,,en,1
+The Caribbean just suffered one of the largest Hurricanes,The Caribbean just suffered one of the largest Hurricanes,MISC,,,en,1
+This will be,This will be,MISC,,,en,1
+Than Football Fields” Goes Viral,Than Football Fields” Goes Viral,MISC,,,en,1
+Experts Alarmed as AI Image of Hurricane Melissa Featuring Birds “,Experts Alarmed as AI Image of Hurricane Melissa Featuring Birds “,MISC,,,en,1
+Entire towns on the island of Cebu were inund…,Entire towns on the island of Cebu were inund…,MISC,,,en,1
+More than 40 people have died and hundreds of thousands are displaced after rains driven by Typhoon Kalmaegi,More than 40 people have died and hundreds of thousands are displaced after rains driven by Typhoon Kalmaegi,MISC,,,en,1
+More than 40 people are dead and hundreds of thousands displaced after rains from Typhoon Kalmaegi flooded the central Philippines,More than 40 people are dead and hundreds of thousands displaced after rains from Typhoon Kalmaegi flooded the central Philippines,MISC,,,en,1
+which barreled across the central part of the country on Tuesday,which barreled across the central part of the country on Tuesday,MISC,,,en,1
+Philippines Typhoon Kalmaegi has left at least 26 people dead,Philippines Typhoon Kalmaegi has left at least 26 people dead,MISC,,,en,1
+disaster response officials said,disaster response officials said,MISC,,,en,1
+which barreled across the central part of the country,which barreled across the central part of the country,MISC,,,en,1
+a Grist series exploring the often chaotic,a Grist series exploring the often chaotic,MISC,,,en,1
+This story is part of The Disaster Economy,This story is part of The Disaster Economy,MISC,,,en,1
+what's changed,what's changed,MISC,,,en,1
+Jamaica last week,Jamaica last week,MISC,,,en,1
+The Extreme Event Solutions group at Verisk,The Extreme Event Solutions group at Verisk,MISC,,,en,1
+BOSTON,BOSTON,MISC,,,en,1
+Haiti reported the highest number of deaths following catastrophic flooding from hurricane rains,Haiti reported the highest number of deaths following catastrophic flooding from hurricane rains,MISC,,,en,1
+Ein Stein im Ausmaß,Ein Stein im Ausmaß,MISC,,,de,1
+Here t,Here t,MISC,,,en,1
+Today we’re mainly going to focus on one major story from last week,Today we’re mainly going to focus on one major story from last week,MISC,,,en,1
+I’m Rachel Feltman,I’m Rachel Feltman,MISC,,,en,1
+For Scientific American’s Science Quickly,For Scientific American’s Science Quickly,MISC,,,en,1
+a warming world,a warming world,MISC,,,en,1
+Hurricane Melissa,Hurricane Melissa,MISC,,,en,1
+Why Hurricane Melissa Was One of the Most Powerful Atlantic Storms,Why Hurricane Melissa Was One of the Most Powerful Atlantic Storms,MISC,,,en,1
+being lit on fire on his land,being lit on fire on his land,MISC,,,en,1
+May 2023 with no idea that a tire,May 2023 with no idea that a tire,MISC,,,en,1
+take years for his land to get back to what it used to be like,take years for his land to get back to what it used to be like,MISC,,,en,1
+Perry says,Perry says,MISC,,,en,1
+set on land owned by Mervyn Perry,set on land owned by Mervyn Perry,MISC,,,en,1
+revealed the fire,revealed the fire,MISC,,,en,1
+charged under the Forests Act,charged under the Forests Act,MISC,,,en,1
+Court documents from last month’s,Court documents from last month’s,MISC,,,en,1
+Fire that grew to become part of Nova Scotia’s largest wildfire started on this man,Fire that grew to become part of Nova Scotia’s largest wildfire started on this man,MISC,,,en,1
+Nearly 50,Nearly 50,MISC,,,en,1
+A week after Typhoon Halong passed through Japan,A week after Typhoon Halong passed through Japan,MISC,,,en,1
+it laid bare how centuries-old policies made Native,it laid bare how centuries-old policies made Native,MISC,,,en,1
+Then a typhoon hit,Then a typhoon hit,MISC,,,en,1
+Jamaica Maya Angelou once penned words that thunder across generationsa defiant proclamation that no,Jamaica Maya Angelou once penned words that thunder across generationsa defiant proclamation that no,MISC,,,en,1
+from _Little Shop Of Horrors,from _Little Shop Of Horrors,MISC,,,en,1
+this is between me and the vegetable!,this is between me and the vegetable!,MISC,,,en,1
+The Category 5,The Category 5,MISC,,,en,1
+from Hurricane Melissa’s strike on Jamaica are expected to range between,from Hurricane Melissa’s strike on Jamaica are expected to range between,MISC,,,en,1
+More than four years later,More than four years later,MISC,,,en,1
+according to estimates from data analytics firm Verisk,according to estimates from data analytics firm Verisk,MISC,,,en,1
+They survived the hurricane,They survived the hurricane,MISC,,,en,1
+Expeditions-Unternehmen,Expeditions-Unternehmen,MISC,,,de,1
+according to the national disa,according to the national disa,MISC,,,en,1
+killing at least two people,killing at least two people,MISC,,,en,1
+Two dead as Typhoon Kalmaegi brings,Two dead as Typhoon Kalmaegi brings,MISC,,,en,1
+"Dagenham 
+London's emergency services have spent more than","Dagenham 
+London's emergency services have spent more than",MISC,,,en,1
+"City Hall
+Firefighters are having to tackle large fires like this at Beam Park","City Hall
+Firefighters are having to tackle large fires like this at Beam Park",MISC,,,en,1
+Wildfires and floods cost emergency services,Wildfires and floods cost emergency services,MISC,,,en,1
+>Wildfire smoke significantly increases the risk of premature birth.</li><li,>Wildfire smoke significantly increases the risk of premature birth.</li><li,MISC,,,en,1
+The risk is most severe,The risk is most severe,MISC,,,en,1
+Exposure during,Exposure during,MISC,,,en,1
+Wildfire smoke significantly increases the risk of premature birth,Wildfire smoke significantly increases the risk of premature birth,MISC,,,en,1
+pregnancy significantly increases preterm birth risk,pregnancy significantly increases preterm birth risk,MISC,,,en,1
+Inselst…,Inselst…,MISC,,,de,1
+left entire com…,left entire com…,MISC,,,en,1
+The storm demolished thousands of homes,The storm demolished thousands of homes,MISC,,,en,1
+Jamaica UNRECOGNIZABLE a week after Hurricane Melissa,Jamaica UNRECOGNIZABLE a week after Hurricane Melissa,MISC,,,en,1
+HORRIFIC’,HORRIFIC’,MISC,,,en,1
+The ministry,The ministry,MISC,,,en,1
+ministry,ministry,MISC,,,en,1
+"Wildfires burned nearly 6,000","Wildfires burned nearly 6,000",MISC,,,en,1
+Herr Winter,Herr Winter,MISC,,,de,1
+hit by floods that were the country’s deadliest natural disaster,hit by floods that were the country’s deadliest natural disaster,MISC,,,en,1
+a year after the area,a year after the area,MISC,,,en,1
+the leader said The heavily criticised leader of Spain’s Valencia region said on Monday he was stepping down,the leader said The heavily criticised leader of Spain’s Valencia region said on Monday he was stepping down,MISC,,,en,1
+I know I made mistakes,I know I made mistakes,MISC,,,en,1
+The Category,The Category,MISC,,,en,1
+although that figure is expected to rise as search and rescue operations continue across the trail of destruction the storm left,although that figure is expected to rise as search and rescue operations continue across the trail of destruction the storm left,MISC,,,en,1
+were destroyed by wildfires,were destroyed by wildfires,MISC,,,en,1
+with many still missing,with many still missing,MISC,,,en,1
+Abkommen bereits…,Abkommen bereits…,MISC,,,de,1
+APS settles with Volcano Vista student maimed by sword,APS settles with Volcano Vista student maimed by sword,MISC,,,en,1
+a global study has estimated,a global study has estimated,MISC,,,en,1
+with Uttar Pradesh being the most impacted region,with Uttar Pradesh being the most impacted region,MISC,,,en,1
+India were affected due to wildfires,India were affected due to wildfires,MISC,,,en,1
+Around 15 million people,Around 15 million people,MISC,,,en,1
+This catastrophic wildfire season triggered hazardous air pollution,This catastrophic wildfire season triggered hazardous air pollution,MISC,,,en,1
+with Uttar Pradesh bearing the brunt of the devastation,with Uttar Pradesh bearing the brunt of the devastation,MISC,,,en,1
+India during the 2024,India during the 2024,MISC,,,en,1
+India affected by 2024,India affected by 2024,MISC,,,en,1
+Global analysis finds,Global analysis finds,MISC,,,en,1
 norwegische,norwegische,MISC,,,de,1
-Strickpullover,Strickpullover,MISC,,,de,1
-Agenda 2010,Agenda 2010,MISC,,,de,1
-überarbei…,überarbei…,MISC,,,de,1
-15 Jahre lang,15 Jahre lang,MISC,,,de,1
-Wag…,Wag…,MISC,,,de,1
-Fest steh…,Fest steh…,MISC,,,de,1
-Oberösterreichische,Oberösterreichische,MISC,,,de,1
-Die Schadholzmengen,Die Schadholzmengen,MISC,,,de,1
-5.Oktober,5.Oktober,MISC,,,de,1
-"Tatort""-","Tatort""-",MISC,,,de,1
-Wetters,Wetters,MISC,,,de,1
-Hochw…,Hochw…,MISC,,,de,1
-Dieses Jahr,Dieses Jahr,MISC,,,de,1
-Nä…,Nä…,MISC,,,de,1
-Putins Invasion,Putins Invasion,MISC,,,de,1
-Rund ein Jahr,Rund ein Jahr,MISC,,,de,1
-IMAGO/Michael Bihlmayer/IMAGO/Bihlmayerfotografie,IMAGO/Michael Bihlmayer/IMAGO/Bihlmayerfotografie,MISC,,,de,1
-kanadischen,kanadischen,MISC,,,de,1
-Krieg in der Ukraine“,Krieg in der Ukraine“,MISC,,,de,1
-Italienischer,Italienischer,MISC,,,de,1
-Olympia-Saison,Olympia-Saison,MISC,,,de,1
-Stürmisches Wetter,Stürmisches Wetter,MISC,,,de,1
-Stürmisches Wetter“,Stürmisches Wetter“,MISC,,,de,1
-Wetterkapriolen 2025,Wetterkapriolen 2025,MISC,,,de,1
-Herbststurm,Herbststurm,MISC,0.0875,0.0,de,1
-Weinskandal,Weinskandal,MISC,,,de,1
-Todessturz in Chile,Todessturz in Chile,MISC,,,de,1
-Sommer-Comeback,Sommer-Comeback,MISC,0.0,0.0,de,1
-Spätsommer-Suchbild,Spätsommer-Suchbild,MISC,,,de,1
-Herbst-Feeling,Herbst-Feeling,MISC,,,de,1
-Apfel des Jahres,Apfel des Jahres,MISC,,,de,1
-Olympischen Spielen,Olympischen Spielen,MISC,,,de,1
-Sommerspielen 2028,Sommerspielen 2028,MISC,,,de,1
-Österreichischen Olympischen Comites,Österreichischen Olympischen Comites,MISC,,,de,1
-New Zealand Transport Agency1,New Zealand Transport Agency1,MISC,,,de,1
-G…,G…,MISC,,,de,1
-RLP,RLP,MISC,,,de,1
-Saarland“,Saarland“,MISC,,,de,1
-stern,stern,MISC,,,de,1
-1:0-Erfolg am Sonntag,1:0-Erfolg am Sonntag,MISC,,,de,1
-Thüringens gr,Thüringens gr,MISC,,,de,1
-Jahrhundertkatastrophe,Jahrhundertkatastrophe,MISC,,,de,1
-Kurioser Fall“,Kurioser Fall“,MISC,,,de,1
-Tagesverlauf kan,Tagesverlauf kan,MISC,,,de,1
-Nachspielzeit,Nachspielzeit,MISC,,,de,1
-Minute u,Minute u,MISC,,,de,1
-feier…,feier…,MISC,,,de,1
-Bundesliga-Geschichte,Bundesliga-Geschichte,MISC,,,de,1
-Deutscher Apothekerverbände,Deutscher Apothekerverbände,MISC,,,de,1
-Wenn klimawandel…,Wenn klimawandel…,MISC,,,de,1
-Vogelzug“,Vogelzug“,MISC,,,de,1
-Ein Jahr nach der Flut,Ein Jahr nach der Flut,MISC,,,de,1
-Dortmunder,Dortmunder,MISC,,,de,1
-Champions-League-Auftakt,Champions-League-Auftakt,MISC,,,de,1
-Sonnenspeicher auf Papier,Sonnenspeicher auf Papier,MISC,,,de,1
-Tomatenmarmelade,Tomatenmarmelade,MISC,,,de,1
-Uschi Glas,Uschi Glas,MISC,,,de,1
-Tisch,Tisch,MISC,,,de,1
-Weinernte“,Weinernte“,MISC,,,de,1
-Ortes,Ortes,MISC,,,de,1
-Tatort“,Tatort“,MISC,,,de,1
-Worms vom Sonntag…,Worms vom Sonntag…,MISC,,,de,1
-Diebe klauen,Diebe klauen,MISC,,,de,1
-Herbststurm…,Herbststurm…,MISC,,,de,1
-Ahr-Katastrophe,Ahr-Katastrophe,MISC,,,de,1
-Kissing Disease,Kissing Disease,MISC,,,de,1
-Neues Hochwasserschutzlager,Neues Hochwasserschutzlager,MISC,,,de,1
-Ottjen-Alldag-Weg 7,Ottjen-Alldag-Weg 7,MISC,,,de,1
-Durchwachsener Sommer“,Durchwachsener Sommer“,MISC,,,de,1
-Temp…,Temp…,MISC,,,de,1
-Feuerwehreinsätze,Feuerwehreinsätze,MISC,,,de,1
-Ein bisschen Sommerwetter,Ein bisschen Sommerwetter,MISC,,,de,1
-Momente,Momente,MISC,,,de,1
-YouTube,YouTube,MISC,,,de,1
-L333,L333,MISC,,,de,1
-Hennef-Bülgenauel …,Hennef-Bülgenauel …,MISC,,,de,1
-Superzellen-Gewitter,Superzellen-Gewitter,MISC,,,de,1
-Wettermix am Wochenende - Herbst,Wettermix am Wochenende - Herbst,MISC,,,de,1
-"Sonne, Wolken","Sonne, Wolken",MISC,,,de,1
-Wetter-Bilanz“,Wetter-Bilanz“,MISC,,,de,1
-SERIE,SERIE,MISC,,,de,1
-Interflug-Maschine,Interflug-Maschine,MISC,,,de,1
-Berlin zwischen Wolken,Berlin zwischen Wolken,MISC,,,de,1
-Sonne am Sonntag,Sonne am Sonntag,MISC,,,de,1
-Mike und Leyla,Mike und Leyla,MISC,,,de,1
-Traumhochzeit,Traumhochzeit,MISC,,,de,1
-Penny,Penny,MISC,,,de,1
-Todesopfer,Todesopfer,MISC,,,de,1
-Gesamtschaden,Gesamtschaden,MISC,,,de,1
-pakistanischen,pakistanischen,MISC,,,de,1
-Die Getreideernte,Die Getreideernte,MISC,,,de,1
-Dead of Winter,Dead of Winter,MISC,,,de,1
-Schwerin,Schwerin,MISC,,,de,1
-Verfügb…,Verfügb…,MISC,,,de,1
-j…,j…,MISC,,,de,1
-Ragweed-Belastung,Ragweed-Belastung,MISC,,,de,1
-Ragweed-Pflanze,Ragweed-Pflanze,MISC,,,de,1
-Dienst…,Dienst…,MISC,,,de,1
-Richter,Richter,MISC,,,de,1
-Wol…,Wol…,MISC,,,de,1
-SPD-Politiker,SPD-Politiker,MISC,,,de,1
-Das Leb…,Das Leb…,MISC,,,de,1
-Enttäuschungen,Enttäuschungen,MISC,,,de,1
-Wer a…,Wer a…,MISC,,,de,1
-25 Liter R,25 Liter R,MISC,,,de,1
-Das Gift der späten Jahre,Das Gift der späten Jahre,MISC,,,de,1
-Wenn der Herbst naht“,Wenn der Herbst naht“,MISC,,,de,1
-Weihnachtsmarkt-Anschlag“,Weihnachtsmarkt-Anschlag“,MISC,,,de,1
-Schwere Unwetter“,Schwere Unwetter“,MISC,,,de,1
-Arzneihersteller“,Arzneihersteller“,MISC,,,de,1
-Die Hektarerträge,Die Hektarerträge,MISC,,,de,1
-z…,z…,MISC,,,de,1
-Mein Leben am Strand“,Mein Leben am Strand“,MISC,,,de,1
-vorläufigen Ergebnissen w…,vorläufigen Ergebnissen w…,MISC,,,de,1
-Mrd. Euro,Mrd. Euro,MISC,,,de,1
-japanischen,japanischen,MISC,,,de,1
-Curry,Curry,MISC,,,de,1
-CoV-Pandemiejahre,CoV-Pandemiejahre,MISC,,,de,1
-Im Jahr 2015,Im Jahr 2015,MISC,,,de,1
-Nie…,Nie…,MISC,,,de,1
-ORF Vorarlberg-„Sommergespräch On Tour“,ORF Vorarlberg-„Sommergespräch On Tour“,MISC,,,de,1
-Zehn Jahre lang,Zehn Jahre lang,MISC,,,de,1
-Landtagswahlen im Herbst 2024,Landtagswahlen im Herbst 2024,MISC,,,de,1
-Lemondaze – o,Lemondaze – o,MISC,,,de,1
-Herbst vor der Tür,Herbst vor der Tür,MISC,,,de,1
-Der Bunte Marienkäfer,Der Bunte Marienkäfer,MISC,,,de,1
-Wetter-Mix“,Wetter-Mix“,MISC,,,de,1
-Fr…,Fr…,MISC,,,de,1
-03.09.2025,03.09.2025,MISC,,,de,1
-Mit Camper,Mit Camper,MISC,,,de,1
-XPLORE,XPLORE,MISC,,,de,1
-nächsten Zeit,nächsten Zeit,MISC,,,de,1
-Regierungsv…,Regierungsv…,MISC,,,de,1
-Anti-Habeck“,Anti-Habeck“,MISC,,,de,1
-Unbeständiges Wetter,Unbeständiges Wetter,MISC,,,de,1
-Die Märkte verhageln,Die Märkte verhageln,MISC,,,de,1
-Designern,Designern,MISC,,,de,1
-We…,We…,MISC,,,de,1
-Meine…,Meine…,MISC,,,de,1
-Motorradunfälle auf Rekordhoch,Motorradunfälle auf Rekordhoch,MISC,,,de,1
-Deutschland lo…,Deutschland lo…,MISC,,,de,1
-Wettera…,Wettera…,MISC,,,de,1
-Ferien-Stress,Ferien-Stress,MISC,,,de,1
-Kollektives Trauma“,Kollektives Trauma“,MISC,,,de,1
-Münchner,Münchner,MISC,,,de,1
-Wilder Transfer-Sommer,Wilder Transfer-Sommer,MISC,,,de,1
-BILD01.09.2025,BILD01.09.2025,MISC,,,de,1
-Mittelfel…,Mittelfel…,MISC,,,de,1
-ein Jahr der Wetterextreme,ein Jahr der Wetterextreme,MISC,,,de,1
-Jedes Jahr,Jedes Jahr,MISC,,,de,1
-britischen,britischen,MISC,,,de,1
-Instagram-Menschen,Instagram-Menschen,MISC,,,de,1
-Bundesmuseum“,Bundesmuseum“,MISC,,,de,1
-Frühling für … Ja,Frühling für … Ja,MISC,,,de,1
-Disney & Co.“,Disney & Co.“,MISC,,,de,1
-Streaming-Herbst“,Streaming-Herbst“,MISC,,,de,1
+a…,a…,MISC,,,de,1
+Historische Parkanlage“,Historische Parkanlage“,MISC,,,de,1
+World Weather Attribution,World Weather Attribution,MISC,,,de,1
+We Are Not Helpless to Fight Back,We Are Not Helpless to Fight Back,MISC,,,en,1
+"Rain and wind were forecast Wednesday along the Alaska coast where two villages were devastated by the remnants of Typhoon Halong and officials were scrambling to find shelter for more than 1,500 peo…","Rain and wind were forecast Wednesday along the Alaska coast where two villages were devastated by the remnants of Typhoon Halong and officials were scrambling to find shelter for more than 1,500 peo…",MISC,,,en,1
+"Rain and wind were forecast Wednesday along the Alaska coast where two villages were devastated by the remnants of Typhoon Halong and officials were scrambling to find shelter for more than 1,500 people driven from their homes","Rain and wind were forecast Wednesday along the Alaska coast where two villages were devastated by the remnants of Typhoon Halong and officials were scrambling to find shelter for more than 1,500 people driven from their homes",MISC,,,en,1
+Alaska storms drive,Alaska storms drive,MISC,,,en,1
+Youth advocate calls for more supports for children impacted by Manitoba wildfires,Youth advocate calls for more supports for children impacted by Manitoba wildfires,MISC,,,en,1
+At least 49 communit…,At least 49 communit…,MISC,,,en,1
+western Alaska after the remnants of Typhoon Halong hit the state with hurricane-force winds and severe coastal flooding,western Alaska after the remnants of Typhoon Halong hit the state with hurricane-force winds and severe coastal flooding,MISC,,,en,1
+At least one person is dead and two are still,At least one person is dead and two are still,MISC,,,en,1
+Trump Mad About His Time Magazine Vagina-Neck,Trump Mad About His Time Magazine Vagina-Neck,MISC,,,en,1
+Western Alaska Hit By Deadly Typhoon,Western Alaska Hit By Deadly Typhoon,MISC,,,en,1
+Vo…,Vo…,MISC,,,de,1
+Sterbefälle,Sterbefälle,MISC,-0.7,0.0,de,1
+look for missing people and try to clean… The death toll from Mexicos ,look for missing people and try to clean… The death toll from Mexicos ,MISC,,,en,1
+Ein Jahr „ohne Dürre“,Ein Jahr „ohne Dürre“,MISC,,,de,1
+chemistry class,chemistry class,MISC,,,en,1
+16—Albuquerque Public Schools has agreed to pay more than,16—Albuquerque Public Schools has agreed to pay more than,MISC,,,en,1
+a sword-fighting incident at Volcano Vista High,a sword-fighting incident at Volcano Vista High,MISC,,,en,1
+16Albuquerque Public Schools has agreed to pay more than,16Albuquerque Public Schools has agreed to pay more than,MISC,,,en,1
+Sturm ,Sturm ,MISC,,,de,1
+Wetter“,Wetter“,MISC,,,de,1
+What to know,What to know,MISC,,,en,1
+The supply deluge,The supply deluge,MISC,,,en,1
+Outpacing USD,Outpacing USD,MISC,,,en,1
+Extreme wildfires have,Extreme wildfires have,MISC,,,en,1
+and t…,and t…,MISC,,,en,1
+Extreme wildfires have doubled,Extreme wildfires have doubled,MISC,,,en,1
+The Clean Air Act Is Making Our Air Dirtier,The Clean Air Act Is Making Our Air Dirtier,MISC,,,en,1
+"Rainham have affected people's physical and mental health
+A perennially burning area of land","Rainham have affected people's physical and mental health
+A perennially burning area of land",MISC,,,en,1
+Following a judicial review the site's designation,Following a judicial review the site's designation,MISC,,,en,1
+Potenzial wä…,Potenzial wä…,MISC,,,de,1
+EVP-geführte Mehrheit,EVP-geführte Mehrheit,MISC,,,de,1
+EU-Waldgesetz,EU-Waldgesetz,MISC,,,de,1
+The int,The int,MISC,,,en,1
+LLM,LLM,MISC,,,en,1
+to incorporate the Doubao large language model,to incorporate the Doubao large language model,MISC,,,en,1
+SunCar enters AI cooperation,SunCar enters AI cooperation,MISC,,,en,1
+… The Perfect Neighbor is,… The Perfect Neighbor is,MISC,,,en,1
+"and landing...
+Read more","and landing...
+Read more",MISC,,,en,1
+Documentary Directing Award,Documentary Directing Award,MISC,,,en,1
+The Perfect Neighbor is,The Perfect Neighbor is,MISC,,,en,1
+Netflix's ‘The Perfect Neighbor’ Is Hard to Watch,Netflix's ‘The Perfect Neighbor’ Is Hard to Watch,MISC,,,en,1
+Regenausfall,Regenausfall,MISC,,,de,1
+Schweizer Alpen-Dorfes,Schweizer Alpen-Dorfes,MISC,,,de,1
+Horror-Lawine,Horror-Lawine,MISC,,,de,1
+a sword-fighting incident at Volcano Vista High School,a sword-fighting incident at Volcano Vista High School,MISC,,,en,1
+prompting President,prompting President,MISC,,,en,1
+The death toll from Mexico's torrential rains rose to 44 on Sunday as the fallout,The death toll from Mexico's torrential rains rose to 44 on Sunday as the fallout,MISC,,,en,1
+Many residents face water and el…,Many residents face water and el…,MISC,,,en,1
+Goldener Herbst,Goldener Herbst,MISC,,,de,1
+Kühles Herbstwetter,Kühles Herbstwetter,MISC,,,de,1
+philippinische,philippinische,MISC,,,de,1
+Super-Taifun Ragasa,Super-Taifun Ragasa,MISC,,,de,1
+Hohe Temperaturen,Hohe Temperaturen,MISC,,,de,1
+Grünes Wissen to go,Grünes Wissen to go,MISC,,,de,1
+Fa…,Fa…,MISC,,,de,1
+An Angel,An Angel,MISC,,,de,1
+Over The Hump,Over The Hump,MISC,,,de,1
+Orkan Daria,Orkan Daria,MISC,,,de,1
+Baumbestand in Deutschland,Baumbestand in Deutschland,MISC,,,de,1
+… Super Typhoon Ragasa’s fierce winds have kept Hong Kong’s most severe storm warning,… Super Typhoon Ragasa’s fierce winds have kept Hong Kong’s most severe storm warning,MISC,,,en,1
+The city,The city,MISC,,,en,1
+Super Typhoon Ragasa’s,Super Typhoon Ragasa’s,MISC,,,en,1
+Tote und Vermisste,Tote und Vermisste,MISC,,,de,1
+Tempo 200,Tempo 200,MISC,,,de,1
+Kampfmittelbes…,Kampfmittelbes…,MISC,,,de,1
+Kampfmittelbeseitiger,Kampfmittelbeseitiger,MISC,,,de,1
+Sachsen,Sachsen,MISC,0.0,0.0,de,1
+Jetzt knallt der Herbst,Jetzt knallt der Herbst,MISC,,,de,1
+Hawaii,Hawaii,MISC,0.0,0.0,en,1
+Hawaii’s,Hawaii’s,MISC,,,en,1
+What to know about its dramatic lava displays,What to know about its dramatic lava displays,MISC,,,en,1
+official death,official death,MISC,,,en,1
+study suggests,study suggests,MISC,,,en,1
+’t capture true toll,’t capture true toll,MISC,,,en,1
+Official death count of 2023,Official death count of 2023,MISC,,,en,1
+blocking rescue …,blocking rescue …,MISC,,,en,1
+Men…,Men…,MISC,,,de,1
+Live-Karten,Live-Karten,MISC,,,de,1
+Torrential rains have claimed,Torrential rains have claimed,MISC,,,en,1
+Gefährlicher Trend,Gefährlicher Trend,MISC,,,de,1
+Mexico's president convenes governors as death toll from torrential rains rises to 44,Mexico's president convenes governors as death toll from torrential rains rises to 44,MISC,,,en,1
+The Division Road,The Division Road,MISC,,,en,1
+officially reopened on Saturday morning,officially reopened on Saturday morning,MISC,,,en,1
+Repairs begin as temporary tracks open on BP Highway,Repairs begin as temporary tracks open on BP Highway,MISC,,,en,1
+RSF,RSF,MISC,,,de,1
+investi…,investi…,MISC,,,de,1
+südeuropäische,südeuropäische,MISC,,,de,1
+Frankfurter,Frankfurter,MISC,,,de,1
+Schneesturm“,Schneesturm“,MISC,,,de,1
+Hause,Hause,MISC,,,de,1
+amerikanische,amerikanische,MISC,,,de,1
+Liebe in Zeiten der Dürre,Liebe in Zeiten der Dürre,MISC,,,de,1
+No Way Home“,No Way Home“,MISC,,,de,1
+Boyles Roman,Boyles Roman,MISC,,,de,1
+Obe…,Obe…,MISC,,,de,1
+brasilianischen,brasilianischen,MISC,,,de,1
+Gra…,Gra…,MISC,,,de,1
+TTS Player,TTS Player,MISC,,,de,1
+Kühles Wetter,Kühles Wetter,MISC,,,de,1
+Temperaturen rauschen,Temperaturen rauschen,MISC,,,de,1
+Boden-Frost,Boden-Frost,MISC,,,de,1
+Umweltkrise,Umweltkrise,MISC,,,de,1
+EU-Bericht,EU-Bericht,MISC,,,de,1
+europäischen Teams,europäischen Teams,MISC,,,de,1
+Der Tropensturm «Bualoi,Der Tropensturm «Bualoi,MISC,,,de,1
 MV,MV,MISC,0.0,0.0,de,1
-Gewitter und Regen,Gewitter und Regen,MISC,,,de,1
-Winzer rechnen heuer,Winzer rechnen heuer,MISC,,,de,1
-s…,s…,MISC,,,de,1
-Landtagswahlen,Landtagswahlen,MISC,-0.7,0.0,de,1
-österreichische,österreichische,MISC,,,de,1
-"Vogue""-Nachfolgerin","Vogue""-Nachfolgerin",MISC,,,de,1
-Früh-Herbst,Früh-Herbst,MISC,,,de,1
-Der Countdown,Der Countdown,MISC,,,de,1
+Grundwas…,Grundwas…,MISC,,,de,1
+California's Wildfire Crisis,California's Wildfire Crisis,MISC,,,en,1
+emphasizing that Californ… Charleston,emphasizing that Californ… Charleston,MISC,,,en,1
+Death toll from Hurricane Melissa climbs to 49,Death toll from Hurricane Melissa climbs to 49,MISC,,,en,1
+has now,has now,MISC,,,en,1
+a few months after entire blocks of Altadena,a few months after entire blocks of Altadena,MISC,,,en,1
+On a gloomy Saturday morning this past May,On a gloomy Saturday morning this past May,MISC,,,en,1
+according to a conspiracy theory expert,according to a conspiracy theory expert,MISC,,,en,1
+What it,What it,MISC,,,en,1
+the strongest on …,the strongest on …,MISC,,,en,1
+The hurricane at Category 5,The hurricane at Category 5,MISC,,,en,1
+People across the northern Caribbean are reeling from the devastation of Hurricane Melissa as dozens of deaths are reported,People across the northern Caribbean are reeling from the devastation of Hurricane Melissa as dozens of deaths are reported,MISC,,,en,1
+Erwärmung der Erde,Erwärmung der Erde,MISC,,,de,1
+What makes Melissa,What makes Melissa,MISC,,,en,1
+bringing record-breaking wind and torrential rain to Jamaica the island's first ever category 5,bringing record-breaking wind and torrential rain to Jamaica the island's first ever category 5,MISC,,,en,1
+the island's first ever category 5 landfall,the island's first ever category 5 landfall,MISC,,,en,1
+bringing record-breaking wind and torrential rain to Jamaica,bringing record-breaking wind and torrential rain to Jamaica,MISC,,,en,1
+How Record-Breaking Hurricane Melissa Became a Monster Overnight,How Record-Breaking Hurricane Melissa Became a Monster Overnight,MISC,,,en,1
+with sustained winds reaching 185 mph,with sustained winds reaching 185 mph,MISC,,,en,1
+solving the wildfire crisis,solving the wildfire crisis,MISC,,,en,1
+What began as one of the strongest hurricanes on record,What began as one of the strongest hurricanes on record,MISC,,,en,1
+The impacts of the record-breaking Hurricane Melissa continue to be felt across the Caribbean,The impacts of the record-breaking Hurricane Melissa continue to be felt across the Caribbean,MISC,,,en,1
+with Cuba bracing,with Cuba bracing,MISC,,,en,1
+has caused at least 32 fatalities and widespread damage across the Caribbean,has caused at least 32 fatalities and widespread damage across the Caribbean,MISC,,,en,1
+Death toll mounts,Death toll mounts,MISC,,,en,1
+The best way to help Hurricane Melissa,The best way to help Hurricane Melissa,MISC,,,en,1
+kubanischen,kubanischen,MISC,,,de,1
+Torrential downpours,Torrential downpours,MISC,,,en,1
+before making a second landfall,before making a second landfall,MISC,,,en,1
+the early afternoon,the early afternoon,MISC,,,en,1
+Where Melissa places in the top 10,Where Melissa places in the top 10,MISC,,,en,1
+What is the strongest hurricane ever recorded,What is the strongest hurricane ever recorded,MISC,,,en,1
+you can see the roof of Sangster International Airport comp,you can see the roof of Sangster International Airport comp,MISC,,,en,1
+California,California,MISC,0.0,0.0,en,1
+As I sat there list…,As I sat there list…,MISC,,,en,1
+many claimed that they received no warning to evacuate,many claimed that they received no warning to evacuate,MISC,,,en,1
+saw no first responders battling the blazes,saw no first responders battling the blazes,MISC,,,en,1
+KI Stürme,KI Stürme,MISC,,,de,1
+Hurrikan des Jahres,Hurrikan des Jahres,MISC,,,de,1
+NZZ QUANTENSPRUNG,NZZ QUANTENSPRUNG,MISC,,,de,1
+PODCAST,PODCAST,MISC,,,de,1
+Cuba The rumble of large machinery,Cuba The rumble of large machinery,MISC,,,en,1
+SANTIAGO DE CUBA,SANTIAGO DE CUBA,MISC,,,en,1
+power or communication,power or communication,MISC,,,en,1
+The storm has left many without homes,The storm has left many without homes,MISC,,,en,1
+Communities across the northern Caribbean are dealing with the aftermath of Hurricane Melissa,Communities across the northern Caribbean are dealing with the aftermath of Hurricane Melissa,MISC,,,en,1
+Jamaica and Cuba pick up the pieces after Melissa's destruction,Jamaica and Cuba pick up the pieces after Melissa's destruction,MISC,,,en,1
+The port on the southwest of the island nation bore th,The port on the southwest of the island nation bore th,MISC,,,en,1
+Jamaica's,Jamaica's,MISC,,,en,1
+winds on Tuesday,winds on Tuesday,MISC,,,en,1
+Assessing hurricane damage,Assessing hurricane damage,MISC,,,en,1
+Jamaica's 'ground zero',Jamaica's 'ground zero',MISC,,,en,1
+Perhaps up to,Perhaps up to,MISC,,,en,1
+Der jüngste Sturm,Der jüngste Sturm,MISC,,,de,1
+The scale of devastation left by Hurricane Melissa is becoming clear after the,The scale of devastation left by Hurricane Melissa is becoming clear after the,MISC,,,en,1
+"Jamaica and 
+","Jamaica and 
+",MISC,,,en,1
+The storm has been downgraded from a Category 5 to a Category 1 storm but is gathering speed,The storm has been downgraded from a Category 5 to a Category 1 storm but is gathering speed,MISC,,,en,1
+changeCBS News ^,changeCBS News ^,MISC,,,en,1
+on shelter,on shelter,MISC,,,en,1
+area that will be sheltered from some of the worst impacts,area that will be sheltered from some of the worst impacts,MISC,,,en,1
+As the climate changes,As the climate changes,MISC,,,en,1
+on shelter from climate change,on shelter from climate change,MISC,,,en,1
+Klimawan…,Klimawan…,MISC,,,de,1
+and had little interaction with official personnel,and had little interaction with official personnel,MISC,,,en,1
+you can see the roof of Sangster International Airport completely caved,you can see the roof of Sangster International Airport completely caved,MISC,,,en,1
+Video Shows,Video Shows,MISC,,,en,1
+Jamaican Airport Roof & Interior,Jamaican Airport Roof & Interior,MISC,,,en,1
+multiple cruise lines charted new courses for ships sailing,multiple cruise lines charted new courses for ships sailing,MISC,,,en,1
+extremely dangerous Category,extremely dangerous Category,MISC,,,en,1
+Hurricane Melissa has turned into,Hurricane Melissa has turned into,MISC,,,en,1
+the northern Caribbean with even stronger winds,the northern Caribbean with even stronger winds,MISC,,,en,1
+Monday morning,Monday morning,MISC,,,en,1
+Here's a look at where it's headed and whether it will impact Jacksonville,Here's a look at where it's headed and whether it will impact Jacksonville,MISC,,,en,1
+Melissa developed into a deadly Category 5 hurricane on Monday,Melissa developed into a deadly Category 5 hurricane on Monday,MISC,,,en,1
+As reported by the Orlando…,As reported by the Orlando…,MISC,,,en,1
+One hurricane hits this community and it's over,One hurricane hits this community and it's over,MISC,,,en,1
+surpassing the damage from Hurricane Gilbert,surpassing the damage from Hurricane Gilbert,MISC,,,en,1
+it is poised to be the worst storm to ever hit the Caribbean island,it is poised to be the worst storm to ever hit the Caribbean island,MISC,,,en,1
+As Category 5 hurricane Melissa bears down on Jamaica,As Category 5 hurricane Melissa bears down on Jamaica,MISC,,,en,1
+Why Hurricane Melissa Could Be the Worst Storm to Ever Hit Jamaica,Why Hurricane Melissa Could Be the Worst Storm to Ever Hit Jamaica,MISC,,,en,1
+Hundreds of shelters have been opened across the country and airports have been closed as t,Hundreds of shelters have been opened across the country and airports have been closed as t,MISC,,,en,1
+Hundreds of shelters have been opened across the ... Jamaican Prime Minister Andrew Holness has urged residents to prepare for the arrival of Hurricane Melissa,Hundreds of shelters have been opened across the ... Jamaican Prime Minister Andrew Holness has urged residents to prepare for the arrival of Hurricane Melissa,MISC,,,en,1
+Jamaican Prime Minister Andrew Holness has urged residents to prepare for the arrival of Hurricane Melissa,Jamaican Prime Minister Andrew Holness has urged residents to prepare for the arrival of Hurricane Melissa,MISC,,,en,1
+recent years,recent years,MISC,,,en,1
+Reducing the risk of wildfires is a growing concern for some woodlot owners,Reducing the risk of wildfires is a growing concern for some woodlot owners,MISC,,,en,1
+decreasing the potential of wildfires spreading through their prop…,decreasing the potential of wildfires spreading through their prop…,MISC,,,en,1
+woodlots owners after devastating fires,woodlots owners after devastating fires,MISC,,,en,1
+Addressing wildfire risk ‘top of mind’ for some N.S.,Addressing wildfire risk ‘top of mind’ for some N.S.,MISC,,,en,1
+chinesischen,chinesischen,MISC,,,de,1
+There’s just,There’s just,MISC,,,en,1
+You can catch us celebrating the holidays at Disney World or Universal Orlando,You can catch us celebrating the holidays at Disney World or Universal Orlando,MISC,,,en,1
+Some people like to be home for the holidays,Some people like to be home for the holidays,MISC,,,en,1
+Bay Is Set To Close on 12 New Dates first appeared on the disney food blog,Bay Is Set To Close on 12 New Dates first appeared on the disney food blog,MISC,,,en,1
+The post,The post,MISC,,,en,1
+These words from author Thomas Pandola encapsulate the essence of his first solo bo,These words from author Thomas Pandola encapsulate the essence of his first solo bo,MISC,,,en,1
+As powerful Hurricane Melissa intensified on a path toward Jamaica and on through the Caribbean,As powerful Hurricane Melissa intensified on a path toward Jamaica and on through the Caribbean,MISC,,,en,1
+the region this week,the region this week,MISC,,,en,1
+Euro,Euro,MISC,,,de,1
+Now a Category 5,Now a Category 5,MISC,,,en,1
+Zwei Jahre nach dem,Zwei Jahre nach dem,MISC,,,de,1
+increasing toll on the count…,increasing toll on the count…,MISC,,,en,1
+increasing toll,increasing toll,MISC,,,en,1
+ePaper,ePaper,MISC,,,de,1
+Nuss-Nougat-Aufstrichs,Nuss-Nougat-Aufstrichs,MISC,-0.2833333333333333,0.16666666666666666,de,1
+increasing toll on the coun,increasing toll on the coun,MISC,,,en,1
+The Lancet Countdown on health and climate ch…,The Lancet Countdown on health and climate ch…,MISC,,,en,1
+increasing toll on the country,increasing toll on the country,MISC,,,en,1
+report says,report says,MISC,,,en,1
+"About 1,400 annual deaths linked to wildfire smoke","About 1,400 annual deaths linked to wildfire smoke",MISC,,,en,1
+Ausm…,Ausm…,MISC,,,de,1
+Gefährlicher Wirbelsturm“,Gefährlicher Wirbelsturm“,MISC,,,de,1
+What to know about Hurricane Melissa,What to know about Hurricane Melissa,MISC,,,en,1
+Hurrikan ,Hurrikan ,MISC,,,de,1
+Melissa is set to bring catastrophic winds,Melissa is set to bring catastrophic winds,MISC,,,en,1
+Auswi…,Auswi…,MISC,,,de,1
+Klimaflucht,Klimaflucht,MISC,,,de,1
+With wind speeds of up to 175mph,With wind speeds of up to 175mph,MISC,,,en,1
+"Footage taken by a US Air Force Reserve crew known as the ""Hurricane Hunters","Footage taken by a US Air Force Reserve crew known as the ""Hurricane Hunters",MISC,,,en,1
+Storm chasers fly inside the eye of Hurricane Melissa,Storm chasers fly inside the eye of Hurricane Melissa,MISC,,,en,1
+This 1979 Fiat 126,This 1979 Fiat 126,MISC,,,en,1
+Jolly-Style,Jolly-Style,MISC,,,en,1
+"The Coming AI Debt Deluge
+Authord by MBI Deep DivesOne of the core differences of the current AI revolution from the earlier bubble periods","The Coming AI Debt Deluge
+Authord by MBI Deep DivesOne of the core differences of the current AI revolution from the earlier bubble periods",MISC,,,en,1
+OCF,OCF,MISC,,,en,1
+"The Coming AI Debt Deluge
+ 
+","The Coming AI Debt Deluge
+ 
+",MISC,,,en,1
+The Coming AI Debt Deluge,The Coming AI Debt Deluge,MISC,,,en,1
+Slow-moving storm dumps as much rain as a hurricane,Slow-moving storm dumps as much rain as a hurricane,MISC,,,en,1
+Fung-Wong“,Fung-Wong“,MISC,,,de,1

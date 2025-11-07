@@ -48,14 +48,11 @@ def getNewsDF():
     newsDF = getNewsDFbyList(files)
     return newsDF         
 
-keywordsDF = pd.read_csv(DATA_PATH / 'keywords.csv', delimiter=',')
-keywordsDF = keywordsDF.drop(columns = ['language'])
+#keywordsDF = pd.read_csv(DATA_PATH / 'keywords.csv', delimiter=',')
+#keywordsDF = keywordsDF.drop(columns = ['language'])
 
 newsDf = getNewsDF()
 print(newsDf)   
-
-keywordsNewsDF = pd.merge(keywordsDF, newsDf, how='left', left_on=['keyword'], right_on=['keyword'])
-print(keywordsNewsDF)  
 
 newsDf['subjectivity'] = 0.0
 newsDf['sentiment'] = 0.0
@@ -69,7 +66,7 @@ for index, column in newsDf.iterrows():
     i += 1
     if(i % 50 == 0):
         print(i)
-    quote = str(column.title)+'. ' +str(column.description)+' '+str(column.content)
+    quote = str(column.de)
     #quote = str(column.title)+'. ' +str(column.description)
     blob = TextBlobDE(quote)
     newsDf.loc[newsDf['url'] == column['url'], 'subjectivity'] = blob.sentiment.subjectivity
@@ -81,7 +78,6 @@ for index, column in newsDf.iterrows():
     except:
       print('date parse error')
 
-##keywordsNewsDF = newsDf.groupby('keyword').mean()
 
 def groupSentiments(df, aggColumn):
 	cols = [aggColumn,'sentiment_mean','sentiment_std','subjectivity_mean','subjectivity_std','counting']
@@ -114,17 +110,12 @@ daysDF =  groupSentiments(objNewsDF, 'day')
 daysDF = daysDF.sort_values(by=['day'], ascending=True)
 daysDF.to_csv(DATA_PATH / 'csv' / 'sentiments_days.csv',index=False) 
 
-keywordsSentimentDF =  groupSentiments(objNewsDF, 'keyword')
-keywordsSentimentDF = keywordsSentimentDF.sort_values(by=['keyword'], ascending=True)
-keywordsSentimentDF.to_csv(DATA_PATH / 'csv' / 'sentiments_keywords.csv',index=False) 
+keywordsSentimentDF =  groupSentiments(newsDf, 'extreme')
+keywordsSentimentDF = keywordsSentimentDF.sort_values(by=['extreme'], ascending=True)
+keywordsSentimentDF.to_csv(DATA_PATH / 'csv' / 'sentiments_extremes.csv',index=False) 
 
 
-print(list(newsDf.columns))
-print(list(objNewsDF.columns))
-print(list(keywordsDF.columns))
-topicNewsDF = pd.merge(objNewsDF, keywordsDF, how='left', left_on=['keyword'], right_on=['keyword'])
-print(list(topicNewsDF.columns))
-topicsDF =  groupSentiments(topicNewsDF, 'topic')
+topicsDF =  groupSentiments(newsDf, 'topic')
 topicsDF = topicsDF.sort_values(by=['topic'], ascending=True)
 topicsDF.to_csv(DATA_PATH / 'csv' / 'sentiments_topics.csv',index=False) 
 

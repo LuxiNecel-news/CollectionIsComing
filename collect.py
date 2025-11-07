@@ -26,7 +26,7 @@ ts = int(time.time())
 
 extremeColors = {'Thunderstorm':'#53785a', 'Flood':'#030ba1', 'Storm':'#222222', 'Storm Surge':'#834fa1', 'Flash Flood':'#0245d8', 'Precipitation':'#608D3A',
                'Tsunami':'#690191', 'Drought':'#572c03', 'Earthquake':'#870047', 'Landslide':'#1C4840', 'Cold Wave':'#a7e9fa', 'Heat Wave':'#d85212', 'Iceberg':'#02b5b8',
-               'Tropical Cyclone':'#4f7fbf', 'Volcano':'#b83202', 'Snow Avalanche':'#deddf5', 'unknown':'#d60d2b', 'Wildfire':'#fa0007', 'Fog':'#535271', 'Snow&Ice':'#dedde5'  
+               'Tropical Cyclone':'#4f7fbf', 'Volcano':'#b83202', 'Snow Avalanche':'#deddf5', 'unknown':'#d60d2b', 'Wildfire':'#fa0007', 'Fog':'#535271', 'Snow&Ice':'#dedde5', 'Wet Spell':'#22e91f',  
                }
 
 topicColors = {'Hazard':'#FF0000', 'Impacts':'#FFFF00', 'Mitigation':'#00FF00', 'Adaptation':'#0000FF', 'Causes':'#00FFFF', 'unknown':'#000000' }

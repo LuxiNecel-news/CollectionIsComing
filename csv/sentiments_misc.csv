@@ -1,412 +1,751 @@
 ,phrase,label,sentiment,subjectivity,language,count
-“,“,MISC,-8.150000000000002,2.8,de,77
-Hurrikan Melissa,Hurrikan Melissa,MISC,,,de,53
-Hurrikan,Hurrikan,MISC,-0.66875,0.3125,de,24
-deutsche,deutsche,MISC,,,de,22
-Deutsche,Deutsche,MISC,,,de,16
-indonesische,indonesische,MISC,,,de,14
-Camp Mystic,Camp Mystic,MISC,,,de,10
-Zahl der Toten,Zahl der Toten,MISC,,,de,8
-Taifun Kalmaegi,Taifun Kalmaegi,MISC,,,de,8
-Deutscher,Deutscher,MISC,,,de,7
-Gefährlicher Wirbelsturm,Gefährlicher Wirbelsturm,MISC,,,de,7
-indischen,indischen,MISC,,,de,6
-Wetter“,Wetter“,MISC,,,de,6
-indonesischen,indonesischen,MISC,,,de,6
+“,“,MISC,-6.449999999999999,3.15,de,179
+Hurrikan Melissa,Hurrikan Melissa,MISC,,,de,73
+Hurrikan,Hurrikan,MISC,-1.305,0.25,de,49
+deutsche,deutsche,MISC,,,de,36
+Deutsche,Deutsche,MISC,,,de,30
+Tornado,Tornado,MISC,,,de,20
+Deutscher,Deutscher,MISC,,,de,18
+Wetter“,Wetter“,MISC,,,de,17
+Camp Mystic,Camp Mystic,MISC,,,de,16
+Taifun Kalmaegi,Taifun Kalmaegi,MISC,,,de,15
+indonesische,indonesische,MISC,,,de,15
+Gefährlicher Wirbelsturm,Gefährlicher Wirbelsturm,MISC,,,de,12
+deutschen,deutschen,MISC,,,de,12
+Zahl der Toten,Zahl der Toten,MISC,,,de,10
+Super-Taifun,Super-Taifun,MISC,,,de,9
+Zeit,Zeit,MISC,,,de,8
+indischen,indischen,MISC,,,de,8
+jamaikanischen,jamaikanischen,MISC,,,de,7
+Drei Tote,Drei Tote,MISC,,,de,7
 Bualoi“,Bualoi“,MISC,,,de,6
-jamaikanischen,jamaikanischen,MISC,,,de,6
-deutschen,deutschen,MISC,,,de,6
-Super-Taifun,Super-Taifun,MISC,,,de,5
-spanische,spanische,MISC,,,de,5
-jamaikanische,jamaikanische,MISC,,,de,5
+Tsunami-Warnung,Tsunami-Warnung,MISC,0.35,0.0,de,6
+indonesischen,indonesischen,MISC,,,de,6
+Joshua“,Joshua“,MISC,,,de,6
+Kalmaegi“,Kalmaegi“,MISC,,,de,6
+spanische,spanische,MISC,,,de,6
+jamaikanische,jamaikanische,MISC,,,de,6
+Todesopfer durch den Taifun,Todesopfer durch den Taifun,MISC,,,de,5
+Jamaikanische,Jamaikanische,MISC,,,de,5
+Vietnam,Vietnam,MISC,0.0,0.016666666666666666,de,5
+spanischen,spanischen,MISC,,,de,5
 Schweizer,Schweizer,MISC,,,de,5
+philippinischen,philippinischen,MISC,,,de,5
+Schwerer Taifun,Schwerer Taifun,MISC,,,de,5
+iranische,iranische,MISC,,,de,5
+Fung-Wong“,Fung-Wong“,MISC,,,de,5
+Tages,Tages,MISC,,,de,4
+afghanische,afghanische,MISC,,,de,4
+Video,Video,MISC,,,de,4
 Volnado“,Volnado“,MISC,,,de,4
-Zeit,Zeit,MISC,,,de,4
-Jamaikanische,Jamaikanische,MISC,,,de,4
+mexikanischen,mexikanischen,MISC,,,de,4
+Hamburger,Hamburger,MISC,,,de,4
 Taliban-Regierung,Taliban-Regierung,MISC,,,de,4
-Der Taifun,Der Taifun,MISC,,,de,3
-pakistanischen,pakistanischen,MISC,,,de,3
-Video,Video,MISC,,,de,3
-spanischen,spanischen,MISC,,,de,3
+Chaos auf den Philippinen,Chaos auf den Philippinen,MISC,,,de,4
+nordafghanischen,nordafghanischen,MISC,,,de,4
+COP30,COP30,MISC,,,de,4
+japanischen,japanischen,MISC,,,de,3
 Sturm und Schnee,Sturm und Schnee,MISC,,,de,3
-philippinischen,philippinischen,MISC,,,de,3
-Vietnam,Vietnam,MISC,0.0,0.0,de,3
-Klimawandel“,Klimawandel“,MISC,,,de,3
-Kanlaon-Vulkans,Kanlaon-Vulkans,MISC,,,de,3
-Tsunami-Warnung,Tsunami-Warnung,MISC,,,de,3
+Deutschen,Deutschen,MISC,,,de,3
+amerikanische,amerikanische,MISC,,,de,3
+Sturm,Sturm,MISC,-0.13749999999999998,0.041666666666666664,de,3
 französische,französische,MISC,,,de,3
-Todesopfer durch den Taifun,Todesopfer durch den Taifun,MISC,,,de,3
-Taifun,Taifun,MISC,0.0,0.0,de,2
-Taifun über die Philippinen,Taifun über die Philippinen,MISC,,,de,2
-amerikanische,amerikanische,MISC,,,de,2
-Die Gefahr von Sturzfluten,Die Gefahr von Sturzfluten,MISC,,,de,2
-Der Monstersturm,Der Monstersturm,MISC,,,de,2
-Französisches,Französisches,MISC,,,de,2
-Todesopfer bei Überschwemmungen,Todesopfer bei Überschwemmungen,MISC,,,de,2
-Sonne-Comeback,Sonne-Comeback,MISC,,,de,2
-französischen,französischen,MISC,,,de,2
-Stunde-Null-Dürre,Stunde-Null-Dürre,MISC,,,de,2
-Ein Sturm,Ein Sturm,MISC,,,de,2
-Ryder Cup,Ryder Cup,MISC,,,de,2
-Todesopfer durch den Taifun Bualoi,Todesopfer durch den Taifun Bualoi,MISC,,,de,2
-lm-deluge,lm-deluge,MISC,,,de,2
-europäischen,europäischen,MISC,,,de,2
-Der Sturm,Der Sturm,MISC,,,de,2
+chinesischen,chinesischen,MISC,,,de,3
+Tropischer Wirbelsturm“,Tropischer Wirbelsturm“,MISC,,,de,3
+Sturm und Regen,Sturm und Regen,MISC,,,de,3
+iranischen,iranischen,MISC,,,de,3
+italienische,italienische,MISC,,,de,3
+Melissa,Melissa,MISC,-0.053125,0.0,de,3
+Hurrikan des Jahres,Hurrikan des Jahres,MISC,,,de,3
+…“,…“,MISC,,,de,3
+deutscher,deutscher,MISC,,,de,3
+Taifun Fung-wong,Taifun Fung-wong,MISC,0.0,0.0,de,3
+indische,indische,MISC,,,de,3
+Kanlaon-Vulkans,Kanlaon-Vulkans,MISC,,,de,3
+CO2,CO2,MISC,,,de,3
+Klimawandel“,Klimawandel“,MISC,,,de,3
+iranischer,iranischer,MISC,,,de,3
+europäischen,europäischen,MISC,,,de,3
+Hurrikan Kurs,Hurrikan Kurs,MISC,,,de,3
+französischen,französischen,MISC,,,de,3
+pakistanischen,pakistanischen,MISC,,,de,3
+Taifuns Kalmaegi,Taifuns Kalmaegi,MISC,,,de,3
+Todesopfer auf 188,Todesopfer auf 188,MISC,,,de,3
+europäische,europäische,MISC,,,de,3
+Der Taifun,Der Taifun,MISC,,,de,3
+Erdbeben auf den Philippinen,Erdbeben auf den Philippinen,MISC,0.0,0.0,de,2
+Taifun auf Vietnam,Taifun auf Vietnam,MISC,,,de,2
 The Perfect Neighbor“,The Perfect Neighbor“,MISC,,,de,2
-europäische,europäische,MISC,,,de,2
-Ätna,Ätna,MISC,,,de,2
-Hurrikan des Jahres,Hurrikan des Jahres,MISC,,,de,2
-iranischer,iranischer,MISC,,,de,2
-sozialen,sozialen,MISC,,,de,2
-Melissa,Melissa,MISC,-0.07083333333333333,0.0,de,2
-Gefährlicher Wirbelsturm“,Gefährlicher Wirbelsturm“,MISC,,,de,2
-Vulkane,Vulkane,MISC,,,de,2
-Hurrikan Kurs,Hurrikan Kurs,MISC,,,de,2
-Euro,Euro,MISC,,,de,2
-Die Ziele zur Treibhausgasreduktion,Die Ziele zur Treibhausgasreduktion,MISC,,,de,2
-Jamaikas,Jamaikas,MISC,0.0,0.0,de,2
-chinesischen,chinesischen,MISC,,,de,2
-Todesopfer in Jamaika,Todesopfer in Jamaika,MISC,,,de,2
-Philippinische,Philippinische,MISC,,,de,2
-BNPB,BNPB,MISC,,,de,2
-Super-Taifuns“,Super-Taifuns“,MISC,,,de,2
-Pakistanische,Pakistanische,MISC,,,de,2
-Salal-Staudamms,Salal-Staudamms,MISC,,,de,2
-COP30,COP30,MISC,,,de,2
-Tour de Entete,Tour de Entete,MISC,,,de,2
-Chaos auf den Philippinen,Chaos auf den Philippinen,MISC,,,de,2
 Katastrophen“,Katastrophen“,MISC,,,de,2
-Außenwelt,Außenwelt,MISC,,,de,2
-s…,s…,MISC,,,de,2
-afghanische,afghanische,MISC,,,de,2
-Kalmaegi“,Kalmaegi“,MISC,,,de,2
-Schwerer Taifun,Schwerer Taifun,MISC,,,de,2
-Sacrifice“,Sacrifice“,MISC,,,de,2
-JOHOR BARU,JOHOR BARU,MISC,,,de,2
-Yamuna-Fluss,Yamuna-Fluss,MISC,,,de,2
-Taifuns Kalmaegi,Taifuns Kalmaegi,MISC,,,de,2
-JAMMU,JAMMU,MISC,,,de,2
+Französisches,Französisches,MISC,,,de,2
+JahrzehntenFrankreich 24,JahrzehntenFrankreich 24,MISC,,,de,2
+…,…,MISC,0.0,0.0,de,2
+64772ae4d1d7dec0c5b716af“,64772ae4d1d7dec0c5b716af“,MISC,,,de,2
+Nordseeküste,Nordseeküste,MISC,0.0,0.0,de,2
+Todesopfer durch den Taifun auf den Philippinen,Todesopfer durch den Taifun auf den Philippinen,MISC,,,de,2
+Iranische,Iranische,MISC,,,de,2
+"69183ea87ae32051200a079a“
+","69183ea87ae32051200a079a“
+",MISC,,,de,2
+Todesopfer auf den Philippinen,Todesopfer auf den Philippinen,MISC,,,de,2
+Ätna,Ätna,MISC,0.0,0.0,de,2
+The Washington Post,The Washington Post,MISC,,,de,2
+Mitsubishi 3000GT SL,Mitsubishi 3000GT SL,MISC,,,de,2
+clientId“,clientId“,MISC,,,de,2
+Taifun,Taifun,MISC,0.0,0.0,de,2
+Wettervorhersage“,Wettervorhersage“,MISC,,,de,2
+Mercedes-Benz SL500,Mercedes-Benz SL500,MISC,,,de,2
+Philippinische,Philippinische,MISC,,,de,2
+Münchner,Münchner,MISC,,,de,2
+Jamaikas,Jamaikas,MISC,0.0,0.0,de,2
+liveblogId“,liveblogId“,MISC,,,de,2
+chinesische,chinesische,MISC,,,de,2
+Euro,Euro,MISC,,,de,2
+Vulkane,Vulkane,MISC,0.85,0.0,de,2
+Herbststurm“,Herbststurm“,MISC,,,de,2
+kalifornischen,kalifornischen,MISC,,,de,2
+KATHMANDU,KATHMANDU,MISC,,,de,2
+Krieg,Krieg,MISC,,,de,2
+Uwan,Uwan,MISC,0.0,0.0,de,2
+Super-Taifuns“,Super-Taifuns“,MISC,,,de,2
+Todesopfer bei Überschwemmungen,Todesopfer bei Überschwemmungen,MISC,,,de,2
+Todesopfer durch den Taifun Bualoi,Todesopfer durch den Taifun Bualoi,MISC,,,de,2
 ⒢,⒢,MISC,,,de,2
+Londoner,Londoner,MISC,,,de,2
+Pontiac GTO,Pontiac GTO,MISC,,,de,2
+Tornado in Brasilien,Tornado in Brasilien,MISC,,,de,2
+Fung Wong“,Fung Wong“,MISC,,,de,2
+Tornado in,Tornado in,MISC,,,de,2
+Taifun über die Philippinen,Taifun über die Philippinen,MISC,,,de,2
+Salal-Staudamms,Salal-Staudamms,MISC,,,de,2
+Wetter-Mix“,Wetter-Mix“,MISC,,,de,2
+philippinische,philippinische,MISC,,,de,2
+lm-deluge,lm-deluge,MISC,,,de,2
+Jahr 2005,Jahr 2005,MISC,,,de,2
+Die Ziele zur Treibhausgasreduktion,Die Ziele zur Treibhausgasreduktion,MISC,,,de,2
+indischer,indischer,MISC,,,de,2
+Environment Canada,Environment Canada,MISC,0.0,0.0,de,2
+Himalaya“,Himalaya“,MISC,,,de,2
+Trump,Trump,MISC,,,de,2
+Katastrophe“,Katastrophe“,MISC,,,de,2
+s…,s…,MISC,,,de,2
+BNPB,BNPB,MISC,,,de,2
+Sonne-Comeback,Sonne-Comeback,MISC,,,de,2
+Tour de Entete,Tour de Entete,MISC,,,de,2
+sozialen,sozialen,MISC,,,de,2
+UNO-Aktionsplan,UNO-Aktionsplan,MISC,,,de,2
+kolumbianischen,kolumbianischen,MISC,,,de,2
+US-amerikanischen,US-amerikanischen,MISC,,,de,2
+Sacrifice“,Sacrifice“,MISC,,,de,2
+Lawinenunglück,Lawinenunglück,MISC,-0.049999999999999996,0.0,de,2
+Todesopfer in Jamaika,Todesopfer in Jamaika,MISC,,,de,2
+Gefährlicher Wirbelsturm“,Gefährlicher Wirbelsturm“,MISC,,,de,2
+themeId,themeId,MISC,,,de,2
+Die Gefahr von Sturzfluten,Die Gefahr von Sturzfluten,MISC,,,de,2
+Dürre im Iran,Dürre im Iran,MISC,,,de,2
+Sachsen,Sachsen,MISC,0.0,0.25,de,2
+Der Monstersturm,Der Monstersturm,MISC,,,de,2
+türkischen,türkischen,MISC,,,de,2
+Pakistanische,Pakistanische,MISC,,,de,2
+Tornados,Tornados,MISC,-0.15000000000000002,0.0,de,2
+Stunde-Null-Dürre,Stunde-Null-Dürre,MISC,,,de,2
+Notfälle“,Notfälle“,MISC,,,de,2
+niederländischen,niederländischen,MISC,,,de,2
+Premier Holness,Premier Holness,MISC,,,de,2
+Der Sturm,Der Sturm,MISC,,,de,2
+T20I,T20I,MISC,,,de,2
+Ein Sturm,Ein Sturm,MISC,,,de,2
+Yamuna-Fluss,Yamuna-Fluss,MISC,,,de,2
+Ryder Cup,Ryder Cup,MISC,,,de,2
+Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,2
+italienischen,italienischen,MISC,,,de,2
+JAMMU,JAMMU,MISC,,,de,2
+Außenwelt,Außenwelt,MISC,-0.35,0.5,de,2
+Vierzig Jahre nachdem der Vulkan,Vierzig Jahre nachdem der Vulkan,MISC,,,de,2
+Vogue World 2025,Vogue World 2025,MISC,,,de,2
+lct_64772ae4d1d7dec0c5b716ac“,lct_64772ae4d1d7dec0c5b716ac“,MISC,,,de,2
+Armero,Armero,MISC,0.0,0.0,de,2
+Hurrikan-Hilfsgütern,Hurrikan-Hilfsgütern,MISC,,,de,2
 Tawi-Fluss,Tawi-Fluss,MISC,,,de,2
-Volcano Restoration Project,Volcano Restoration Project,MISC,,,de,1
-"MBI Deep Dives
-","MBI Deep Dives
-",MISC,,,de,1
-Ma-ao,Ma-ao,MISC,,,de,1
-Jolly-Style,Jolly-Style,MISC,,,de,1
-Fiat 126,Fiat 126,MISC,,,de,1
-Hurricane Hunters“,Hurricane Hunters“,MISC,,,de,1
-■ Es,■ Es,MISC,,,de,1
-Negros-LGUs,Negros-LGUs,MISC,,,de,1
-Sde Teiman-Lecks,Sde Teiman-Lecks,MISC,,,de,1
-US-amerikanische,US-amerikanische,MISC,,,de,1
-Hurricane Hunters,Hurricane Hunters,MISC,,,de,1
-Der kleine explosive Ausbruch,Der kleine explosive Ausbruch,MISC,,,de,1
+JOHOR BARU,JOHOR BARU,MISC,,,de,2
+Hurrikan MelissaThe Guardian,Hurrikan MelissaThe Guardian,MISC,,,de,1
+hessische,hessische,MISC,,,de,1
+Wie bauen Sie,Wie bauen Sie,MISC,,,de,1
+Limit“,Limit“,MISC,,,de,1
+Todesopfer bei Erdbeben in Afghanistan,Todesopfer bei Erdbeben in Afghanistan,MISC,,,de,1
+jamaikanischer,jamaikanischer,MISC,,,de,1
+griechischen,griechischen,MISC,,,de,1
+Wildnis“,Wildnis“,MISC,,,de,1
 CBC-Meteorologin,CBC-Meteorologin,MISC,,,de,1
-Klimaflucht,Klimaflucht,MISC,,,de,1
-Hurrikan vor Jamaika“,Hurrikan vor Jamaika“,MISC,,,de,1
-KI-generierte,KI-generierte,MISC,,,de,1
-Sde Teiman,Sde Teiman,MISC,,,de,1
-Hurrikan ,Hurrikan ,MISC,,,de,1
-Sturm,Sturm,MISC,0.03888888888888889,0.05555555555555555,de,1
-Jamaikaner,Jamaikaner,MISC,,,de,1
-Todesopfer in Haiti,Todesopfer in Haiti,MISC,,,de,1
-Der Wirbelsturm,Der Wirbelsturm,MISC,,,de,1
-Volcanic Wine Packaging-Kollektion,Volcanic Wine Packaging-Kollektion,MISC,,,de,1
-Alarmstufe 2,Alarmstufe 2,MISC,0.0,0.0,de,1
-Pe...,Pe...,MISC,,,de,1
-kalifornischen,kalifornischen,MISC,,,de,1
-Zwei Jahre nach dem verheerenden Hochwasser entlang der Glan,Zwei Jahre nach dem verheerenden Hochwasser entlang der Glan,MISC,,,de,1
-Die Karibikinsel,Die Karibikinsel,MISC,,,de,1
-Anfang des Jahres,Anfang des Jahres,MISC,,,de,1
-Jacksonville-Prognose,Jacksonville-Prognose,MISC,,,de,1
-NÄHER,NÄHER,MISC,,,de,1
-Frauen-Weltmeisterschaft,Frauen-Weltmeisterschaft,MISC,,,de,1
-Top Ten,Top Ten,MISC,,,de,1
-CPU,CPU,MISC,,,de,1
-adidas Holiday 2025,adidas Holiday 2025,MISC,,,de,1
-Todesopfer in der Dominikanischen Republik,Todesopfer in der Dominikanischen Republik,MISC,,,de,1
-Wetterprognosen“,Wetterprognosen“,MISC,,,de,1
-Hause aus bald,Hause aus bald,MISC,,,de,1
-Capsule,Capsule,MISC,,,de,1
-Corona-Zeit,Corona-Zeit,MISC,,,de,1
-Reform“,Reform“,MISC,,,de,1
-Schulen“,Schulen“,MISC,,,de,1
-Wahllokalen,Wahllokalen,MISC,,,de,1
-Kalter und feuchter Morgen,Kalter und feuchter Morgen,MISC,,,de,1
-AVAVAV x Adidas-Partnerschaft,AVAVAV x Adidas-Partnerschaft,MISC,,,de,1
-Sturms im Jahr 2021,Sturms im Jahr 2021,MISC,,,de,1
-Meine Frau,Meine Frau,MISC,,,de,1
-AccuWeather,AccuWeather,MISC,,,de,1
-Spaghetti-Modelle,Spaghetti-Modelle,MISC,,,de,1
-entwickelt.&nbsp,entwickelt.&nbsp,MISC,,,de,1
-Ökologin,Ökologin,MISC,,,de,1
-⒢ c,⒢ c,MISC,,,de,1
-Todesopfer auf 188,Todesopfer auf 188,MISC,,,de,1
-Survival-Spiel,Survival-Spiel,MISC,,,de,1
+The Guardian,The Guardian,MISC,,,de,1
+Was Reisende,Was Reisende,MISC,,,de,1
+Todesopfer durch ein Erdbeben,Todesopfer durch ein Erdbeben,MISC,,,de,1
+Antikörper-Marktforschung,Antikörper-Marktforschung,MISC,,,de,1
+Quicksilver Metallic,Quicksilver Metallic,MISC,,,de,1
+F.A.Z.-Leser,F.A.Z.-Leser,MISC,,,de,1
+Obstlagerung,Obstlagerung,MISC,,,de,1
+Fuerza Patria“,Fuerza Patria“,MISC,,,de,1
+Taifun-Todesopfer,Taifun-Todesopfer,MISC,,,de,1
+PODCAST,PODCAST,MISC,,,de,1
+NZZ QUANTENSPRUNG,NZZ QUANTENSPRUNG,MISC,,,de,1
+Yup'ik-Artefakten,Yup'ik-Artefakten,MISC,0.0,0.0,de,1
+KI Stürme,KI Stürme,MISC,,,de,1
+"Todesopfer, i…","Todesopfer, i…",MISC,,,de,1
+Der Sturm Kalmaegi,Der Sturm Kalmaegi,MISC,,,de,1
+Klimaziele“,Klimaziele“,MISC,,,de,1
+Jahr 2026,Jahr 2026,MISC,,,de,1
+argentinischen,argentinischen,MISC,,,de,1
+Zwei Menschen sterben bei Überschwemmung Wassermassen,Zwei Menschen sterben bei Überschwemmung Wassermassen,MISC,,,de,1
+Atlantiks,Atlantiks,MISC,,,de,1
+Cascadia-Megabeben,Cascadia-Megabeben,MISC,,,de,1
+Fix our Forests“,Fix our Forests“,MISC,,,de,1
+umstürzte,umstürzte,MISC,,,de,1
+Fix our Forests Act“,Fix our Forests Act“,MISC,,,de,1
+Hundertjährige Kalender,Hundertjährige Kalender,MISC,,,de,1
+Jahr 2004,Jahr 2004,MISC,,,de,1
+Tödlicher Wirbelsturm“,Tödlicher Wirbelsturm“,MISC,,,de,1
+Richter,Richter,MISC,,,de,1
+Rabatt,Rabatt,MISC,,,de,1
+b...,b...,MISC,,,de,1
+Typhoon Family“,Typhoon Family“,MISC,,,de,1
+Erdbebengebiete,Erdbebengebiete,MISC,,,de,1
+Weihnachten,Weihnachten,MISC,,,de,1
+Alle deutschen Lawinenopfer,Alle deutschen Lawinenopfer,MISC,,,de,1
+Der Kaffeeverbrauch der Welt,Der Kaffeeverbrauch der Welt,MISC,,,de,1
+jedes Jahr Millionen von Menschen,jedes Jahr Millionen von Menschen,MISC,,,de,1
+jedes Jahr Millionen von Menschenleben,jedes Jahr Millionen von Menschenleben,MISC,,,de,1
+XPRIZE,XPRIZE,MISC,,,de,1
+Bergsteiger-Gruppe,Bergsteiger-Gruppe,MISC,,,de,1
+Aufzeichnungen im Jahr 1851,Aufzeichnungen im Jahr 1851,MISC,,,de,1
+Todesopfer des Lawinenunglücks,Todesopfer des Lawinenunglücks,MISC,,,de,1
+Herbst bringt Sonne,Herbst bringt Sonne,MISC,,,de,1
+XPRIZE Wildfire-Finale,XPRIZE Wildfire-Finale,MISC,,,de,1
+Aufstiegs,Aufstiegs,MISC,,,de,1
+norditalienischen,norditalienischen,MISC,,,de,1
+Forests Act,Forests Act,MISC,,,de,1
+PowerWood,PowerWood,MISC,,,de,1
+Freundliches Wetter,Freundliches Wetter,MISC,,,de,1
+zurückgelassenUSA Today Jamaikanische Farmen,zurückgelassenUSA Today Jamaikanische Farmen,MISC,,,de,1
+GFZ,GFZ,MISC,,,de,1
+SchlagAP,SchlagAP,MISC,,,de,1
+Todesopfer wahrscheinlich noch,Todesopfer wahrscheinlich noch,MISC,,,de,1
+Der Islam,Der Islam,MISC,,,de,1
+Land am Hindukusch“,Land am Hindukusch“,MISC,,,de,1
+Erdbebenschäden,Erdbebenschäden,MISC,,,de,1
+Nacht von Sonntag,Nacht von Sonntag,MISC,,,de,1
+Sonne am Tag,Sonne am Tag,MISC,0.0,0.0,de,1
+Vom Sturm,Vom Sturm,MISC,,,de,1
+Yup’ik-Leben,Yup’ik-Leben,MISC,,,de,1
+CALGARY,CALGARY,MISC,,,de,1
+Dienstag,Dienstag,MISC,0.0,0.0,de,1
+Tragödie in Südtirol,Tragödie in Südtirol,MISC,,,de,1
+Sieben Tote,Sieben Tote,MISC,,,de,1
+IWF-Krise,IWF-Krise,MISC,,,de,1
+Yale Climate Connections Hurrikan Melissa,Yale Climate Connections Hurrikan Melissa,MISC,,,de,1
+Todesopfer nach einer Woche,Todesopfer nach einer Woche,MISC,,,de,1
+NordatlantiksYale Climate Connections,NordatlantiksYale Climate Connections,MISC,,,de,1
+Britische,Britische,MISC,,,de,1
+Expeditions-Unternehmen,Expeditions-Unternehmen,MISC,,,de,1
+Sieben Tote bei Lawinenunglück,Sieben Tote bei Lawinenunglück,MISC,,,de,1
+Afghanistan Earthquake News Today Live-Updates,Afghanistan Earthquake News Today Live-Updates,MISC,,,de,1
+Drei deutsche Bergsteiger,Drei deutsche Bergsteiger,MISC,,,de,1
+Ortlergbirge,Ortlergbirge,MISC,,,de,1
+Plazenta,Plazenta,MISC,,,de,1
+bringenAP News Hurrikan Me…,bringenAP News Hurrikan Me…,MISC,,,de,1
+Schwangere Frauen,Schwangere Frauen,MISC,,,de,1
+DWD-Prognose,DWD-Prognose,MISC,,,de,1
+Fünf Deutsche,Fünf Deutsche,MISC,,,de,1
+islamischen,islamischen,MISC,,,de,1
+"Tödlicher Sturm ""Melissa","Tödlicher Sturm ""Melissa",MISC,,,de,1
+Ein Schneebrett,Ein Schneebrett,MISC,,,de,1
+nepalesische,nepalesische,MISC,,,de,1
+Samstag,Samstag,MISC,,,de,1
+Tag unterweg…,Tag unterweg…,MISC,,,de,1
+Lawinenunglück“,Lawinenunglück“,MISC,,,de,1
+Sky News Hurrikan Melissa,Sky News Hurrikan Melissa,MISC,,,de,1
+Naturkatastrophe“,Naturkatastrophe“,MISC,,,de,1
 Wahrnehmung von Zeit,Wahrnehmung von Zeit,MISC,,,de,1
-Ein Hurrikan,Ein Hurrikan,MISC,,,de,1
-Ein grausames Fehlverhalten“,Ein grausames Fehlverhalten“,MISC,,,de,1
+Prognose“,Prognose“,MISC,,,de,1
+Mana Road,Mana Road,MISC,,,de,1
+NSL-Finale,NSL-Finale,MISC,,,de,1
+n&auml;mlich,n&auml;mlich,MISC,,,de,1
+☕️ FC-Frühstück,☕️ FC-Frühstück,MISC,,,de,1
+Tor des Jahres,Tor des Jahres,MISC,,,de,1
+Lewandowski-Zauber,Lewandowski-Zauber,MISC,,,de,1
+Tor des Jahres im Schnee ❄,Tor des Jahres im Schnee ❄,MISC,,,de,1
+kanadischen,kanadischen,MISC,,,de,1
+Frühlingshafte Temperaturen,Frühlingshafte Temperaturen,MISC,,,de,1
+Jahr 2025,Jahr 2025,MISC,,,de,1
+Anschluss,Anschluss,MISC,,,de,1
+Frost-Einbruch,Frost-Einbruch,MISC,,,de,1
+Teheran,Teheran,MISC,0.0,0.0,de,1
+Hurrikan Ian im Jahr 2022,Hurrikan Ian im Jahr 2022,MISC,,,de,1
+Alpen-Gemeinde,Alpen-Gemeinde,MISC,,,de,1
+Druckkürzungen“,Druckkürzungen“,MISC,,,de,1
+christlicher,christlicher,MISC,,,de,1
+Klimarisiko-Index 2026,Klimarisiko-Index 2026,MISC,,,de,1
+Saison,Saison,MISC,,,de,1
+Radical Road-Pfad,Radical Road-Pfad,MISC,,,de,1
+Icicyle Kick“,Icicyle Kick“,MISC,,,de,1
+Das Haus,Das Haus,MISC,,,de,1
+Taifun Fung-Wong,Taifun Fung-Wong,MISC,,,de,1
+Supertaifun Uwan,Supertaifun Uwan,MISC,,,de,1
+Neuseeländische,Neuseeländische,MISC,,,de,1
+neuseeländischen,neuseeländischen,MISC,,,de,1
+Philippinische Familie,Philippinische Familie,MISC,,,de,1
+philippinischer,philippinischer,MISC,,,de,1
+Die Situation des Wasserbankrotts,Die Situation des Wasserbankrotts,MISC,,,de,1
+brasilianischen,brasilianischen,MISC,,,de,1
+Boom“-Geräusch,Boom“-Geräusch,MISC,,,de,1
+Guten Morgen!,Guten Morgen!,MISC,,,de,1
+SMS,SMS,MISC,,,de,1
+Mein kalifornisches Mädchen,Mein kalifornisches Mädchen,MISC,,,de,1
+Saison Schnee,Saison Schnee,MISC,,,de,1
+Canadian Premier League,Canadian Premier League,MISC,,,de,1
+Rettungsmaßnahmen,Rettungsmaßnahmen,MISC,,,de,1
+Internet,Internet,MISC,,,de,1
+Feuerwehrleute auf der Insel Hawaii,Feuerwehrleute auf der Insel Hawaii,MISC,,,de,1
+UNO-Umweltprogramms,UNO-Umweltprogramms,MISC,,,de,1
+Leid der Engel,Leid der Engel,MISC,,,de,1
+kolumbianische,kolumbianische,MISC,,,de,1
+Wochenbeginn,Wochenbeginn,MISC,,,de,1
+Vulnado“,Vulnado“,MISC,,,de,1
+Kīlauea-Vulkan,Kīlauea-Vulkan,MISC,,,de,1
+Bajo Un Volcán“,Bajo Un Volcán“,MISC,,,de,1
+Kolumbiens Stadt,Kolumbiens Stadt,MISC,,,de,1
+40 Jahre,40 Jahre,MISC,,,de,1
+Status-Orange-Warnung,Status-Orange-Warnung,MISC,,,de,1
+Berlins Koalition,Berlins Koalition,MISC,,,de,1
+Sieben Jahre nach dem Unglück auf der Sihlhochstrasse,Sieben Jahre nach dem Unglück auf der Sihlhochstrasse,MISC,,,de,1
+Zürcher,Zürcher,MISC,,,de,1
+"Ein Erdbeben der Stärke 3,4","Ein Erdbeben der Stärke 3,4",MISC,,,de,1
+Wegner,Wegner,MISC,0.0,0.0,de,1
+Atlantik-Hurrikansaison 2025,Atlantik-Hurrikansaison 2025,MISC,,,de,1
+Hurrikansaison 2025,Hurrikansaison 2025,MISC,,,de,1
+sushasan ki jeet“,sushasan ki jeet“,MISC,,,de,1
+Nitish CM,Nitish CM,MISC,,,de,1
+Möglicher Tornado,Möglicher Tornado,MISC,,,de,1
+A Lot of Uncertainty“,A Lot of Uncertainty“,MISC,,,de,1
+Dienstagnachmittag,Dienstagnachmittag,MISC,,,de,1
+COP30-Bericht,COP30-Bericht,MISC,,,de,1
+Levi,Levi,MISC,0.0,0.0,de,1
+Klimakonferenz in Brasilien,Klimakonferenz in Brasilien,MISC,,,de,1
+CO2-neutral,CO2-neutral,MISC,,,de,1
+Hochwasserwarnung via Glasfaserkabel,Hochwasserwarnung via Glasfaserkabel,MISC,,,de,1
+Schlechtes Wetter,Schlechtes Wetter,MISC,,,de,1
+Palisades-Waldbrände,Palisades-Waldbrände,MISC,,,de,1
+SPACE.com,SPACE.com,MISC,,,de,1
+Schreckliches Video,Schreckliches Video,MISC,,,de,1
+Shiffrin,Shiffrin,MISC,,,de,1
+Trinkwasser-Sicherungsplan,Trinkwasser-Sicherungsplan,MISC,,,de,1
+Weltcup-Slalomrennen,Weltcup-Slalomrennen,MISC,,,de,1
+finnische,finnische,MISC,,,de,1
+Weltmeisterschaft…,Weltmeisterschaft…,MISC,,,de,1
+CO₂-Emissionen,CO₂-Emissionen,MISC,,,de,1
+Seamount im Jahr 2025,Seamount im Jahr 2025,MISC,,,de,1
+Life is Strange“,Life is Strange“,MISC,,,de,1
+Sturm auf der Erde,Sturm auf der Erde,MISC,,,de,1
+Straßenverkehr“,Straßenverkehr“,MISC,,,de,1
+Temperatur-Jo-Jo,Temperatur-Jo-Jo,MISC,,,de,1
+Die EU-Umweltminister,Die EU-Umweltminister,MISC,,,de,1
+adidas Holiday 2025,adidas Holiday 2025,MISC,,,de,1
+Anzeige*Winter is coming,Anzeige*Winter is coming,MISC,,,de,1
+Volcanic Wine Packaging-Kollektion,Volcanic Wine Packaging-Kollektion,MISC,,,de,1
+Sde Teiman-Lecks,Sde Teiman-Lecks,MISC,,,de,1
+■ Es,■ Es,MISC,,,de,1
+KI-generierte,KI-generierte,MISC,,,de,1
+Ökologin,Ökologin,MISC,,,de,1
+Vietnamesische,Vietnamesische,MISC,,,de,1
+Survival-Spiel,Survival-Spiel,MISC,,,de,1
+Der Hurrikan,Der Hurrikan,MISC,,,de,1
 Zeit mit jedem Jahr schneller,Zeit mit jedem Jahr schneller,MISC,,,de,1
 Taifun in diesem Jahr,Taifun in diesem Jahr,MISC,,,de,1
 Südchinesischen …,Südchinesischen …,MISC,,,de,1
-tansanischen,tansanischen,MISC,,,de,1
-Hurrikan Gilbert,Hurrikan Gilbert,MISC,,,de,1
 Dein Prozessor,Dein Prozessor,MISC,,,de,1
-russischen Angriffskrieg,russischen Angriffskrieg,MISC,,,de,1
-Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,1
-Ein Jahr nach den verheerenden Überschwemmungen,Ein Jahr nach den verheerenden Überschwemmungen,MISC,,,de,1
-Der Hurrikan,Der Hurrikan,MISC,,,de,1
-Luft...,Luft...,MISC,,,de,1
-Todesopfer des Lawinenunglücks,Todesopfer des Lawinenunglücks,MISC,,,de,1
-Alle deutschen Lawinenopfer,Alle deutschen Lawinenopfer,MISC,,,de,1
-Forests Act,Forests Act,MISC,,,de,1
-Die EU-Umweltminister,Die EU-Umweltminister,MISC,,,de,1
-Vom Sturm,Vom Sturm,MISC,,,de,1
-SchlagAP,SchlagAP,MISC,,,de,1
-zurückgelassenUSA Today Jamaikanische Farmen,zurückgelassenUSA Today Jamaikanische Farmen,MISC,,,de,1
-Freundliches Wetter,Freundliches Wetter,MISC,,,de,1
-norditalienischen,norditalienischen,MISC,,,de,1
-Herbst bringt Sonne,Herbst bringt Sonne,MISC,,,de,1
+CPU,CPU,MISC,,,de,1
+Konvergenz- und Stabilitätsanalyse,Konvergenz- und Stabilitätsanalyse,MISC,,,de,1
+LSTM,LSTM,MISC,,,de,1
+Waldbrandbekämpfungsvorfälle im Jahr 2023,Waldbrandbekämpfungsvorfälle im Jahr 2023,MISC,,,de,1
+⒢ c,⒢ c,MISC,,,de,1
+筝③茵コ＜ソ腓障茘激ケｃ違腴❼茵若ア」潟ーぞ源罩≪⒤,筝③茵コ＜ソ腓障茘激ケｃ違腴❼茵若ア」潟ーぞ源罩≪⒤,MISC,,,de,1
+Hinton-Gemeinde,Hinton-Gemeinde,MISC,,,de,1
+Erdrutschsieg,Erdrutschsieg,MISC,,,de,1
+Todesopfer durch den Taifun Kalmaegi 85,Todesopfer durch den Taifun Kalmaegi 85,MISC,,,de,1
+Der Junge und der Hund 2024,Der Junge und der Hund 2024,MISC,,,de,1
+Hund b…,Hund b…,MISC,,,de,1
+Jahr 1998,Jahr 1998,MISC,,,de,1
+Glacier White Pearl,Glacier White Pearl,MISC,,,de,1
 Todesopfer durch Taifun,Todesopfer durch Taifun,MISC,,,de,1
 Supertaifun,Supertaifun,MISC,,,de,1
-Bergsteiger-Gruppe,Bergsteiger-Gruppe,MISC,,,de,1
-Der Kaffeeverbrauch der Welt,Der Kaffeeverbrauch der Welt,MISC,,,de,1
-Fung-Wong“,Fung-Wong“,MISC,,,de,1
-bringenAP News Hurrikan Me…,bringenAP News Hurrikan Me…,MISC,,,de,1
-italienische,italienische,MISC,,,de,1
-Prognose“,Prognose“,MISC,,,de,1
-筝③茵コ＜ソ腓障茘激ケｃ違腴❼茵若ア」潟ーぞ源罩≪⒤,筝③茵コ＜ソ腓障茘激ケｃ違腴❼茵若ア」潟ーぞ源罩≪⒤,MISC,,,de,1
-Taifun-Todesopfer,Taifun-Todesopfer,MISC,,,de,1
-hessische,hessische,MISC,,,de,1
-Was Reisende,Was Reisende,MISC,,,de,1
-Todesopfer nach einer Woche,Todesopfer nach einer Woche,MISC,,,de,1
-Expeditions-Unternehmen,Expeditions-Unternehmen,MISC,,,de,1
-Deutschen,Deutschen,MISC,,,de,1
-F.A.Z.-Leser,F.A.Z.-Leser,MISC,,,de,1
-Londoner,Londoner,MISC,,,de,1
-Plazenta,Plazenta,MISC,,,de,1
-Schwangere Frauen,Schwangere Frauen,MISC,,,de,1
-DWD-Prognose,DWD-Prognose,MISC,,,de,1
-Atlantiks,Atlantiks,MISC,,,de,1
-Todesopfer durch den Taifun auf den Philippinen,Todesopfer durch den Taifun auf den Philippinen,MISC,,,de,1
-Klimaziele“,Klimaziele“,MISC,,,de,1
-Der Sturm Kalmaegi,Der Sturm Kalmaegi,MISC,,,de,1
-Aufzeichnungen im Jahr 1851,Aufzeichnungen im Jahr 1851,MISC,,,de,1
-Sky News Hurrikan Melissa,Sky News Hurrikan Melissa,MISC,,,de,1
-Ein Schneebrett,Ein Schneebrett,MISC,,,de,1
-"Tödlicher Sturm ""Melissa","Tödlicher Sturm ""Melissa",MISC,,,de,1
-Taifuns Rai,Taifuns Rai,MISC,,,de,1
-Philippinen Taifun,Philippinen Taifun,MISC,,,de,1
-b...,b...,MISC,,,de,1
-Rabatt,Rabatt,MISC,,,de,1
-Richter,Richter,MISC,,,de,1
-Tödlicher Wirbelsturm“,Tödlicher Wirbelsturm“,MISC,,,de,1
-BPBD Jakarta ...,BPBD Jakarta ...,MISC,,,de,1
-US-amerikanischen,US-amerikanischen,MISC,,,de,1
-Zwei Menschen sterben bei Überschwemmung Wassermassen,Zwei Menschen sterben bei Überschwemmung Wassermassen,MISC,,,de,1
-KI Stürme,KI Stürme,MISC,,,de,1
-NZZ QUANTENSPRUNG,NZZ QUANTENSPRUNG,MISC,,,de,1
-PODCAST,PODCAST,MISC,,,de,1
-Yup’ik-Leben,Yup’ik-Leben,MISC,,,de,1
-Yup'ik-Artefakten,Yup'ik-Artefakten,MISC,0.0,0.0,de,1
-griechischen,griechischen,MISC,,,de,1
-Der jüngste Sturm,Der jüngste Sturm,MISC,,,de,1
-Waldbrandsaison 2025,Waldbrandsaison 2025,MISC,,,de,1
-Limit“,Limit“,MISC,,,de,1
-Wildnis“,Wildnis“,MISC,,,de,1
-Britische,Britische,MISC,,,de,1
-Fünf Deutsche,Fünf Deutsche,MISC,,,de,1
-Tragödie in Südtirol,Tragödie in Südtirol,MISC,,,de,1
+Einbruch der Dunkelheit am Mittwochabend,Einbruch der Dunkelheit am Mittwochabend,MISC,,,de,1
+Nepalesische,Nepalesische,MISC,,,de,1
 BOE,BOE,MISC,,,de,1
-Lawinenunglück,Lawinenunglück,MISC,0.0,0.0,de,1
 Gewinnflut,Gewinnflut,MISC,,,de,1
 IPCC-Forscher,IPCC-Forscher,MISC,,,de,1
-NordatlantiksYale Climate Connections,NordatlantiksYale Climate Connections,MISC,,,de,1
 Temperaturanstieg,Temperaturanstieg,MISC,,,de,1
-Yale Climate Connections Hurrikan Melissa,Yale Climate Connections Hurrikan Melissa,MISC,,,de,1
-IWF-Krise,IWF-Krise,MISC,,,de,1
-Typhoon Family“,Typhoon Family“,MISC,,,de,1
-Hurrikan MelissaThe Guardian,Hurrikan MelissaThe Guardian,MISC,,,de,1
-Wie bauen Sie,Wie bauen Sie,MISC,,,de,1
-The Guardian,The Guardian,MISC,,,de,1
-Naturkatastrophe“,Naturkatastrophe“,MISC,,,de,1
-SunCar,SunCar,MISC,,,de,1
-Guardian,Guardian,MISC,,,de,1
-Ingenieurtags,Ingenieurtags,MISC,,,de,1
-Sachsen,Sachsen,MISC,0.0,1.0,de,1
-Tornados,Tornados,MISC,,,de,1
-Toba-Superausbruch,Toba-Superausbruch,MISC,,,de,1
-Sturm Babet im Jahr 2023,Sturm Babet im Jahr 2023,MISC,,,de,1
-In·sur·rection,In·sur·rection,MISC,,,de,1
-Hurrikan Land,Hurrikan Land,MISC,,,de,1
-türkischen,türkischen,MISC,,,de,1
-COLBY,COLBY,MISC,,,de,1
-Ausbrüchen,Ausbrüchen,MISC,,,de,1
-Zomato,Zomato,MISC,,,de,1
-H2I,H2I,MISC,,,de,1
-Überschwemmungen im Jahr 2025,Überschwemmungen im Jahr 2025,MISC,,,de,1
-Überschwemmung im Jahr 2023,Überschwemmung im Jahr 2023,MISC,,,de,1
-Überschwemmungen im Jahr 2024,Überschwemmungen im Jahr 2024,MISC,,,de,1
-Asche des tödlichen Ausbruchs,Asche des tödlichen Ausbruchs,MISC,,,de,1
-JNIMS,JNIMS,MISC,,,de,1
-Fellbabys“,Fellbabys“,MISC,,,de,1
-Sahastradhara,Sahastradhara,MISC,,,de,1
-Manipur,Manipur,MISC,0.0,0.0,de,1
-Kampfmittelbeseitiger,Kampfmittelbeseitiger,MISC,,,de,1
-Tote und Vermisste,Tote und Vermisste,MISC,,,de,1
-Hongkongs Wild Weather Run,Hongkongs Wild Weather Run,MISC,,,de,1
-Downtown Globe,Downtown Globe,MISC,,,de,1
+Waldbrandsaison 2025,Waldbrandsaison 2025,MISC,,,de,1
+Philippinen Taifun,Philippinen Taifun,MISC,,,de,1
+BPBD Jakarta ...,BPBD Jakarta ...,MISC,,,de,1
+Umsiedlung,Umsiedlung,MISC,,,de,1
+Capsule,Capsule,MISC,,,de,1
+Das Wetter,Das Wetter,MISC,,,de,1
+AVAVAV x Adidas-Partnerschaft,AVAVAV x Adidas-Partnerschaft,MISC,,,de,1
+Die neue Woche,Die neue Woche,MISC,,,de,1
+Der Ablasshandel des Westens,Der Ablasshandel des Westens,MISC,,,de,1
+Manila,Manila,MISC,0.0,0.0,de,1
+Der Supertaifun «Fung-Wong,Der Supertaifun «Fung-Wong,MISC,,,de,1
+Old Man Winter“,Old Man Winter“,MISC,,,de,1
+Guten Tag,Guten Tag,MISC,,,de,1
+Skigebieten,Skigebieten,MISC,0.0,0.0,de,1
+EU-Recht,EU-Recht,MISC,,,de,1
+.The Guardian Iran,.The Guardian Iran,MISC,,,de,1
+Gefährliche bis unmögliche“ Reisebedingungen,Gefährliche bis unmögliche“ Reisebedingungen,MISC,,,de,1
+Supertaifun Fung-wong,Supertaifun Fung-wong,MISC,-0.125,0.125,de,1
+Antifa-Wetterangriff“,Antifa-Wetterangriff“,MISC,,,de,1
+Outdoor-Erlebnisse,Outdoor-Erlebnisse,MISC,,,de,1
+Wochenstart“,Wochenstart“,MISC,,,de,1
+Winterwandern,Winterwandern,MISC,,,de,1
+"Zwei Tote, Überflutungen","Zwei Tote, Überflutungen",MISC,,,de,1
+UP-DGP Vikram Singh,UP-DGP Vikram Singh,MISC,,,de,1
+Nebel und Wolken,Nebel und Wolken,MISC,,,de,1
+Zweiten Weltkrieg,Zweiten Weltkrieg,MISC,,,de,1
+japanische,japanische,MISC,,,de,1
+Ortes,Ortes,MISC,0.0,0.0,de,1
+Die Flut des Wunsches,Die Flut des Wunsches,MISC,,,de,1
+Zeit der Winterwanderer,Zeit der Winterwanderer,MISC,,,de,1
+Das Herbstwetter,Das Herbstwetter,MISC,,,de,1
+Verkehr“,Verkehr“,MISC,,,de,1
+Freitagnachmittag bei Schwarzenberg,Freitagnachmittag bei Schwarzenberg,MISC,,,de,1
+kanadische,kanadische,MISC,,,de,1
+Wasserinfrastruktur,Wasserinfrastruktur,MISC,,,de,1
+Brasilianischer,Brasilianischer,MISC,,,de,1
+Das Thema Klimawandel,Das Thema Klimawandel,MISC,,,de,1
+Sturm reißt die Menschen ins Meer,Sturm reißt die Menschen ins Meer,MISC,,,de,1
+Fire and Emergency New Zealand,Fire and Emergency New Zealand,MISC,,,de,1
+Sechs Tote,Sechs Tote,MISC,,,de,1
+Nächster Taifun,Nächster Taifun,MISC,,,de,1
+Erwärmung,Erwärmung,MISC,,,de,1
+Sturm reißt auf Teneriffa,Sturm reißt auf Teneriffa,MISC,,,de,1
+Urlaub auf Jamaika,Urlaub auf Jamaika,MISC,,,de,1
+Wetter für Halloween,Wetter für Halloween,MISC,,,de,1
+Fiat 126,Fiat 126,MISC,,,de,1
+Der jüngste Sturm,Der jüngste Sturm,MISC,,,de,1
+Stürme machten am Samstag,Stürme machten am Samstag,MISC,,,de,1
+Nutria-Invasion,Nutria-Invasion,MISC,,,de,1
+Vesuv,Vesuv,MISC,,,de,1
+Die Sturmfluten am Wochenende,Die Sturmfluten am Wochenende,MISC,,,de,1
+Boyles Roman,Boyles Roman,MISC,,,de,1
+No Way Home“,No Way Home“,MISC,,,de,1
+Liebe in Zeiten der Dürre Kammerspiel,Liebe in Zeiten der Dürre Kammerspiel,MISC,,,de,1
+Die deutsche Nordseeküste,Die deutsche Nordseeküste,MISC,,,de,1
+Hannover/Hamburg/Kiel/Schwerin,Hannover/Hamburg/Kiel/Schwerin,MISC,,,de,1
+CO2-Emissionen,CO2-Emissionen,MISC,,,de,1
+Ein Sturmtief,Ein Sturmtief,MISC,,,de,1
+Sturm und Regen“,Sturm und Regen“,MISC,,,de,1
+Ungemütliches,Ungemütliches,MISC,,,de,1
+Die angekündigte Sturmflut,Die angekündigte Sturmflut,MISC,,,de,1
+schleswig-holsteinische,schleswig-holsteinische,MISC,,,de,1
+Windsurf-Elite,Windsurf-Elite,MISC,,,de,1
+ungemütliches,ungemütliches,MISC,,,de,1
+Das lange Wochenende,Das lange Wochenende,MISC,,,de,1
+Nager-Reviere,Nager-Reviere,MISC,,,de,1
+Witterung,Witterung,MISC,,,de,1
+Todesopfer in Vietnam,Todesopfer in Vietnam,MISC,,,de,1
 "Magnitude 2,3","Magnitude 2,3",MISC,,,de,1
-Grundwas…,Grundwas…,MISC,,,de,1
-Gefährlicher Trend,Gefährlicher Trend,MISC,,,de,1
-Live-Karten,Live-Karten,MISC,,,de,1
-Goldener Herbst,Goldener Herbst,MISC,,,de,1
-deutscher,deutscher,MISC,,,de,1
-griechische,griechische,MISC,,,de,1
-Kühles Herbstwetter,Kühles Herbstwetter,MISC,,,de,1
-ClimateWatch“,ClimateWatch“,MISC,,,de,1
-Sturm Mangkhut,Sturm Mangkhut,MISC,,,de,1
-CNN-Tochtergesellschaft,CNN-Tochtergesellschaft,MISC,,,de,1
-nächstes Jahr,nächstes Jahr,MISC,,,de,1
-Camp Mystic-Wohnmobils,Camp Mystic-Wohnmobils,MISC,,,de,1
-Orkan Daria,Orkan Daria,MISC,,,de,1
-Bewegung von Magma,Bewegung von Magma,MISC,,,de,1
-christliche,christliche,MISC,,,de,1
-indische,indische,MISC,,,de,1
-Baumbestand in Deutschland,Baumbestand in Deutschland,MISC,,,de,1
-Jammu &…,Jammu &…,MISC,,,de,1
-russischer,russischer,MISC,,,de,1
-NGOs,NGOs,MISC,,,de,1
-Ausnahmezustand,Ausnahmezustand,MISC,,,de,1
-Kilauea,Kilauea,MISC,-0.05833333333333333,0.0,de,1
-Episode vulkanischer Aktivität,Episode vulkanischer Aktivität,MISC,,,de,1
-KI-generiert,KI-generiert,MISC,,,de,1
-Rettungsbemühungen,Rettungsbemühungen,MISC,,,de,1
-Delhi-NCR,Delhi-NCR,MISC,,,de,1
-Trümmern,Trümmern,MISC,0.2333333333333333,0.0,de,1
-Ein Mann und eine Frau,Ein Mann und eine Frau,MISC,,,de,1
-Erdbebens in Afghanistan,Erdbebens in Afghanistan,MISC,,,de,1
-Hawaii im Jahr 2023,Hawaii im Jahr 2023,MISC,,,de,1
-Todesopfer bei den Waldbränden,Todesopfer bei den Waldbränden,MISC,,,de,1
-Risiko-Gebieten,Risiko-Gebieten,MISC,,,de,1
-Die Opferzahl bei der Erdbebenkatastrophe,Die Opferzahl bei der Erdbebenkatastrophe,MISC,,,de,1
-italienischen,italienischen,MISC,,,de,1
-RTA“,RTA“,MISC,,,de,1
-Neue Erdbeben-Katastrophe sucht Afghanistan,Neue Erdbeben-Katastrophe sucht Afghanistan,MISC,,,de,1
-Tages,Tages,MISC,,,de,1
-Indus Waters-Vertrag,Indus Waters-Vertrag,MISC,,,de,1
-J&K,J&K,MISC,,,de,1
-Suche nach Überlebenden,Suche nach Überlebenden,MISC,,,de,1
-hawaiianischen,hawaiianischen,MISC,,,de,1
-"Tag aus, Asche","Tag aus, Asche",MISC,,,de,1
-Todesopfer auf über 2.200,Todesopfer auf über 2.200,MISC,,,de,1
-Die Suche,Die Suche,MISC,,,de,1
-Indonesische,Indonesische,MISC,,,de,1
-Realtor.com,Realtor.com,MISC,,,de,1
-Hurrikan Katrina,Hurrikan Katrina,MISC,,,de,1
-Zwanzig Jahre nach dem,Zwanzig Jahre nach dem,MISC,,,de,1
-de…,de…,MISC,,,de,1
-Berührungsverbot für Männer,Berührungsverbot für Männer,MISC,,,de,1
-pakistanische,pakistanische,MISC,,,de,1
-Wir werden hungrig sterben“,Wir werden hungrig sterben“,MISC,,,de,1
-CHANDIGARH,CHANDIGARH,MISC,,,de,1
-Jammu-Verwaltung,Jammu-Verwaltung,MISC,,,de,1
-Vizepräsidentschaftswahlen,Vizepräsidentschaftswahlen,MISC,,,de,1
-BJP-Präsident,BJP-Präsident,MISC,,,de,1
-NDA-Abgeordneten,NDA-Abgeordneten,MISC,,,de,1
-PM Modi,PM Modi,MISC,,,de,1
-Heaven's 27 Camp Safety Act“,Heaven's 27 Camp Safety Act“,MISC,,,de,1
-Todesopfer unter den...,Todesopfer unter den...,MISC,,,de,1
-Camp Mystic-Opfern,Camp Mystic-Opfern,MISC,,,de,1
-Erdbeben-Toten,Erdbeben-Toten,MISC,,,de,1
 Der Tropensturm «Bualoi,Der Tropensturm «Bualoi,MISC,,,de,1
 EU-Bericht,EU-Bericht,MISC,,,de,1
 Umweltkrise,Umweltkrise,MISC,,,de,1
 Ein Jahr nach tödlichen Überschwemmungen,Ein Jahr nach tödlichen Überschwemmungen,MISC,,,de,1
-Documentary Directing Award,Documentary Directing Award,MISC,,,de,1
-Netflix,Netflix,MISC,0.0,0.0,de,1
-Biathlon-Show,Biathlon-Show,MISC,,,de,1
-Münchner,Münchner,MISC,,,de,1
-Loop One Festival,Loop One Festival,MISC,,,de,1
-Halemaumau-Krater,Halemaumau-Krater,MISC,,,de,1
+Boden-Frost,Boden-Frost,MISC,,,de,1
+Freistaat,Freistaat,MISC,0.0,0.0,de,1
+Bualoi,Bualoi,MISC,0.0,0.0,de,1
+Schönes Wetter,Schönes Wetter,MISC,,,de,1
+Ein Jahr nach der Flut,Ein Jahr nach der Flut,MISC,,,de,1
+Ibiza und Formentera,Ibiza und Formentera,MISC,,,de,1
+Erdbeben“,Erdbeben“,MISC,,,de,1
+Imelda,Imelda,MISC,,,de,1
+Wolkenkratzer,Wolkenkratzer,MISC,,,de,1
+Frost am Morgen,Frost am Morgen,MISC,,,de,1
+Wetterbericht“,Wetterbericht“,MISC,,,de,1
+12 Mio. Euro,12 Mio. Euro,MISC,,,de,1
+Sturm über Nordeuropa,Sturm über Nordeuropa,MISC,,,de,1
+Gefährlicher Trend,Gefährlicher Trend,MISC,,,de,1
+Todesopfer durch sintflutartige Regenfälle,Todesopfer durch sintflutartige Regenfälle,MISC,,,de,1
+Alice“,Alice“,MISC,,,de,1
+Reis,Reis,MISC,,,de,1
+Hochwasserschutz-Skandal,Hochwasserschutz-Skandal,MISC,,,de,1
+Division Road …,Division Road …,MISC,,,de,1
+Schwacher Polarwirbel,Schwacher Polarwirbel,MISC,,,de,1
+La Nina-Phase,La Nina-Phase,MISC,,,de,1
+Flut-Hölle,Flut-Hölle,MISC,,,de,1
+Wetter in Bayern“,Wetter in Bayern“,MISC,,,de,1
+RSF,RSF,MISC,,,de,1
+Ein Jahr „ohne Dürre“,Ein Jahr „ohne Dürre“,MISC,,,de,1
+Todesopfer durch die sintflutartigen Regenfälle,Todesopfer durch die sintflutartigen Regenfälle,MISC,,,de,1
+Online-Abo,Online-Abo,MISC,,,de,1
+Die Zahl der Sterbefälle,Die Zahl der Sterbefälle,MISC,,,de,1
+Böiger Wind,Böiger Wind,MISC,,,de,1
+Thanksgiving-Wochenende,Thanksgiving-Wochenende,MISC,,,de,1
+West-Alaska,West-Alaska,MISC,,,de,1
+Der Kern des Sturms,Der Kern des Sturms,MISC,,,de,1
+Längere Dürren,Längere Dürren,MISC,,,de,1
+Hause den Wasserverbrauch,Hause den Wasserverbrauch,MISC,,,de,1
+Tsunami-Warnungen,Tsunami-Warnungen,MISC,,,de,1
+Frankfurter,Frankfurter,MISC,,,de,1
+C,C,MISC,,,de,1
+südeuropäische,südeuropäische,MISC,,,de,1
+Betroffenen im Jahr 2024,Betroffenen im Jahr 2024,MISC,,,de,1
+Katastrophe,Katastrophe,MISC,,,de,1
+BMKG mahnt zur Ruhe,BMKG mahnt zur Ruhe,MISC,,,de,1
+Küste,Küste,MISC,0.0,0.0,de,1
+klimagerechten Bauen,klimagerechten Bauen,MISC,,,de,1
+Hause bei ihrer Familie,Hause bei ihrer Familie,MISC,,,de,1
+Der Auftakt,Der Auftakt,MISC,,,de,1
+Tsumani-Warnung,Tsumani-Warnung,MISC,,,de,1
+Kriegsbeginn,Kriegsbeginn,MISC,,,de,1
+Die Schwarze Elster,Die Schwarze Elster,MISC,,,de,1
+Skisaison 2025/26,Skisaison 2025/26,MISC,,,de,1
+Kippele­mente,Kippele­mente,MISC,,,de,1
+Erdbebenopfern,Erdbebenopfern,MISC,,,de,1
+Grundwas…,Grundwas…,MISC,,,de,1
+Sanierungsarbeiten,Sanierungsarbeiten,MISC,,,de,1
+Kaltfront,Kaltfront,MISC,-0.09999999999999999,0.0,de,1
+BJP-Präsident,BJP-Präsident,MISC,,,de,1
+Jammu-Verwaltung,Jammu-Verwaltung,MISC,,,de,1
+Erdbeben-Toten,Erdbeben-Toten,MISC,,,de,1
+Camp Mystic-Opfern,Camp Mystic-Opfern,MISC,,,de,1
+Todesopfer unter den...,Todesopfer unter den...,MISC,,,de,1
+Heaven's 27 Camp Safety Act“,Heaven's 27 Camp Safety Act“,MISC,,,de,1
+PM Modi,PM Modi,MISC,,,de,1
+NDA-Abgeordneten,NDA-Abgeordneten,MISC,,,de,1
+Vizepräsidentschaftswahlen,Vizepräsidentschaftswahlen,MISC,,,de,1
+"Tag aus, Asche","Tag aus, Asche",MISC,,,de,1
+CHANDIGARH,CHANDIGARH,MISC,,,de,1
+Die Suche,Die Suche,MISC,,,de,1
+Wir werden hungrig sterben“,Wir werden hungrig sterben“,MISC,,,de,1
+pakistanische,pakistanische,MISC,,,de,1
+Berührungsverbot für Männer,Berührungsverbot für Männer,MISC,,,de,1
+de…,de…,MISC,0.0,0.0,de,1
+Zwanzig Jahre nach dem,Zwanzig Jahre nach dem,MISC,,,de,1
+Todesopfer auf über 2.200,Todesopfer auf über 2.200,MISC,,,de,1
+hawaiianischen,hawaiianischen,MISC,,,de,1
+Realtor.com,Realtor.com,MISC,,,de,1
+Todesopfer bei den Waldbränden,Todesopfer bei den Waldbränden,MISC,,,de,1
+Suche nach Überlebenden,Suche nach Überlebenden,MISC,,,de,1
+J&K,J&K,MISC,,,de,1
+Indus Waters-Vertrag,Indus Waters-Vertrag,MISC,,,de,1
+Neue Erdbeben-Katastrophe sucht Afghanistan,Neue Erdbeben-Katastrophe sucht Afghanistan,MISC,,,de,1
+RTA“,RTA“,MISC,,,de,1
+Die Opferzahl bei der Erdbebenkatastrophe,Die Opferzahl bei der Erdbebenkatastrophe,MISC,,,de,1
+Risiko-Gebieten,Risiko-Gebieten,MISC,,,de,1
+Hawaii im Jahr 2023,Hawaii im Jahr 2023,MISC,,,de,1
+Kilauea,Kilauea,MISC,-0.05833333333333333,0.0,de,1
+Erdbebens in Afghanistan,Erdbebens in Afghanistan,MISC,0.0,0.0,de,1
+Ein Mann und eine Frau,Ein Mann und eine Frau,MISC,,,de,1
+Trümmern,Trümmern,MISC,0.175,0.0,de,1
+Delhi-NCR,Delhi-NCR,MISC,,,de,1
+Rettungsbemühungen,Rettungsbemühungen,MISC,,,de,1
+KI-generiert,KI-generiert,MISC,,,de,1
+Episode vulkanischer Aktivität,Episode vulkanischer Aktivität,MISC,,,de,1
+Hurrikan Katrina,Hurrikan Katrina,MISC,,,de,1
+Indonesische,Indonesische,MISC,,,de,1
+Live-Karten,Live-Karten,MISC,,,de,1
+Camp Mystic-Wohnmobils,Camp Mystic-Wohnmobils,MISC,,,de,1
+Tote und Vermisste,Tote und Vermisste,MISC,,,de,1
+Hongkongs Wild Weather Run,Hongkongs Wild Weather Run,MISC,,,de,1
+Sturm Mangkhut,Sturm Mangkhut,MISC,,,de,1
+Baumbestand in Deutschland,Baumbestand in Deutschland,MISC,,,de,1
+christliche,christliche,MISC,,,de,1
+Bewegung von Magma,Bewegung von Magma,MISC,,,de,1
+Orkan Daria,Orkan Daria,MISC,,,de,1
+nächstes Jahr,nächstes Jahr,MISC,,,de,1
+Toba-Superausbruch,Toba-Superausbruch,MISC,,,de,1
+Ernstfall“,Ernstfall“,MISC,,,de,1
+CNN-Tochtergesellschaft,CNN-Tochtergesellschaft,MISC,,,de,1
+ClimateWatch“,ClimateWatch“,MISC,,,de,1
+Downtown Globe,Downtown Globe,MISC,,,de,1
+Kühles Herbstwetter,Kühles Herbstwetter,MISC,,,de,1
+griechische,griechische,MISC,,,de,1
+Goldener Herbst,Goldener Herbst,MISC,,,de,1
+Kampfmittelbeseitiger,Kampfmittelbeseitiger,MISC,,,de,1
+Sturm Babet im Jahr 2023,Sturm Babet im Jahr 2023,MISC,,,de,1
+Ausnahmezustand,Ausnahmezustand,MISC,,,de,1
+Asche des tödlichen Ausbruchs,Asche des tödlichen Ausbruchs,MISC,,,de,1
+russischer,russischer,MISC,,,de,1
+Ingenieurtags,Ingenieurtags,MISC,,,de,1
+Jammu &…,Jammu &…,MISC,,,de,1
+Manipur,Manipur,MISC,0.0,0.0,de,1
+Sahastradhara,Sahastradhara,MISC,,,de,1
+Fellbabys“,Fellbabys“,MISC,,,de,1
+JNIMS,JNIMS,MISC,,,de,1
+Überschwemmungen im Jahr 2024,Überschwemmungen im Jahr 2024,MISC,,,de,1
+In·sur·rection,In·sur·rection,MISC,,,de,1
+Überschwemmung im Jahr 2023,Überschwemmung im Jahr 2023,MISC,,,de,1
+Überschwemmungen im Jahr 2025,Überschwemmungen im Jahr 2025,MISC,,,de,1
+H2I,H2I,MISC,,,de,1
+Zomato,Zomato,MISC,,,de,1
+Ausbrüchen,Ausbrüchen,MISC,,,de,1
+COLBY,COLBY,MISC,,,de,1
+Hurrikan Land,Hurrikan Land,MISC,,,de,1
+La Niña,La Niña,MISC,,,de,1
+Kanlaon-Vulkan,Kanlaon-Vulkan,MISC,0.0,0.0,de,1
+JAKARTA,JAKARTA,MISC,,,de,1
+Ein Hurrikan,Ein Hurrikan,MISC,,,de,1
+AccuWeather,AccuWeather,MISC,,,de,1
+entwickelt.&nbsp,entwickelt.&nbsp,MISC,,,de,1
+Das Tiefdruckgebiet «Joshua,Das Tiefdruckgebiet «Joshua,MISC,,,de,1
+russischen Angriffskrieg,russischen Angriffskrieg,MISC,,,de,1
+Hurrikan Gilbert,Hurrikan Gilbert,MISC,,,de,1
+tansanischen,tansanischen,MISC,,,de,1
+Ein grausames Fehlverhalten“,Ein grausames Fehlverhalten“,MISC,,,de,1
+Anfang des Jahres,Anfang des Jahres,MISC,,,de,1
+Meine Frau,Meine Frau,MISC,,,de,1
+Spaghetti-Modelle,Spaghetti-Modelle,MISC,,,de,1
+Jacksonville-Prognose,Jacksonville-Prognose,MISC,,,de,1
+"MBI Deep Dives
+","MBI Deep Dives
+",MISC,,,de,1
+Jolly-Style,Jolly-Style,MISC,,,de,1
+Volcano Restoration Project,Volcano Restoration Project,MISC,,,de,1
+Jamaika-Bauern,Jamaika-Bauern,MISC,,,de,1
+US-amerikanische,US-amerikanische,MISC,,,de,1
+NÄHER,NÄHER,MISC,,,de,1
+Frauen-Weltmeisterschaft,Frauen-Weltmeisterschaft,MISC,,,de,1
+Hurrikan …,Hurrikan …,MISC,,,de,1
+Corona-Zeit,Corona-Zeit,MISC,,,de,1
+Sturmflut“,Sturmflut“,MISC,,,de,1
+Fischmarkt“,Fischmarkt“,MISC,,,de,1
+Joshua,Joshua,MISC,,,de,1
+Olivenernte,Olivenernte,MISC,,,de,1
+Olivenfruchtfliege,Olivenfruchtfliege,MISC,,,de,1
+Schulen“,Schulen“,MISC,,,de,1
+Reform“,Reform“,MISC,,,de,1
+Hause aus bald,Hause aus bald,MISC,,,de,1
+’s,’s,MISC,,,de,1
+Wyk auf Föhr,Wyk auf Föhr,MISC,,,de,1
+Deadliest Catch,Deadliest Catch,MISC,,,de,1
+Staffel 21,Staffel 21,MISC,,,de,1
+Wetterprognosen“,Wetterprognosen“,MISC,,,de,1
+Todesopfer in der Dominikanischen Republik,Todesopfer in der Dominikanischen Republik,MISC,,,de,1
+Heim-Sieg,Heim-Sieg,MISC,,,de,1
+Top Ten,Top Ten,MISC,,,de,1
+KINGSTON,KINGSTON,MISC,,,de,1
+Vogue WorldBBC,Vogue WorldBBC,MISC,,,de,1
+Der indonesische Berg Lewotobi Laki-laki,Der indonesische Berg Lewotobi Laki-laki,MISC,,,de,1
+Zwei Jahre nach dem verheerenden Hochwasser entlang der Glan,Zwei Jahre nach dem verheerenden Hochwasser entlang der Glan,MISC,,,de,1
+Todesopfer in Haiti,Todesopfer in Haiti,MISC,,,de,1
+Der Wirbelsturm,Der Wirbelsturm,MISC,,,de,1
+“ KI-Modell,“ KI-Modell,MISC,,,de,1
+Bewohnern,Bewohnern,MISC,,,de,1
+Alarmstufe 2,Alarmstufe 2,MISC,0.0,0.0,de,1
+Pe...,Pe...,MISC,,,de,1
+Todesopfer in der Karibik,Todesopfer in der Karibik,MISC,,,de,1
+Ein Jahr nach den verheerenden Überschwemmungen,Ein Jahr nach den verheerenden Überschwemmungen,MISC,,,de,1
+Die Gefahr von Waldbränden,Die Gefahr von Waldbränden,MISC,,,de,1
+Naturfotografie-Tutorials,Naturfotografie-Tutorials,MISC,,,de,1
+UN-Bericht,UN-Bericht,MISC,,,de,1
+Old Farmer's Almanac,Old Farmer's Almanac,MISC,,,de,1
+Luft...,Luft...,MISC,,,de,1
+Zerstörerische Winde und Sturmflut,Zerstörerische Winde und Sturmflut,MISC,,,de,1
+Todesopfer durch den katastrophalen Sturm,Todesopfer durch den katastrophalen Sturm,MISC,,,de,1
+britischen,britischen,MISC,,,de,1
+Jamaikaner,Jamaikaner,MISC,,,de,1
+Hurrikan ,Hurrikan ,MISC,,,de,1
+Vogue WorldYahoo,Vogue WorldYahoo,MISC,,,de,1
+NPAS,NPAS,MISC,,,de,1
+Hurricane Hunters“,Hurricane Hunters“,MISC,,,de,1
+Negros-LGUs,Negros-LGUs,MISC,,,de,1
+Der kleine explosive Ausbruch,Der kleine explosive Ausbruch,MISC,,,de,1
+Ma-ao,Ma-ao,MISC,,,de,1
+Treimischer Teichen,Treimischer Teichen,MISC,,,de,1
+Caritas-Kältetelefon,Caritas-Kältetelefon,MISC,,,de,1
+National Public Alerting System,National Public Alerting System,MISC,,,de,1
+Hurricane Hunters,Hurricane Hunters,MISC,,,de,1
+Sde Teiman,Sde Teiman,MISC,,,de,1
+Rabi-Pflanzung,Rabi-Pflanzung,MISC,,,de,1
+Pariser Klimaabkommen,Pariser Klimaabkommen,MISC,,,de,1
+UN 64,UN 64,MISC,,,de,1
+Klimaflucht,Klimaflucht,MISC,,,de,1
+Landesregierungen,Landesregierungen,MISC,0.0,0.0,de,1
+Hurrikan vor Jamaika“,Hurrikan vor Jamaika“,MISC,,,de,1
+Die Karibikinsel,Die Karibikinsel,MISC,,,de,1
+Wahllokalen,Wahllokalen,MISC,,,de,1
+Kalter und feuchter Morgen,Kalter und feuchter Morgen,MISC,,,de,1
+Schnee“,Schnee“,MISC,,,de,1
+andalusische,andalusische,MISC,,,de,1
+Graue Tage,Graue Tage,MISC,,,de,1
+Ein Jahr nach der Katastrophe,Ein Jahr nach der Katastrophe,MISC,,,de,1
 Regenausfall,Regenausfall,MISC,,,de,1
+Pakistans Lage,Pakistans Lage,MISC,,,de,1
+Halemaumau-Krater,Halemaumau-Krater,MISC,,,de,1
+ChatGPT,ChatGPT,MISC,,,de,1
+Loop One Festival,Loop One Festival,MISC,,,de,1
+Biathlon-Show,Biathlon-Show,MISC,,,de,1
+Am Wochenende,Am Wochenende,MISC,,,de,1
+Fundy-Gezeiten,Fundy-Gezeiten,MISC,,,de,1
+Chignecto-Isthmus,Chignecto-Isthmus,MISC,,,de,1
+Zwei Jahre nach Ostseeflut“,Zwei Jahre nach Ostseeflut“,MISC,,,de,1
+Zwei Jahre nach der Ostseesturmflut,Zwei Jahre nach der Ostseesturmflut,MISC,,,de,1
+KI,KI,MISC,,,de,1
+Netflix,Netflix,MISC,0.0,0.0,de,1
+Documentary Directing Award,Documentary Directing Award,MISC,,,de,1
 Horror-Lawine,Horror-Lawine,MISC,,,de,1
 Tag 2,Tag 2,MISC,,,de,1
-CO2,CO2,MISC,,,de,1
-UP,UP,MISC,,,de,1
-norwegische,norwegische,MISC,,,de,1
-Historische Parkanlage“,Historische Parkanlage“,MISC,,,de,1
-NRW-Wetter,NRW-Wetter,MISC,,,de,1
-Wetter-Mix“,Wetter-Mix“,MISC,,,de,1
-Nordostmonsuns,Nordostmonsuns,MISC,,,de,1
-Regen und Wind,Regen und Wind,MISC,,,de,1
-Aktivist für Kinder und Jugendliche,Aktivist für Kinder und Jugendliche,MISC,,,de,1
+Der Wind,Der Wind,MISC,,,de,1
+Oberste Gerichtshof,Oberste Gerichtshof,MISC,,,de,1
+Händewaschen,Händewaschen,MISC,,,de,1
+Hygiene,Hygiene,MISC,,,de,1
+BAGLUNG,BAGLUNG,MISC,,,de,1
+Dieses Jahr,Dieses Jahr,MISC,,,de,1
+CO2-Anstieg,CO2-Anstieg,MISC,,,de,1
 Drastischer CO2-Anstieg,Drastischer CO2-Anstieg,MISC,,,de,1
+Aktivist für Kinder und Jugendliche,Aktivist für Kinder und Jugendliche,MISC,,,de,1
+Regen und Wind,Regen und Wind,MISC,,,de,1
+Wärmeres Wetter,Wärmeres Wetter,MISC,,,de,1
+Nordostmonsuns,Nordostmonsuns,MISC,,,de,1
+NRW-Wetter,NRW-Wetter,MISC,,,de,1
+Historische Parkanlage“,Historische Parkanlage“,MISC,,,de,1
+norwegische,norwegische,MISC,,,de,1
+UP,UP,MISC,,,de,1
+CO2-Speicher,CO2-Speicher,MISC,,,de,1
+klimaschädliches CO2,klimaschädliches CO2,MISC,,,de,1
 Taftan-Vulkan,Taftan-Vulkan,MISC,0.0,0.0,de,1
-Volcano Engine,Volcano Engine,MISC,,,de,1
-ByteDance,ByteDance,MISC,,,de,1
-Burn-Mechanismus,Burn-Mechanismus,MISC,,,de,1
-Joshua“,Joshua“,MISC,,,de,1
-Krieg,Krieg,MISC,,,de,1
-Sturm ,Sturm ,MISC,,,de,1
-K-Drama-Obsession,K-Drama-Obsession,MISC,,,de,1
+Mini-Tornado“,Mini-Tornado“,MISC,,,de,1
+Wirbelsturm üb...,Wirbelsturm üb...,MISC,,,de,1
+Guardian,Guardian,MISC,,,de,1
 Eure Majestät“,Eure Majestät“,MISC,,,de,1
+K-Drama-Obsession,K-Drama-Obsession,MISC,,,de,1
+Sturm ,Sturm ,MISC,,,de,1
+Aufzeichnungen im Jahr 1894,Aufzeichnungen im Jahr 1894,MISC,,,de,1
+Regen“,Regen“,MISC,,,de,1
+Zwölf Jahre nach dem Hochwasser,Zwölf Jahre nach dem Hochwasser,MISC,,,de,1
+NGOs,NGOs,MISC,,,de,1
+Taifuns Rai,Taifuns Rai,MISC,,,de,1
+SunCar,SunCar,MISC,,,de,1
+Sturms im Jahr 2021,Sturms im Jahr 2021,MISC,,,de,1
+Rekordhitzewelle im Jahr 2023,Rekordhitzewelle im Jahr 2023,MISC,,,de,1
+Hitzewelle,Hitzewelle,MISC,0.0,0.0,de,1
+Meereshitzewelle im Jahr 2023,Meereshitzewelle im Jahr 2023,MISC,,,de,1
+Floridas,Floridas,MISC,0.0,0.0,de,1
+Mercedes-Benz C55 AMG,Mercedes-Benz C55 AMG,MISC,,,de,1
+kroatischen,kroatischen,MISC,,,de,1
 Guten Appetit,Guten Appetit,MISC,,,de,1
 PYUSD-Stablecoin,PYUSD-Stablecoin,MISC,,,de,1
 Stablecoin-Emittent Paxos,Stablecoin-Emittent Paxos,MISC,,,de,1
-iranischen,iranischen,MISC,,,de,1
-chinesische,chinesische,MISC,,,de,1
-Clean Air Act,Clean Air Act,MISC,,,de,1
-Winzer,Winzer,MISC,,,de,1
-Rainham-Vulkan“,Rainham-Vulkan“,MISC,,,de,1
-Das Philippine Institute of Volcanology and Seismology,Das Philippine Institute of Volcanology and Seismology,MISC,,,de,1
-EVP-geführte Mehrheit,EVP-geführte Mehrheit,MISC,,,de,1
-EU-Waldgesetz,EU-Waldgesetz,MISC,,,de,1
-europäisches,europäisches,MISC,,,de,1
+Burn-Mechanismus,Burn-Mechanismus,MISC,,,de,1
+Volcano Engine,Volcano Engine,MISC,,,de,1
+ByteDance,ByteDance,MISC,,,de,1
+Kräftiger Wind,Kräftiger Wind,MISC,,,de,1
 Salt Typhoon,Salt Typhoon,MISC,,,de,1
-CO2-Anstieg,CO2-Anstieg,MISC,,,de,1
-Der indonesische Berg Lewotobi Laki-laki,Der indonesische Berg Lewotobi Laki-laki,MISC,,,de,1
-JAKARTA,JAKARTA,MISC,,,de,1
-Frost am Morgen,Frost am Morgen,MISC,,,de,1
-Hause den Wasserverbrauch,Hause den Wasserverbrauch,MISC,,,de,1
-Liebe in Zeiten der Dürre Kammerspiel,Liebe in Zeiten der Dürre Kammerspiel,MISC,,,de,1
-No Way Home“,No Way Home“,MISC,,,de,1
-Boyles Roman,Boyles Roman,MISC,,,de,1
-Vesuv,Vesuv,MISC,,,de,1
-Das lange Wochenende,Das lange Wochenende,MISC,,,de,1
-CO2-Emissionen,CO2-Emissionen,MISC,,,de,1
-Wetterbericht“,Wetterbericht“,MISC,,,de,1
-Wettervorhersage“,Wettervorhersage“,MISC,,,de,1
-Environment Canada,Environment Canada,MISC,,,de,1
-Wolkenkratzer,Wolkenkratzer,MISC,,,de,1
-Erdbeben auf den Philippinen,Erdbeben auf den Philippinen,MISC,0.0,0.0,de,1
-Erdbeben“,Erdbeben“,MISC,,,de,1
-Ibiza und Formentera,Ibiza und Formentera,MISC,,,de,1
-Bualoi,Bualoi,MISC,0.0,0.0,de,1
-Todesopfer in Vietnam,Todesopfer in Vietnam,MISC,,,de,1
-Freistaat,Freistaat,MISC,0.0,0.0,de,1
-Boden-Frost,Boden-Frost,MISC,,,de,1
-Frankfurter,Frankfurter,MISC,,,de,1
-C,C,MISC,,,de,1
-Kanlaon-Vulkan,Kanlaon-Vulkan,MISC,0.0,0.0,de,1
-Schwacher Polarwirbel,Schwacher Polarwirbel,MISC,,,de,1
-Trump,Trump,MISC,,,de,1
-West-Alaska,West-Alaska,MISC,,,de,1
-Die Zahl der Sterbefälle,Die Zahl der Sterbefälle,MISC,,,de,1
-Todesopfer durch die sintflutartigen Regenfälle,Todesopfer durch die sintflutartigen Regenfälle,MISC,,,de,1
-Ein Jahr „ohne Dürre“,Ein Jahr „ohne Dürre“,MISC,,,de,1
-Wetter in Bayern“,Wetter in Bayern“,MISC,,,de,1
-Todesopfer durch sintflutartige Regenfälle,Todesopfer durch sintflutartige Regenfälle,MISC,,,de,1
-La Nina-Phase,La Nina-Phase,MISC,,,de,1
-Division Road …,Division Road …,MISC,,,de,1
-südeuropäische,südeuropäische,MISC,,,de,1
-Der Kern des Sturms,Der Kern des Sturms,MISC,,,de,1
-RSF,RSF,MISC,,,de,1
-Kippele­mente,Kippele­mente,MISC,,,de,1
-Skisaison 2025/26,Skisaison 2025/26,MISC,,,de,1
-Kriegsbeginn,Kriegsbeginn,MISC,,,de,1
-klimagerechten Bauen,klimagerechten Bauen,MISC,,,de,1
-Katastrophe,Katastrophe,MISC,,,de,1
-Betroffenen im Jahr 2024,Betroffenen im Jahr 2024,MISC,,,de,1
-Die Flut des Wunsches,Die Flut des Wunsches,MISC,,,de,1
+europäisches,europäisches,MISC,,,de,1
+EU-Waldgesetz,EU-Waldgesetz,MISC,,,de,1
+EVP-geführte Mehrheit,EVP-geführte Mehrheit,MISC,,,de,1
+Das Philippine Institute of Volcanology and Seismology,Das Philippine Institute of Volcanology and Seismology,MISC,,,de,1
+Rainham-Vulkan“,Rainham-Vulkan“,MISC,,,de,1
+Der goldene Herbst,Der goldene Herbst,MISC,,,de,1
+stern,stern,MISC,,,de,1
+tibetische,tibetische,MISC,,,de,1
+Bomben-Zyklon,Bomben-Zyklon,MISC,,,de,1
+Winzer,Winzer,MISC,,,de,1
+Clean Air Act,Clean Air Act,MISC,,,de,1
+Die verzweifelte Suche,Die verzweifelte Suche,MISC,,,de,1

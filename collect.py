@@ -40,7 +40,7 @@ githubRepos = {'MarcoL95-news/earthquakeIsComing': {'Extreme':'Earthquake'},
                'liese97-news/HurricaneIsComing': {'Extreme':'Tropical Cyclone'},
                'jens-news/hurricaneIsComing': {'Extreme':'Tropical Cyclone'},
                'MarcoL95-News25/StormIsComing': {'Extreme':'Storm'},
-               'TinoH91news/stormIsComing': {'Extreme':'Thunderstorm'},  
+               'TinoH91news/ThunderstormIsComing': {'Extreme':'Thunderstorm'},  
                'magaliekathrin-news/wildFire': {'Extreme':'Wildfire'}, 
                'MomoMusic/surgeIsComing': {'Extreme':'Storm Surge'}, 
                'tlais147-physgeo01/snowIceIsComing': {'Extreme':'Snow&Ice'},
@@ -54,11 +54,15 @@ githubRepos = {'MarcoL95-news/earthquakeIsComing': {'Extreme':'Earthquake'},
                'magaliekathrin-news/HeatIsComing': {'Extreme':'Heat Wave'},     
                'jannikdo28-news/RainIsComing': {'Extreme':'Precipitation'},  
                'mizilett-news/snowIsComing': {'Extreme':'Snow&Ice'},
-               'JW-news/coldIsComing': {'Extreme':'Cold Wave'},
+               'JW-news/ColdIsComing': {'Extreme':'Cold Wave'},
                'tg-news/EarthquakeIsComing': {'Extreme':'Earthquake'}, 
                'svpblank1/FogIsComing': {'Extreme':'Fog'},
                'celiapi-news/landslideIsComing': {'Extreme':'Landslide'},
                'MarcoL95-news/avalancheIsComing': {'Extreme':'Snow Avalanche'},
+               'friedhumb-news/thunderstormIsComing': {'Extreme':'Thunderstorm'},
+               'friedhumb-news/stormIsComing': {'Extreme':'Storm'},  
+               'MarcoL95-news/tsunamiIsComing': {'Extreme':'Tsunami'},  
+               'tg-news/TsunamiIsComing': {'Extreme':'Tsunami'}, 
               }
 
 
@@ -242,7 +246,8 @@ for repo in repos:
         for idx, column in newsDf.iterrows():
           #print(column)
           data = archiveUrl(column) 
-          data = translateData(data)
+          if(not 'la' in column):
+            data = translateData(data)
           addNewsToCollection(data)
 
 storeCollection()

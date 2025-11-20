@@ -97,6 +97,8 @@ def addNewsToCollection(data):
         #   data = archiveUrl(data)
         collectedNews[fileDate][data['hash']] = data
         return True
+      else: 
+        collectedNews[fileDate][data['hash']]['valid'] = data['valid']
     return False
 
 def storeCollection():

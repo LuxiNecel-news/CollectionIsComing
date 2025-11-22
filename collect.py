@@ -263,6 +263,7 @@ for repo in repos:
             data = translateData(data)
           addNewsToCollection(data)
 
+allLocationsDF = allLocationsDF.sort_values(by=['count'], ascending=False)
 allLocationsDF.to_csv(DATA_PATH / 'csv' / "sentiments_locations.csv", index=True)
 storeCollection()
 

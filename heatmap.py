@@ -153,6 +153,8 @@ custom_lines = [plt.Line2D([],[], ls="", marker='.',
 leg = ax1.legend(custom_lines, labelLeg, 
           loc='center left', fontsize=12, bbox_to_anchor=(0.99, .5))
 leg.set_title("Topics", prop = {'size':16}) 
+fig.add_artist(leg)
+plt.tight_layout()
 
 if(not os.path.exists(DATA_PATH / 'img')):
     os.mkdir(DATA_PATH / 'img')

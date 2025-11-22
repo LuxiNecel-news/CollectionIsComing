@@ -211,9 +211,20 @@ def translateData(data):
 
 #allExtremesDf = pd.DataFrame(None)
 
+allLocationsDF = pd.DataFrame()
 repos =  list(githubRepos.keys())     
 random.shuffle(repos)
 for repo in repos:
+  #load sentiments_locations.csv
+  locationsFile = "https://github.com/"+repo+"/blob/main/csv/sentiments_locations.csv?raw=true"
+  locationsRequest = requests.get(locationsFile, headers={'Accept': 'text/plain'})
+  if(locationsRequest.status_code == 200):
+    locationsDf=pd.read_csv(io.StringIO(locationsRequest.content.decode('utf-8')), delimiter=',')
+    locationsDf['extreme'] = githubRepos[repo]['Extreme']
+    if(allLocationsDF.empty):
+      allLocationsDF = locationsDf
+    else:
+      allLocationsDF = pd.concat(allLocationsDF,locationsDf)
   #load keywords...
   keysFile = "https://github.com/"+repo+"/blob/main/keywords.csv?raw=true"
   keyRequest = requests.get(keysFile, headers={'Accept': 'text/plain'})
@@ -252,6 +263,7 @@ for repo in repos:
             data = translateData(data)
           addNewsToCollection(data)
 
+allLocationsDF.to_csv(DATA_PATH / 'csv' / "sentiments_locations.csv", index=True)
 storeCollection()
 
 

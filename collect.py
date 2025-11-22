@@ -224,7 +224,7 @@ for repo in repos:
     if(allLocationsDF.empty):
       allLocationsDF = locationsDf
     else:
-      allLocationsDF = pd.concat(allLocationsDF,locationsDf)
+      allLocationsDF = pd.concat([allLocationsDF,locationsDf])
   #load keywords...
   keysFile = "https://github.com/"+repo+"/blob/main/keywords.csv?raw=true"
   keyRequest = requests.get(keysFile, headers={'Accept': 'text/plain'})

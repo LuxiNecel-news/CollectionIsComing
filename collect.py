@@ -98,7 +98,11 @@ def addNewsToCollection(data):
         collectedNews[fileDate][data['hash']] = data
         return True
       else: 
-        collectedNews[fileDate][data['hash']]['valid'] = data['valid']
+        if(data['topic'] == collectedNews[fileDate][data['hash']]['topic']):
+            collectedNews[fileDate][data['hash']]['valid'] = data['valid']
+        elif(collectedNews[fileDate][data['hash']]['valid']<data['valid']):
+            collectedNews[fileDate][data['hash']]['valid'] = data['valid']
+            collectedNews[fileDate][data['hash']]['topic'] = data['topic'] 
     return False
 
 def storeCollection():

@@ -1,501 +1,385 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.2341463414634146,0.012195121951219513,de,41
-DWD,DWD,ORG,-0.049999999999999996,0.06451612903225806,de,31
-National Weather Service,National Weather Service,ORG,-0.04509803921568628,0.0,de,17
-IMD,IMD,ORG,0.0625,0.0,de,16
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.24893617021276587,0.010638297872340425,de,47
+DWD,DWD,ORG,-0.0661764705882353,0.058823529411764705,de,34
+IMD,IMD,ORG,0.056060606060606054,0.030303030303030304,de,33
+National Weather Service,National Weather Service,ORG,-0.06555555555555556,0.05,de,30
+USGS,USGS,ORG,-0.03541666666666666,0.0,de,24
+NWS,NWS,ORG,-0.015942028985507263,0.043478260869565216,de,23
+KUALA LUMPUR,KUALA LUMPUR,ORG,0.021052631578947364,0.05263157894736842,de,19
+Nationale Wetterdienst,Nationale Wetterdienst,ORG,-0.01666666666666667,0.0,de,18
+Reuters,Reuters,ORG,-0.27499999999999997,0.027777777777777776,de,18
+Lawine,Lawine,ORG,-0.3852941176470588,0.0,de,17
 Taliban,Taliban,ORG,-0.15208333333333335,0.4375,de,16
-NWS,NWS,ORG,0.032222222222222215,0.06666666666666667,de,15
-Reuters,Reuters,ORG,-0.28214285714285714,0.03571428571428571,de,14
 Vulkan,Vulkan,ORG,0.14285714285714285,0.0,de,14
-USGS,USGS,ORG,-0.11923076923076922,0.0,de,13
+Wetteramt,Wetteramt,ORG,0.18928571428571428,0.0,de,14
+United States Geological Survey,United States Geological Survey,ORG,0.12142857142857143,0.0,de,14
+MetMalaysia,MetMalaysia,ORG,0.21538461538461537,0.0,de,13
 Met Éireann,Met Éireann,ORG,-0.1846153846153846,0.0,de,13
-Nationale Wetterdienst,Nationale Wetterdienst,ORG,-0.012500000000000002,0.0,de,12
-Lawine,Lawine,ORG,-0.5954545454545455,0.0,de,11
-AP,AP,ORG,0.12727272727272726,0.09090909090909091,de,11
-BNPB,BNPB,ORG,0.12727272727272726,0.18181818181818182,de,11
+AP,AP,ORG,0.11666666666666665,0.08333333333333333,de,12
+CBS News,CBS News,ORG,0.05833333333333333,0.0,de,12
 Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-0.09090909090909091,0.0,de,11
-KUALA LUMPUR,KUALA LUMPUR,ORG,0.039999999999999994,0.0,de,10
-CBS News,CBS News,ORG,0.07777777777777778,0.0,de,9
-BBC,BBC,ORG,-0.033333333333333326,0.0,de,9
-lby,lby,ORG,0.1685185185185185,0.037037037037037035,de,9
-Wetteramt,Wetteramt,ORG,0.24375,0.0,de,8
-Japan Meteorological Agency,Japan Meteorological Agency,ORG,0.26249999999999996,0.0,de,8
+lby,lby,ORG,0.13787878787878788,0.0303030303030303,de,11
+NASA,NASA,ORG,0.34545454545454546,0.0,de,11
+BNPB,BNPB,ORG,0.12727272727272726,0.18181818181818182,de,11
+BBC,BBC,ORG,-0.029999999999999992,0.0,de,10
+B.C.,B.C.,ORG,0.0,0.0,de,9
 US Geological Survey,US Geological Survey,ORG,-0.10625,0.0,de,8
+Vereinten Nationen,Vereinten Nationen,ORG,0.09583333333333333,0.0,de,8
+Japan Meteorological Agency,Japan Meteorological Agency,ORG,0.26249999999999996,0.0,de,8
+The Guardian,The Guardian,ORG,0.125,0.0,de,8
 Southern California Edison,Southern California Edison,ORG,-0.16666666666666666,0.25,de,8
-Los Angeles Times,Los Angeles Times,ORG,0.0071428571428571175,0.07142857142857142,de,7
-NASA,NASA,ORG,0.29999999999999993,0.0,de,7
+…,…,ORG,0.09583333333333334,0.0,de,8
+New York Times,New York Times,ORG,-0.33125,0.1875,de,8
+ABC News,ABC News,ORG,-0.042857142857142864,0.0,de,7
 Winterdienst,Winterdienst,ORG,-0.29999999999999993,0.0,de,7
-MetMalaysia,MetMalaysia,ORG,0.29999999999999993,0.0,de,7
-Vereinten Nationen,Vereinten Nationen,ORG,0.009523809523809514,0.0,de,7
-B.C.,B.C.,ORG,0.0,0.0,de,7
-PHIVOLCS,PHIVOLCS,ORG,0.11666666666666665,0.0,de,6
-National Disaster Mitigation Agency,National Disaster Mitigation Agency,ORG,0.11666666666666665,0.16666666666666666,de,6
-Volkswagen,Volkswagen,ORG,0.15555555555555553,0.0,de,6
-Repräsentantenhaus,Repräsentantenhaus,ORG,-0.15833333333333335,0.08333333333333333,de,6
-The Guardian,The Guardian,ORG,0.0,0.0,de,6
+Los Angeles Times,Los Angeles Times,ORG,0.0071428571428571175,0.07142857142857142,de,7
+EU,EU,ORG,-0.1285714285714286,0.03571428571428571,de,7
+India Meteorological Department,India Meteorological Department,ORG,0.24285714285714285,0.0,de,7
 Bergwacht,Bergwacht,ORG,0.05000000000000001,0.0,de,6
+PHIVOLCS,PHIVOLCS,ORG,0.11666666666666665,0.0,de,6
+Repräsentantenhaus,Repräsentantenhaus,ORG,-0.15833333333333335,0.08333333333333333,de,6
+Militär,Militär,ORG,0.2333333333333333,0.0,de,6
+Volkswagen,Volkswagen,ORG,0.15555555555555553,0.0,de,6
 EU-Länder,EU-Länder,ORG,0.0,0.0,de,6
-U.S.,U.S.,ORG,0.0,0.0,de,6
 BJP,BJP,ORG,0.06666666666666665,0.0,de,6
-New York Times,New York Times,ORG,-0.4,0.0,de,5
-Permafrost,Permafrost,ORG,-0.2,0.0,de,5
-Militär,Militär,ORG,0.13999999999999999,0.0,de,5
-Cloud Seeding,Cloud Seeding,ORG,0.0,0.0,de,5
-US-Erdbebenwarte,US-Erdbebenwarte,ORG,0.0,0.0,de,5
-India Meteorological Department,India Meteorological Department,ORG,0.13999999999999999,0.0,de,5
-IPOH,IPOH,ORG,-0.13999999999999999,0.2,de,5
-UN,UN,ORG,0.27999999999999997,0.0,de,5
-NEU-DELHI,NEU-DELHI,ORG,0.48,0.0,de,5
-KINABALU,KINABALU,ORG,-0.13999999999999999,0.0,de,5
+UN,UN,ORG,0.2333333333333333,0.0,de,6
+IPOH,IPOH,ORG,-0.11666666666666665,0.16666666666666666,de,6
+US-Erdbebenwarte,US-Erdbebenwarte,ORG,0.0,0.0,de,6
+National Disaster Mitigation Agency,National Disaster Mitigation Agency,ORG,0.11666666666666665,0.16666666666666666,de,6
+CBS,CBS,ORG,-0.11666666666666665,0.0,de,6
+CNN,CNN,ORG,0.0,0.0,de,6
+U.S.,U.S.,ORG,0.0,0.0,de,6
 NYSE,NYSE,ORG,-0.13999999999999999,0.0,de,5
-EU,EU,ORG,-0.18000000000000002,0.05,de,5
-ADAC,ADAC,ORG,0.26,0.0,de,5
-lhe,lhe,ORG,-0.2,0.2,de,5
+KINABALU,KINABALU,ORG,-0.13999999999999999,0.0,de,5
+NYC,NYC,ORG,0.27999999999999997,0.0,de,5
+OroraTech,OroraTech,ORG,0.13999999999999999,0.0,de,5
 Camp Mystic,Camp Mystic,ORG,-0.2,0.0,de,5
 EIX,EIX,ORG,0.06000000000000001,0.0,de,5
-United States Geological Survey,United States Geological Survey,ORG,0.2,0.0,de,5
-…,…,ORG,0.2,0.0,de,5
-OroraTech,OroraTech,ORG,0.13999999999999999,0.0,de,5
-Armee,Armee,ORG,0.0,0.0,de,4
-BACOLOD,BACOLOD,ORG,0.0,0.0,de,4
-Energieversorgers,Energieversorgers,ORG,-0.25,0.5,de,4
-BSR,BSR,ORG,0.0,0.0,de,4
-Beetle Dune,Beetle Dune,ORG,0.0,0.0,de,4
-LOS ANGELES,LOS ANGELES,ORG,0.04999999999999999,0.375,de,4
-Edison International,Edison International,ORG,0.07500000000000001,0.0,de,4
-Weltorganisation für Meteorologie,Weltorganisation für Meteorologie,ORG,-0.04999999999999999,0.125,de,4
+Cloud Seeding,Cloud Seeding,ORG,0.0,0.0,de,5
+Weltorganisation für Meteorologie,Weltorganisation für Meteorologie,ORG,0.1,0.1,de,5
+BYU,BYU,ORG,-0.13999999999999999,0.0,de,5
+lhe,lhe,ORG,-0.2,0.2,de,5
+ADAC,ADAC,ORG,0.26,0.0,de,5
+BACOLOD,BACOLOD,ORG,0.0,0.0,de,5
+Permafrost,Permafrost,ORG,-0.2,0.0,de,5
+NEU-DELHI,NEU-DELHI,ORG,0.48,0.0,de,5
+Armee,Armee,ORG,0.13999999999999999,0.0,de,5
+NCS,NCS,ORG,-0.175,0.0,de,4
+HANOI,HANOI,ORG,-0.07500000000000001,0.0,de,4
 Geological Survey,Geological Survey,ORG,0.0,0.0,de,4
+Edison International,Edison International,ORG,0.07500000000000001,0.0,de,4
+UCF,UCF,ORG,-0.175,0.0,de,4
 Global Water Resources,Global Water Resources,ORG,0.0,0.0,de,4
+Real Madrid,Real Madrid,ORG,1.0,0.0,de,4
+Beetle Dune,Beetle Dune,ORG,0.0,0.0,de,4
 SpaceX,SpaceX,ORG,0.0,0.25,de,4
-Deutschem Wetterdienst,Deutschem Wetterdienst,ORG,0.0,0.0,de,3
-FBI,FBI,ORG,-0.5666666666666667,0.0,de,3
-Berufsverkehr,Berufsverkehr,ORG,0.0,0.0,de,3
-BPBD,BPBD,ORG,-0.3333333333333333,0.0,de,3
-Akasa Air,Akasa Air,ORG,0.0,0.0,de,3
-The New York Times,The New York Times,ORG,0.2333333333333333,0.0,de,3
-NYC,NYC,ORG,0.4666666666666666,0.0,de,3
-Wildfire Service,Wildfire Service,ORG,0.0,0.0,de,3
-LA,LA,ORG,-0.10000000000000002,0.0,de,3
-ABC News,ABC News,ORG,-0.3333333333333333,0.0,de,3
-GeoSphere Austria,GeoSphere Austria,ORG,0.0,0.0,de,3
+Microsoft,Microsoft,ORG,0.25,0.0,de,4
+BSR,BSR,ORG,0.0,0.0,de,4
+Energieversorgers,Energieversorgers,ORG,-0.25,0.5,de,4
+LOS ANGELES,LOS ANGELES,ORG,0.04999999999999999,0.375,de,4
+MLive.com,MLive.com,ORG,0.175,0.0,de,4
+NOAA,NOAA,ORG,-0.35,0.0,de,4
+The New York Times,The New York Times,ORG,0.175,0.0,de,4
+AFP,AFP,ORG,0.13333333333333333,0.0,de,4
+Weltbank,Weltbank,ORG,0.0,0.0,de,3
+UNHCR,UNHCR,ORG,-0.3333333333333333,0.3333333333333333,de,3
+Environment Canada,Environment Canada,ORG,0.0,0.0,de,3
+NEWSWIRE,NEWSWIRE,ORG,0.2333333333333333,0.0,de,3
+National Center for Seismology,National Center for Seismology,ORG,-0.2333333333333333,0.0,de,3
+Cameron Highlands,Cameron Highlands,ORG,0.0,0.3333333333333333,de,3
 bb,bb,ORG,0.15555555555555553,0.0,de,3
+BMKG,BMKG,ORG,0.2333333333333333,0.0,de,3
+Wildfire Service,Wildfire Service,ORG,0.0,0.0,de,3
+FBI,FBI,ORG,-0.5666666666666667,0.0,de,3
+PUTRAJAYA,PUTRAJAYA,ORG,0.2333333333333333,0.0,de,3
 Starkes Erdbeben vor den Philippinen,Starkes Erdbeben vor den Philippinen,ORG,0.6999999999999998,0.0,de,3
 Küstenschutz,Küstenschutz,ORG,0.3333333333333333,0.0,de,3
-Black Friday,Black Friday,ORG,0.2333333333333333,0.0,de,3
-Forest Fire Management Victoria,Forest Fire Management Victoria,ORG,0.2333333333333333,0.0,de,3
-britische Labour-Partei,britische Labour-Partei,ORG,0.6666666666666666,0.0,de,3
-UN-Umweltprogramm,UN-Umweltprogramm,ORG,0.2333333333333333,0.3333333333333333,de,3
-Berlin/Potsdam,Berlin/Potsdam,ORG,0.3333333333333333,0.0,de,3
-NOAA,NOAA,ORG,-0.4666666666666666,0.0,de,3
-Disney World,Disney World,ORG,-0.3333333333333333,0.0,de,3
-Coulson Aviation,Coulson Aviation,ORG,0.0,0.0,de,3
-NEWSWIRE,NEWSWIRE,ORG,0.2333333333333333,0.0,de,3
-Xinhua,Xinhua,ORG,-0.25,0.08333333333333333,de,3
-US-Grenzpolizei,US-Grenzpolizei,ORG,0.0,0.0,de,3
-The Associated Press,The Associated Press,ORG,0.0,0.0,de,3
-mv,mv,ORG,-0.2333333333333333,0.0,de,3
-lnw,lnw,ORG,-0.5666666666666667,0.0,de,3
-Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,-0.11666666666666665,0.16666666666666666,de,3
-Weltbank,Weltbank,ORG,0.0,0.0,de,3
 Aemet,Aemet,ORG,0.2333333333333333,0.0,de,3
-lrs,lrs,ORG,0.0,0.0,de,3
-MLive.com,MLive.com,ORG,0.0,0.0,de,3
-Republikanern,Republikanern,ORG,-0.43333333333333335,0.0,de,3
-CBS,CBS,ORG,0.0,0.0,de,3
-PacifiCorp,PacifiCorp,ORG,0.0,0.0,de,3
-UC Berkeley,UC Berkeley,ORG,0.2333333333333333,0.0,de,3
-Zentrum,Zentrum,ORG,-0.05000000000000001,0.0,de,3
-NDA,NDA,ORG,0.4666666666666666,0.0,de,3
-Essen,Essen,ORG,-0.5666666666666667,0.0,de,3
-HANOI,HANOI,ORG,-0.10000000000000002,0.0,de,3
-FEMA,FEMA,ORG,0.21666666666666667,0.16666666666666666,de,3
-Liveticker Hessen & Frankfurt,Liveticker Hessen & Frankfurt,ORG,-0.5666666666666667,0.0,de,3
-AFP,AFP,ORG,-0.15555555555555556,0.0,de,3
-NCS,NCS,ORG,-0.2333333333333333,0.0,de,3
 Türkiye,Türkiye,ORG,0.0,0.0,de,3
-Delta Air Lines,Delta Air Lines,ORG,-1.0,0.0,de,2
-Fire & Emergency Services,Fire & Emergency Services,ORG,-0.07500000000000001,0.0,de,2
-Th…,Th…,ORG,0.0,0.0,de,2
-Nationale Wetterdienst in,Nationale Wetterdienst in,ORG,-0.7,0.0,de,2
-Glam-Rock-Band Kiss,Glam-Rock-Band Kiss,ORG,0.0,0.0,de,2
-Milwaukee Metal Festival,Milwaukee Metal Festival,ORG,0.0,0.0,de,2
-PCG,PCG,ORG,0.0,0.0,de,2
-Yale School of the Environment,Yale School of the Environment,ORG,1.0,0.0,de,2
-NT,NT,ORG,0.0,0.0,de,2
-University of Calgary,University of Calgary,ORG,0.5,0.0,de,2
-lno,lno,ORG,0.0,0.0,de,2
-WWE,WWE,ORG,0.35,0.0,de,2
-WARNUNG,WARNUNG,ORG,0.0,0.0,de,2
-Bodenfrost,Bodenfrost,ORG,0.0,0.0,de,2
-TOKIO,TOKIO,ORG,-0.7,0.0,de,2
+Essen,Essen,ORG,-0.5666666666666667,0.0,de,3
+NBC,NBC,ORG,-0.2333333333333333,0.0,de,3
+GeoSphere Austria,GeoSphere Austria,ORG,0.0,0.0,de,3
+Forest Fire Management Victoria,Forest Fire Management Victoria,ORG,0.2333333333333333,0.0,de,3
+Washington Post,Washington Post,ORG,0.15555555555555553,0.1111111111111111,de,3
+EMY,EMY,ORG,-0.5666666666666667,0.0,de,3
+lrs,lrs,ORG,0.0,0.0,de,3
+Black Friday,Black Friday,ORG,0.2333333333333333,0.0,de,3
+The Associated Press,The Associated Press,ORG,0.0,0.0,de,3
+Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,-0.11666666666666665,0.16666666666666666,de,3
+PacifiCorp,PacifiCorp,ORG,0.0,0.0,de,3
+Zentrum,Zentrum,ORG,-0.05000000000000001,0.0,de,3
+Coulson Aviation,Coulson Aviation,ORG,0.0,0.0,de,3
+NHC,NHC,ORG,0.0,0.0,de,3
+US-Grenzpolizei,US-Grenzpolizei,ORG,0.0,0.0,de,3
+britische Labour-Partei,britische Labour-Partei,ORG,0.6666666666666666,0.0,de,3
+lnw,lnw,ORG,-0.5666666666666667,0.0,de,3
+Bewohner,Bewohner,ORG,0.4666666666666666,0.0,de,3
+Liveticker Hessen & Frankfurt,Liveticker Hessen & Frankfurt,ORG,-0.5666666666666667,0.0,de,3
+Demokraten,Demokraten,ORG,-0.35833333333333334,0.0,de,3
+Berlin/Potsdam,Berlin/Potsdam,ORG,0.3333333333333333,0.0,de,3
+Deutschem Wetterdienst,Deutschem Wetterdienst,ORG,0.0,0.0,de,3
+Th…,Th…,ORG,0.0,0.0,de,3
+Pro…,Pro…,ORG,-0.05000000000000001,0.0,de,3
+FEMA,FEMA,ORG,0.21666666666666667,0.16666666666666666,de,3
+Taman United,Taman United,ORG,0.0,0.0,de,3
+Disney World,Disney World,ORG,-0.3333333333333333,0.0,de,3
+Inc,Inc,ORG,0.0,0.0,de,3
+NDA,NDA,ORG,0.4666666666666666,0.0,de,3
+Berufsverkehr,Berufsverkehr,ORG,0.0,0.0,de,3
+UC Berkeley,UC Berkeley,ORG,0.2333333333333333,0.0,de,3
+BPBD,BPBD,ORG,-0.3333333333333333,0.0,de,3
+Akasa Air,Akasa Air,ORG,0.0,0.0,de,3
+LA,LA,ORG,-0.10000000000000002,0.0,de,3
+US-Krankenhäuser,US-Krankenhäuser,ORG,0.1333333333333333,0.0,de,3
+Glam-Rock-Band Kiss,Glam-Rock-Band Kiss,ORG,0.0,0.0,de,3
+AP News,AP News,ORG,-0.2333333333333333,0.0,de,3
+SBA,SBA,ORG,-0.3333333333333333,0.3333333333333333,de,3
+mv,mv,ORG,-0.2333333333333333,0.0,de,3
+Republikanern,Republikanern,ORG,-0.43333333333333335,0.0,de,3
+UN-Umweltprogramm,UN-Umweltprogramm,ORG,0.2333333333333333,0.3333333333333333,de,3
+All Blacks,All Blacks,ORG,0.0,0.0,de,3
+Xinhua,Xinhua,ORG,-0.25,0.08333333333333333,de,3
+Yahoo,Yahoo,ORG,-0.425,0.0,de,2
 Zentral-Ohio,Zentral-Ohio,ORG,0.0,0.0,de,2
-AC/DC,AC/DC,ORG,0.0,0.0,de,2
-Toyota Brasil,Toyota Brasil,ORG,-1.0,0.0,de,2
-Tampa Bay Rays,Tampa Bay Rays,ORG,0.0,0.0,de,2
-AEMET,AEMET,ORG,-0.35,0.0,de,2
-Gletscherschwund,Gletscherschwund,ORG,0.0,0.5,de,2
-KI Sturmflutvorhersagen,KI Sturmflutvorhersagen,ORG,0.7,0.0,de,2
-Pimicikamak Cree Nation,Pimicikamak Cree Nation,ORG,0.35,0.0,de,2
-CO₂-Neutralität,CO₂-Neutralität,ORG,0.0,0.0,de,2
-Kat…,Kat…,ORG,0.0,0.0,de,2
 Palmetto Publishing,Palmetto Publishing,ORG,-0.1625,0.0,de,2
-Südafrika Irland,Südafrika Irland,ORG,0.7,0.0,de,2
-SEREMBAN,SEREMBAN,ORG,-0.5,0.0,de,2
-Das philippinische Institut für Vulkanologie und Seismologie,Das philippinische Institut für Vulkanologie und Seismologie,ORG,0.0,0.0,de,2
-AERC,AERC,ORG,0.5,0.0,de,2
-Blue Temple,Blue Temple,ORG,0.15000000000000002,0.0,de,2
-National Center for Seismology,National Center for Seismology,ORG,-0.35,0.0,de,2
-Umweltministerium am Donnerstag,Umweltministerium am Donnerstag,ORG,0.0,0.0,de,2
-Top Ten,Top Ten,ORG,1.0,0.0,de,2
-NHC,NHC,ORG,0.0,0.0,de,2
-Universal Orlando,Universal Orlando,ORG,0.35,0.0,de,2
-ntv.de,ntv.de,ORG,-0.5,0.0,de,2
-Dune-Beleuchtungspaket,Dune-Beleuchtungspaket,ORG,0.0,0.0,de,2
-Berkshires PacifiCorp,Berkshires PacifiCorp,ORG,-1.0,0.0,de,2
-PHOENIX,PHOENIX,ORG,0.0,0.0,de,2
-Berkshire Hathaway Energy Co.,Berkshire Hathaway Energy Co.,ORG,0.0,0.0,de,2
-Inc,Inc,ORG,0.0,0.0,de,2
-Alpin-Auftakt,Alpin-Auftakt,ORG,0.0,0.0,de,2
-Emissionen,Emissionen,ORG,0.0,0.0,de,2
-Ski-Dominators,Ski-Dominators,ORG,0.0,0.0,de,2
-Ski-Star,Ski-Star,ORG,0.0,0.0,de,2
-NASDAQ,NASDAQ,ORG,1.0,0.0,de,2
-Auto,Auto,ORG,1.0,0.0,de,2
-US-Prognostiker,US-Prognostiker,ORG,-0.5,0.0,de,2
-GWRS,GWRS,ORG,1.0,0.0,de,2
-FFMVic,FFMVic,ORG,0.35,0.0,de,2
-Jamaika,Jamaika,ORG,0.35,0.0,de,2
-GMT,GMT,ORG,0.0,0.0,de,2
-System Verkehr,System Verkehr,ORG,-0.7,0.0,de,2
-Microsoft,Microsoft,ORG,0.07500000000000001,0.0,de,2
-Nvidia,Nvidia,ORG,0.07500000000000001,0.0,de,2
-s…,s…,ORG,0.0,0.0,de,2
-UN-Ziel,UN-Ziel,ORG,0.10000000000000002,0.16666666666666666,de,2
-SPD,SPD,ORG,0.0,0.0,de,2
-US-Luftwaffe,US-Luftwaffe,ORG,0.0,0.0,de,2
-Felssturz,Felssturz,ORG,0.0,0.0,de,2
+CO₂-Neutralität,CO₂-Neutralität,ORG,0.0,0.0,de,2
+Como,Como,ORG,-0.85,0.0,de,2
 Land,Land,ORG,0.0,0.0,de,2
-Sturmvorhersage für Südkalifornien,Sturmvorhersage für Südkalifornien,ORG,0.11666666666666665,0.0,de,2
-Hollywoodstars,Hollywoodstars,ORG,0.35,0.0,de,2
-Bewohner,Bewohner,ORG,0.7,0.0,de,2
-TornadoLos Angeles Times,TornadoLos Angeles Times,ORG,0.4666666666666666,0.0,de,2
-sa,sa,ORG,0.0,0.0,de,2
-Thanksgiving-Woche,Thanksgiving-Woche,ORG,0.35,0.0,de,2
+s…,s…,ORG,0.0,0.0,de,2
+IPPAN,IPPAN,ORG,0.0,0.0,de,2
+AEMET,AEMET,ORG,-0.35,0.0,de,2
+äthiopische Vulkan,äthiopische Vulkan,ORG,0.0,0.0,de,2
+TOKIO,TOKIO,ORG,-0.7,0.0,de,2
+NEW YORK,NEW YORK,ORG,0.0,0.0,de,2
+Pimicikamak Cree Nation,Pimicikamak Cree Nation,ORG,0.35,0.0,de,2
+Ashes to Films,Ashes to Films,ORG,0.0,0.0,de,2
+Popular Science,Popular Science,ORG,0.5,0.0,de,2
+Video-Disc…,Video-Disc…,ORG,0.0,0.0,de,2
 Ranji Trophy,Ranji Trophy,ORG,-0.5,0.0,de,2
 Un…,Un…,ORG,0.0,0.0,de,2
-GEORGE TOWN,GEORGE TOWN,ORG,0.0,0.0,de,2
-Bundeswehr,Bundeswehr,ORG,0.35,0.0,de,2
-WWF,WWF,ORG,-0.35,0.0,de,2
-Afghanistan,Afghanistan,ORG,-0.15000000000000002,0.0,de,2
-MV,MV,ORG,-0.5,0.0,de,2
-Popular Science,Popular Science,ORG,0.5,0.0,de,2
-Peoples' Review,Peoples' Review,ORG,-0.35,0.0,de,2
-Sichtweiten,Sichtweiten,ORG,0.0,0.0,de,2
-Ortler-Alpen,Ortler-Alpen,ORG,0.0,0.0,de,2
-Ministerium für Klimakrise und Katastrophenschutz,Ministerium für Klimakrise und Katastrophenschutz,ORG,1.0,0.0,de,2
-Xcel Energy Inc,Xcel Energy Inc,ORG,0.0,0.0,de,2
-italienischen Bergwacht,italienischen Bergwacht,ORG,0.0,0.0,de,2
-Formel 1,Formel 1,ORG,0.0,0.0,de,2
-Pro…,Pro…,ORG,0.0,0.0,de,2
-Berkshire Hathaway Inc,Berkshire Hathaway Inc,ORG,0.0,0.0,de,2
-ICE,ICE,ORG,-0.5,0.0,de,2
-Apple,Apple,ORG,0.0,0.0,de,2
-herausDie New York Times,herausDie New York Times,ORG,0.7,0.0,de,2
-Verkehrsclub Deutschland,Verkehrsclub Deutschland,ORG,-0.35,0.0,de,2
-PGA,PGA,ORG,0.0,0.0,de,2
-ICE-Einrichtung,ICE-Einrichtung,ORG,1.0,0.0,de,2
-CENTCOM,CENTCOM,ORG,-0.5,0.0,de,2
-AP News,AP News,ORG,0.0,0.0,de,2
-Punjab,Punjab,ORG,-0.5,0.0,de,2
-Pakistan Meteorological Department,Pakistan Meteorological Department,ORG,0.0,0.0,de,2
-Deutschen Alpenverein,Deutschen Alpenverein,ORG,0.0,0.0,de,2
-University of Texas,University of Texas,ORG,0.0,0.0,de,2
-FireAid,FireAid,ORG,-0.5,0.0,de,2
-Toronto,Toronto,ORG,0.0,0.5,de,2
-Ashes to Films,Ashes to Films,ORG,0.0,0.0,de,2
-WMO,WMO,ORG,0.0,0.0,de,2
-Xcel Energy,Xcel Energy,ORG,0.35,0.0,de,2
-AFC Toronto,AFC Toronto,ORG,0.5,0.0,de,2
-Berliner Stadtreinigung,Berliner Stadtreinigung,ORG,0.0,0.0,de,2
-Bergungsarbeiten,Bergungsarbeiten,ORG,-0.8375,0.0,de,2
-Schutzbauten,Schutzbauten,ORG,-0.7,0.0,de,2
+"Agentur für Meteorologie, Klimatologie und Geophysik","Agentur für Meteorologie, Klimatologie und Geophysik",ORG,0.35,0.0,de,2
+Nordostmonsun,Nordostmonsun,ORG,0.0,0.0,de,2
+RLP,RLP,ORG,-0.35,0.0,de,2
+NACHRICHTEN,NACHRICHTEN,ORG,0.35,0.0,de,2
+La Liga,La Liga,ORG,0.15000000000000002,0.0,de,2
+Das philippinische Institut für Vulkanologie und Seismologie,Das philippinische Institut für Vulkanologie und Seismologie,ORG,0.0,0.0,de,2
+Bund für Klimaschutz - Merz,Bund für Klimaschutz - Merz,ORG,0.0,0.0,de,2
+UN-Ziel,UN-Ziel,ORG,0.10000000000000002,0.16666666666666666,de,2
+lno,lno,ORG,0.0,0.0,de,2
 Landesamt für Umwelt: Jahr,Landesamt für Umwelt: Jahr,ORG,0.0,0.0,de,2
-PUTRAJAYA,PUTRAJAYA,ORG,0.0,0.0,de,2
-SCE,SCE,ORG,-0.35,0.0,de,2
-Taman United,Taman United,ORG,0.0,0.0,de,2
-Jahr …,Jahr …,ORG,0.0,0.0,de,2
-GLOBE NEWSWIRE,GLOBE NEWSWIRE,ORG,0.35,0.0,de,2
-H…,H…,ORG,0.0,0.0,de,2
-Fed,Fed,ORG,0.0,0.0,de,2
+KAVREPALANCHOWK,KAVREPALANCHOWK,ORG,0.35,0.0,de,2
+KI Sturmflutvorhersagen,KI Sturmflutvorhersagen,ORG,0.7,0.0,de,2
+PIX11,PIX11,ORG,0.0,0.0,de,2
+Umweltministerium am Donnerstag,Umweltministerium am Donnerstag,ORG,0.0,0.0,de,2
+K…,K…,ORG,0.0,0.0,de,2
+Deutschen Alpenverein,Deutschen Alpenverein,ORG,0.0,0.0,de,2
 T-Mobile,T-Mobile,ORG,-0.07500000000000001,0.0,de,2
-Parks Victoria,Parks Victoria,ORG,0.35,0.0,de,2
-CFA,CFA,ORG,0.35,0.0,de,2
+Fed,Fed,ORG,0.0,0.0,de,2
+Jahr …,Jahr …,ORG,0.0,0.0,de,2
+Südafrika Irland,Südafrika Irland,ORG,0.7,0.0,de,2
+SEREMBAN,SEREMBAN,ORG,-0.5,0.0,de,2
+AERC,AERC,ORG,0.5,0.0,de,2
+Nationale Wetterdienst in,Nationale Wetterdienst in,ORG,-0.7,0.0,de,2
+Toronto,Toronto,ORG,0.0,0.5,de,2
+Tampa Bay Rays,Tampa Bay Rays,ORG,0.0,0.0,de,2
+vermisstCNN,vermisstCNN,ORG,-0.35,0.0,de,2
+GFZ,GFZ,ORG,0.0,0.0,de,2
 abgeschnittenThe New York Times,abgeschnittenThe New York Times,ORG,-0.5,0.0,de,2
+ROM,ROM,ORG,-0.35,0.0,de,2
+PHOENIX,PHOENIX,ORG,0.0,0.0,de,2
+H…,H…,ORG,0.0,0.0,de,2
+NASDAQ,NASDAQ,ORG,1.0,0.0,de,2
+AC/DC,AC/DC,ORG,0.0,0.0,de,2
+Sturmvorhersage für Südkalifornien,Sturmvorhersage für Südkalifornien,ORG,0.11666666666666665,0.0,de,2
+GEORGE TOWN,GEORGE TOWN,ORG,0.0,0.0,de,2
+Formel 1,Formel 1,ORG,0.0,0.0,de,2
+Berliner Stadtreinigung,Berliner Stadtreinigung,ORG,0.0,0.0,de,2
+ICE,ICE,ORG,-0.5,0.0,de,2
+RWE,RWE,ORG,-0.5,0.0,de,2
+EU-Kommission,EU-Kommission,ORG,-0.5,0.0,de,2
+AFC Toronto,AFC Toronto,ORG,0.5,0.0,de,2
+herausDie New York Times,herausDie New York Times,ORG,0.7,0.0,de,2
+WWE,WWE,ORG,0.35,0.0,de,2
+Kilauea,Kilauea,ORG,0.0,0.0,de,2
+TornadoLos Angeles Times,TornadoLos Angeles Times,ORG,0.4666666666666666,0.0,de,2
+Ministerium für Klimakrise und Katastrophenschutz,Ministerium für Klimakrise und Katastrophenschutz,ORG,1.0,0.0,de,2
+SPD,SPD,ORG,0.0,0.0,de,2
+Verkehrsclub Deutschland,Verkehrsclub Deutschland,ORG,-0.35,0.0,de,2
+Sichtweiten,Sichtweiten,ORG,0.0,0.0,de,2
+Bundeswehr,Bundeswehr,ORG,0.35,0.0,de,2
+Berkshires PacifiCorp,Berkshires PacifiCorp,ORG,-1.0,0.0,de,2
+Berkshire Hathaway Energy Co.,Berkshire Hathaway Energy Co.,ORG,0.0,0.0,de,2
+GWRS,GWRS,ORG,1.0,0.0,de,2
+HETAUDA,HETAUDA,ORG,0.35,0.0,de,2
+Ortler-Alpen,Ortler-Alpen,ORG,0.0,0.0,de,2
+Ski-Star,Ski-Star,ORG,0.0,0.0,de,2
+WWF,WWF,ORG,-0.35,0.0,de,2
+System Verkehr,System Verkehr,ORG,-0.7,0.0,de,2
+ntv.de,ntv.de,ORG,-0.5,0.0,de,2
+Dune-Beleuchtungspaket,Dune-Beleuchtungspaket,ORG,0.0,0.0,de,2
+Top Ten,Top Ten,ORG,1.0,0.0,de,2
+Alpin-Auftakt,Alpin-Auftakt,ORG,0.0,0.0,de,2
+Ski-Dominators,Ski-Dominators,ORG,0.0,0.0,de,2
+Auto,Auto,ORG,1.0,0.0,de,2
+italienischen Bergwacht,italienischen Bergwacht,ORG,0.0,0.0,de,2
+US-Prognostiker,US-Prognostiker,ORG,-0.5,0.0,de,2
+Jamaika,Jamaika,ORG,0.35,0.0,de,2
+University of Calgary,University of Calgary,ORG,0.5,0.0,de,2
+FFMVic,FFMVic,ORG,0.35,0.0,de,2
+Universal Orlando,Universal Orlando,ORG,0.35,0.0,de,2
+GMT,GMT,ORG,0.0,0.0,de,2
+WARNUNG,WARNUNG,ORG,0.0,0.0,de,2
+sa,sa,ORG,0.0,0.0,de,2
+Hollywoodstars,Hollywoodstars,ORG,0.35,0.0,de,2
+US-Luftwaffe,US-Luftwaffe,ORG,0.0,0.0,de,2
+Milwaukee Metal Festival,Milwaukee Metal Festival,ORG,0.0,0.0,de,2
+Prognose,Prognose,ORG,0.0,0.0,de,2
+Nvidia,Nvidia,ORG,0.07500000000000001,0.0,de,2
+Thanksgiving-Woche,Thanksgiving-Woche,ORG,0.35,0.0,de,2
+CAIC,CAIC,ORG,0.0,0.0,de,2
+SCE,SCE,ORG,-0.35,0.0,de,2
 NDP,NDP,ORG,0.0,0.0,de,2
+RI-Regierung,RI-Regierung,ORG,-0.425,0.0,de,2
+Felssturz,Felssturz,ORG,0.0,0.0,de,2
+Kat…,Kat…,ORG,0.0,0.0,de,2
+Blue Temple,Blue Temple,ORG,0.15000000000000002,0.0,de,2
+Yale School of the Environment,Yale School of the Environment,ORG,1.0,0.0,de,2
+Grüne,Grüne,ORG,0.0,0.0,de,2
+DVC,DVC,ORG,0.0,0.0,de,2
+Morning Rundown,Morning Rundown,ORG,0.0,0.0,de,2
+Fire & Emergency Services,Fire & Emergency Services,ORG,-0.07500000000000001,0.0,de,2
+Emissionen,Emissionen,ORG,0.0,0.0,de,2
+Salisbury-Ocean City,Salisbury-Ocean City,ORG,0.5,0.0,de,2
+PCG,PCG,ORG,0.0,0.0,de,2
+National Highways Authority of India,National Highways Authority of India,ORG,0.0,0.0,de,2
+Toyota Brasil,Toyota Brasil,ORG,-1.0,0.0,de,2
+Parks Victoria,Parks Victoria,ORG,0.35,0.0,de,2
+CENTCOM,CENTCOM,ORG,-0.5,0.0,de,2
+Chicagoer,Chicagoer,ORG,0.0,0.0,de,2
+Bergungsarbeiten,Bergungsarbeiten,ORG,-0.8375,0.0,de,2
+PGA,PGA,ORG,0.0,0.0,de,2
+GLOBE NEWSWIRE,GLOBE NEWSWIRE,ORG,0.35,0.0,de,2
+Puncak Arabella Apartments,Puncak Arabella Apartments,ORG,0.0,0.0,de,2
+University of Texas,University of Texas,ORG,0.0,0.0,de,2
+Delta Air Lines,Delta Air Lines,ORG,-1.0,0.0,de,2
+Peoples' Review,Peoples' Review,ORG,-0.35,0.0,de,2
+NRW-Landesverwaltung,NRW-Landesverwaltung,ORG,0.0,0.0,de,2
+Pakistan Meteorological Department,Pakistan Meteorological Department,ORG,0.0,0.0,de,2
+Zyklon Ditwah,Zyklon Ditwah,ORG,0.35,0.0,de,2
+Gletscherschwund,Gletscherschwund,ORG,0.0,0.5,de,2
+ICE-Einrichtung,ICE-Einrichtung,ORG,1.0,0.0,de,2
+WMO,WMO,ORG,0.0,0.0,de,2
+KFF Health News,KFF Health News,ORG,-0.5,0.0,de,2
+Wochenbeginn +++,Wochenbeginn +++,ORG,-1.0,0.0,de,2
+FOTOS,FOTOS,ORG,0.0,0.0,de,2
+Schutzbauten,Schutzbauten,ORG,-0.7,0.0,de,2
+Apple,Apple,ORG,0.0,0.0,de,2
+Bodenfrost,Bodenfrost,ORG,0.0,0.0,de,2
+Chicago Sun-Times,Chicago Sun-Times,ORG,0.0,0.0,de,2
+NT,NT,ORG,0.0,0.0,de,2
+ABC,ABC,ORG,-0.35,0.0,de,2
+Außenministerium,Außenministerium,ORG,0.35,0.0,de,2
+Punjab,Punjab,ORG,-0.5,0.0,de,2
+FireAid,FireAid,ORG,-0.5,0.0,de,2
+Afghanistan,Afghanistan,ORG,-0.15000000000000002,0.0,de,2
 Elle Schneiders Haus,Elle Schneiders Haus,ORG,0.0,0.0,de,2
-TEHERAN,TEHERAN,ORG,0.0,0.0,de,1
-Sony,Sony,ORG,0.7,0.0,de,1
-Flugeinsatzteams,Flugeinsatzteams,ORG,-0.7,0.0,de,1
-US-Sanktionen,US-Sanktionen,ORG,0.0,0.0,de,1
-Autos…,Autos…,ORG,0.0,0.0,de,1
-SA Country Fire Service,SA Country Fire Service,ORG,-0.7,0.0,de,1
-AVAVAV,AVAVAV,ORG,0.0,0.0,de,1
-Verfolgungsfahrt +++ Liveblog,Verfolgungsfahrt +++ Liveblog,ORG,-1.0,0.0,de,1
-reidenshi,reidenshi,ORG,0.0,0.0,de,1
-Sneaker News,Sneaker News,ORG,0.0,0.0,de,1
-EDF,EDF,ORG,0.7,0.0,de,1
-BRASILIA,BRASILIA,ORG,0.0,0.0,de,1
-Zeitstandards,Zeitstandards,ORG,0.0,0.0,de,1
-Unwetter-Warnung!,Unwetter-Warnung!,ORG,0.0,0.0,de,1
-indischen Regierung,indischen Regierung,ORG,0.7,0.0,de,1
-Live Science-Wissenschaftler,Live Science-Wissenschaftler,ORG,0.0,0.0,de,1
-WHO,WHO,ORG,0.0,0.0,de,1
-Environmental Defense Fund,Environmental Defense Fund,ORG,0.0,0.0,de,1
-Wildfire Action Accelerator-Versprechen,Wildfire Action Accelerator-Versprechen,ORG,0.0,0.0,de,1
-Garagenbrand +++ Frankfurt,Garagenbrand +++ Frankfurt,ORG,-1.0,0.0,de,1
-Sandstorm,Sandstorm,ORG,1.0,0.0,de,1
-CPU-Bundle,CPU-Bundle,ORG,0.0,0.0,de,1
-CO2-Einfluss,CO2-Einfluss,ORG,-1.0,0.0,de,1
-Großraum L.A.,Großraum L.A.,ORG,0.0,0.0,de,1
-Pella Sietas,Pella Sietas,ORG,-0.7,0.0,de,1
-Bundesbank,Bundesbank,ORG,-1.0,0.0,de,1
-BOM,BOM,ORG,0.7,0.0,de,1
-Not…,Not…,ORG,-0.5666666666666667,0.0,de,1
-Todesfall,Todesfall,ORG,0.0,0.0,de,1
-Lara,Lara,ORG,0.0,0.0,de,1
-Los Angeles,Los Angeles,ORG,0.0,0.0,de,1
-Verkehrsclubs Österreich,Verkehrsclubs Österreich,ORG,-1.0,0.0,de,1
-State Farm,State Farm,ORG,0.0,0.0,de,1
-County Board of Supervisors,County Board of Supervisors,ORG,0.0,0.0,de,1
-C…,C…,ORG,0.0,0.0,de,1
-Aftab Pureval,Aftab Pureval,ORG,0.0,0.0,de,1
-Demokraten,Demokraten,ORG,0.0,0.0,de,1
-Skeptical Science für Woche Nr.,Skeptical Science für Woche Nr.,ORG,0.0,0.0,de,1
-KI Forschern,KI Forschern,ORG,0.0,0.0,de,1
-Institut für Ökologie der Uni Innsbruck,Institut für Ökologie der Uni Innsbruck,ORG,1.0,0.0,de,1
-Synergy Grant,Synergy Grant,ORG,1.0,0.0,de,1
-Python …,Python …,ORG,0.0,0.0,de,1
-Europäischen Forschungsrats  ,Europäischen Forschungsrats  ,ORG,1.0,0.0,de,1
-Firefox-ESR,Firefox-ESR,ORG,0.0,0.0,de,1
-Chromium,Chromium,ORG,0.0,0.0,de,1
-Survival-Spiel Permafrost,Survival-Spiel Permafrost,ORG,1.0,0.0,de,1
-Pot…,Pot…,ORG,0.7,0.0,de,1
-la…,la…,ORG,0.0,0.0,de,1
-Zeit für ein CPU Upgrade,Zeit für ein CPU Upgrade,ORG,0.7,0.0,de,1
-RNN-basierten,RNN-basierten,ORG,-1.0,0.0,de,1
-BOGOTA,BOGOTA,ORG,-0.6,0.0,de,1
-COP,COP,ORG,0.0,0.0,de,1
-University of Melbourne,University of Melbourne,ORG,1.0,0.0,de,1
-Sunset Fire Burn Scars,Sunset Fire Burn Scars,ORG,0.0,0.0,de,1
-Statistik Austria,Statistik Austria,ORG,-1.0,0.0,de,1
-Brandes,Brandes,ORG,0.7,0.0,de,1
-Montreal Roses,Montreal Roses,ORG,1.0,0.0,de,1
-FTSE,FTSE,ORG,0.0,0.0,de,1
-Environment Canada,Environment Canada,ORG,0.0,0.0,de,1
-Jakarta Regional Disaster Mitigation Agency,Jakarta Regional Disaster Mitigation Agency,ORG,0.0,0.0,de,1
-Feuerwehrleute…,Feuerwehrleute…,ORG,0.0,0.0,de,1
-RNK,RNK,ORG,1.0,0.0,de,1
-DGP der UP,DGP der UP,ORG,1.0,0.0,de,1
-N.L.,N.L.,ORG,0.0,0.0,de,1
-Crop-Top-Saison,Crop-Top-Saison,ORG,0.0,0.0,de,1
-SA Power Networks,SA Power Networks,ORG,-0.6666666666666666,0.0,de,1
-ISABELA,ISABELA,ORG,-1.0,0.0,de,1
-UN-Chef,UN-Chef,ORG,-0.7,0.0,de,1
-New York Times Iran,New York Times Iran,ORG,0.0,0.0,de,1
-EU-Kommission,EU-Kommission,ORG,-1.0,0.0,de,1
-Kiss,Kiss,ORG,0.0,0.0,de,1
-aufDie New York Times,aufDie New York Times,ORG,0.7,0.0,de,1
-Morris County Medical Examiner,Morris County Medical Examiner,ORG,0.0,0.0,de,1
-herausgegebenAP News Japan,herausgegebenAP News Japan,ORG,0.7,0.0,de,1
-US-Wetterwarnung,US-Wetterwarnung,ORG,0.0,0.0,de,1
-Wasser…,Wasser…,ORG,0.0,0.0,de,1
-Morning Rundown,Morning Rundown,ORG,0.0,0.0,de,1
-UN-Experte,UN-Experte,ORG,-0.7,0.0,de,1
-GM Garrett Turta,GM Garrett Turta,ORG,0.7,0.0,de,1
-Syracuse Orange,Syracuse Orange,ORG,-0.7,0.0,de,1
-UN-Hilfskoordinierungsbüro,UN-Hilfskoordinierungsbüro,ORG,0.6999999999999998,0.0,de,1
-OCHA,OCHA,ORG,0.6999999999999998,0.0,de,1
-JD Vance,JD Vance,ORG,0.0,0.0,de,1
-ViX.,ViX.,ORG,0.0,0.0,de,1
-Atletico Ottawa,Atletico Ottawa,ORG,-1.0,0.0,de,1
-Herbstfrost,Herbstfrost,ORG,0.0,0.0,de,1
-Polizei …,Polizei …,ORG,0.0,0.0,de,1
-Cavalry FC,Cavalry FC,ORG,-1.0,0.0,de,1
-Sandstorm Yellow Metallic,Sandstorm Yellow Metallic,ORG,0.0,0.0,de,1
-Bundestag,Bundestag,ORG,0.0,0.0,de,1
-Wetterkorrespondent von FOX,Wetterkorrespondent von FOX,ORG,0.7,0.0,de,1
-Weggeklatscht!,Weggeklatscht!,ORG,0.0,0.0,de,1
-Airbnb,Airbnb,ORG,0.0,0.0,de,1
-Historic Hotels,Historic Hotels,ORG,0.85,0.0,de,1
-FUNKTIONEN,FUNKTIONEN,ORG,0.0,0.0,de,1
-Silvermoon City…,Silvermoon City…,ORG,0.0,0.0,de,1
-UN…,UN…,ORG,0.0,0.0,de,1
-ÖFB-Training,ÖFB-Training,ORG,0.0,0.0,de,1
-Zentrum der Kritik,Zentrum der Kritik,ORG,-1.0,0.0,de,1
-ÖVP,ÖVP,ORG,-1.0,0.0,de,1
-AusfallBloomberg.co,AusfallBloomberg.co,ORG,0.7,0.0,de,1
-aufgehobenCBS News Japans Nordostküste,aufgehobenCBS News Japans Nordostküste,ORG,0.7,0.0,de,1
-Canes,Canes,ORG,0.0,0.0,de,1
-Lawine lostrat,Lawine lostrat,ORG,-1.0,0.0,de,1
-WKS-Präsident,WKS-Präsident,ORG,0.0,0.0,de,1
-Montreal,Montreal,ORG,0.0,0.0,de,1
-Was…,Was…,ORG,0.0,0.0,de,1
-di…,di…,ORG,0.0,0.0,de,1
-NHK,NHK,ORG,0.0,0.0,de,1
-EU Fortschritte,EU Fortschritte,ORG,0.0,0.0,de,1
-Philippinen,Philippinen,ORG,0.0,0.0,de,1
-Gange …,Gange …,ORG,0.0,0.0,de,1
-Teheran,Teheran,ORG,0.0,0.0,de,1
-Zentrum des Wirbelsturms,Zentrum des Wirbelsturms,ORG,0.0,0.0,de,1
-Frage-und-Antwort-Runde,Frage-und-Antwort-Runde,ORG,0.0,0.0,de,1
-Slumres…,Slumres…,ORG,0.0,0.0,de,1
-Kommende Woche,Kommende Woche,ORG,0.0,0.0,de,1
-Kilauea,Kilauea,ORG,0.0,0.0,de,1
-Washington Free Beacon,Washington Free Beacon,ORG,0.0,0.0,de,1
-UNEP,UNEP,ORG,0.0,0.0,de,1
-Inger Andersen,Inger Andersen,ORG,0.0,0.0,de,1
-Verkehrsclub Österreich,Verkehrsclub Österreich,ORG,0.0,0.0,de,1
-VCÖ,VCÖ,ORG,0.0,0.0,de,1
-Flugha…,Flugha…,ORG,0.0,0.0,de,1
-Internationale Energieagentur,Internationale Energieagentur,ORG,0.0,0.0,de,1
-LNG,LNG,ORG,0.0,0.0,de,1
-staatli…,staatli…,ORG,0.0,0.0,de,1
-Finnen-Partei,Finnen-Partei,ORG,0.7,0.0,de,1
-aufgehobenCBS News Japan,aufgehobenCBS News Japan,ORG,0.7,0.0,de,1
-TCWS,TCWS,ORG,0.0,0.0,de,1
-SEZ,SEZ,ORG,1.0,0.0,de,1
-FUNG-WONG,FUNG-WONG,ORG,0.0,0.0,de,1
-Miami Hurricanes,Miami Hurricanes,ORG,0.0,0.0,de,1
-Genasys Inc,Genasys Inc,ORG,0.0,0.0,de,1
-CILACAP,CILACAP,ORG,-0.7,0.0,de,1
-au…,au…,ORG,-0.7,0.0,de,1
-Krampus,Krampus,ORG,0.0,0.0,de,1
-Zeit des fröhlichen Lachens,Zeit des fröhlichen Lachens,ORG,1.0,0.0,de,1
-Niedernhausen +++ Schnee,Niedernhausen +++ Schnee,ORG,0.0,0.0,de,1
-Glatteis,Glatteis,ORG,0.0,0.0,de,1
-Hessischen Bergstraße +++ Ermittlungen,Hessischen Bergstraße +++ Ermittlungen,ORG,0.0,0.0,de,1
-Wiesbaden +++  Liveblog für Frankfurt,Wiesbaden +++  Liveblog für Frankfurt,ORG,0.0,0.0,de,1
-Hess…,Hess…,ORG,0.0,0.0,de,1
-USD,USD,ORG,0.0,0.0,de,1
-Disney World-Fahrgeschäfte,Disney World-Fahrgeschäfte,ORG,0.0,0.0,de,1
-Thanksgiving,Thanksgiving,ORG,0.0,0.0,de,1
-Video-Disc…,Video-Disc…,ORG,0.0,0.0,de,1
-Seputeh,Seputeh,ORG,0.0,0.0,de,1
-Straßeninfrastruktur des Landes,Straßeninfrastruktur des Landes,ORG,0.0,0.0,de,1
-Verkehrsprobleme,Verkehrsprobleme,ORG,0.7,0.0,de,1
-Nebel +++ Fahrerflucht,Nebel +++ Fahrerflucht,ORG,-1.0,0.0,de,1
-Niedernhausen +++ Liveblog,Niedernhausen +++ Liveblog,ORG,-1.0,0.0,de,1
-Frankfurt und …,Frankfurt und …,ORG,-1.0,0.0,de,1
-Schwerin/Rostock,Schwerin/Rostock,ORG,0.0,0.0,de,1
-Kommunistischen Partei Chinas,Kommunistischen Partei Chinas,ORG,0.0,0.0,de,1
-Chinas…,Chinas…,ORG,0.7,0.0,de,1
-Bonner Polizei,Bonner Polizei,ORG,-0.43333333333333335,0.0,de,1
-Thanksgiving-Woche für Urlaubsreisen,Thanksgiving-Woche für Urlaubsreisen,ORG,0.0,0.0,de,1
-AccuWeather,AccuWeather,ORG,0.0,0.0,de,1
-äthiopische Vulkan,äthiopische Vulkan,ORG,0.0,0.0,de,1
-Umweltministerium am Sonntag,Umweltministerium am Sonntag,ORG,-0.7,0.0,de,1
-Großraum Tokio,Großraum Tokio,ORG,0.0,0.0,de,1
-ORF-Wetterredaktion,ORF-Wetterredaktion,ORG,0.0,0.0,de,1
-Fußball-Bundesliga,Fußball-Bundesliga,ORG,0.0,0.0,de,1
-KI-Apps,KI-Apps,ORG,-1.0,0.0,de,1
-NASA-Satellitenbild,NASA-Satellitenbild,ORG,0.0,0.0,de,1
-Kommune,Kommune,ORG,0.0,0.0,de,1
-Dresdner Winterdienst,Dresdner Winterdienst,ORG,0.0,0.0,de,1
-dpo,dpo,ORG,0.0,0.0,de,1
-Deutsche Bahn,Deutsche Bahn,ORG,0.0,0.0,de,1
-Mexiko City,Mexiko City,ORG,0.0,0.0,de,1
-Cuffing-Saison,Cuffing-Saison,ORG,0.0,0.0,de,1
-CUFFING-Saison,CUFFING-Saison,ORG,0.0,0.0,de,1
-sichLos Angeles Times Live-Updates,sichLos Angeles Times Live-Updates,ORG,0.0,0.0,de,1
-Los Angeles Auto Show,Los Angeles Auto Show,ORG,0.7,0.0,de,1
-FSV Mainz 05,FSV Mainz 05,ORG,-0.35,0.0,de,1
-ZAGREB,ZAGREB,ORG,-0.15000000000000002,0.0,de,1
-SYDNEY,SYDNEY,ORG,-1.0,0.0,de,1
-https://punchng.com/drowning-in-splendour-ajah-residents-lose-property-livelihood-to-unending-floo…,https://punchng.com/drowning-in-splendour-ajah-residents-lose-property-livelihood-to-unending-floo…,ORG,0.0,0.0,de,1
-Na…,Na…,ORG,0.0,0.0,de,1
-D…,D…,ORG,0.0,0.0,de,1
-Sozioökonomische Fa…,Sozioökonomische Fa…,ORG,0.0,0.0,de,1
-SAR,SAR,ORG,0.0,0.0,de,1
-Alarmstufe Frost!,Alarmstufe Frost!,ORG,0.0,0.0,de,1
-Michigans,Michigans,ORG,-0.85,0.0,de,1
-bedeutetClickOnDetroit,bedeutetClickOnDetroit,ORG,-0.85,0.0,de,1
-WDI…,WDI…,ORG,-0.85,0.0,de,1
-Schnee!,Schnee!,ORG,0.0,0.0,de,1
-Hauli Gubbi,Hauli Gubbi,ORG,0.0,0.0,de,1
-Schneefall…,Schneefall…,ORG,0.0,0.0,de,1
-Nordostmonsun,Nordostmonsun,ORG,0.0,0.0,de,1
-bringtCNN,bringtCNN,ORG,0.0,0.0,de,1
-Räumfahrzeuge,Räumfahrzeuge,ORG,0.0,0.0,de,1
-Äthiopischer Vulkan,Äthiopischer Vulkan,ORG,0.0,0.0,de,1
-National W …,National W …,ORG,0.0,0.0,de,1
-The Hill,The Hill,ORG,0.0,0.0,de,1
-Notfallzentrum,Notfallzentrum,ORG,0.0,0.0,de,1
-Zentrum der USA,Zentrum der USA,ORG,0.0,0.0,de,1
-Int…,Int…,ORG,0.0,0.0,de,1
-US-Flughäfen,US-Flughäfen,ORG,0.0,0.0,de,1
-Ba…,Ba…,ORG,0.0,0.0,de,1
-Snow Joe-Schneefräsen,Snow Joe-Schneefräsen,ORG,0.0,0.0,de,1
-Popular Sci…,Popular Sci…,ORG,0.0,0.0,de,1
-Bewohner Sumatras,Bewohner Sumatras,ORG,-1.0,0.0,de,1
-ADDIS,ADDIS,ORG,0.0,0.0,de,1
-ThanksgivingMLive.com,ThanksgivingMLive.com,ORG,0.7,0.0,de,1
-vob,vob,ORG,1.0,0.0,de,1
-Lichtschnee…,Lichtschnee…,ORG,0.0,0.0,de,1
-BUTTERWORTH,BUTTERWORTH,ORG,0.0,0.0,de,1
-AfD,AfD,ORG,0.0,0.0,de,1
-MINNESOTA,MINNESOTA,ORG,0.0,0.0,de,1
-Huntington Bank Stadium TV,Huntington Bank Stadium TV,ORG,0.0,0.0,de,1
-FS1 Radio,FS1 Radio,ORG,0.0,0.0,de,1
-KFAN,KFAN,ORG,0.0,0.0,de,1
-Cameron Highlands,Cameron Highlands,ORG,0.0,0.0,de,1
-Umwelt-NGO,Umwelt-NGO,ORG,0.0,0.0,de,1
-ASFINAG,ASFINAG,ORG,0.0,0.0,de,1
-Karen Hua,Karen Hua,ORG,0.0,0.0,de,1
-BERLIN,BERLIN,ORG,0.09999999999999998,0.0,de,1
-Air New Zealand,Air New Zealand,ORG,0.0,0.0,de,1
-DGCA-Problemberatung,DGCA-Problemberatung,ORG,-1.0,0.0,de,1
-Generaldirektion für Zivilluftfahrt,Generaldirektion für Zivilluftfahrt,ORG,-0.7,0.0,de,1
-Äthiopiens Vulkan,Äthiopiens Vulkan,ORG,0.0,0.0,de,1
-Kintail Mountain Rescue Team,Kintail Mountain Rescue Team,ORG,0.0,0.0,de,1
-Air India,Air India,ORG,0.0,0.0,de,1
-IndiGo,IndiGo,ORG,0.0,0.0,de,1
-ausYahoo News Kanada,ausYahoo News Kanada,ORG,-1.0,0.0,de,1
-UN-Entwicklungsprogramm,UN-Entwicklungsprogramm,ORG,0.0,0.0,de,1
-UNDP,UNDP,ORG,0.0,0.0,de,1
-Deutsche Wetterdienst für Hessen,Deutsche Wetterdienst für Hessen,ORG,0.0,0.0,de,1
-ÖAMTC,ÖAMTC,ORG,-0.7,0.0,de,1
-Tauranga,Tauranga,ORG,0.0,0.0,de,1
-CNA,CNA,ORG,0.0,0.0,de,1
-Additi…,Additi…,ORG,-1.0,0.0,de,1
-SMK Jitra,SMK Jitra,ORG,0.0,0.0,de,1
-israelischen Feuer- und Rettungsbehörde,israelischen Feuer- und Rettungsbehörde,ORG,0.7,0.0,de,1
-Sijil Pelajaran Malaysia,Sijil Pelajaran Malaysia,ORG,-0.7,0.0,de,1
-SPM,SPM,ORG,-0.7,0.0,de,1
-IT-Teams,IT-Teams,ORG,0.0,0.0,de,1
-ALOR,ALOR,ORG,0.7,0.0,de,1
-Umweltbehörde,Umweltbehörde,ORG,0.0,0.0,de,1
-Somerset Levels,Somerset Levels,ORG,0.0,0.0,de,1
-Freitag Felsbrocken,Freitag Felsbrocken,ORG,0.0,0.0,de,1
-Schneesituation,Schneesituation,ORG,0.7,0.0,de,1
-ChatGPT-Apps,ChatGPT-Apps,ORG,-1.0,0.0,de,1
-Allzeitrekord,Allzeitrekord,ORG,-0.7,0.0,de,1
-LA Auto Show,LA Auto Show,ORG,-0.7,0.0,de,1
-Brockovich-Gruppe,Brockovich-Gruppe,ORG,0.0,0.0,de,1
-Schnee-Hexe,Schnee-Hexe,ORG,0.0,0.0,de,1
-los!,los!,ORG,0.0,0.0,de,1
+Notfallteams,Notfallteams,ORG,-0.425,0.0,de,2
+CFA,CFA,ORG,0.35,0.0,de,2
+MV,MV,ORG,-0.5,0.0,de,2
+Xcel Energy,Xcel Energy,ORG,0.35,0.0,de,2
+Xcel Energy Inc,Xcel Energy Inc,ORG,0.0,0.0,de,2
+Berkshire Hathaway Inc,Berkshire Hathaway Inc,ORG,0.0,0.0,de,2
+MET,MET,ORG,-0.7,0.0,de,1
 Palisander-Sägemehlsubstrats,Palisander-Sägemehlsubstrats,ORG,-1.0,0.0,de,1
+National Disaster Relief Services Centre,National Disaster Relief Services Centre,ORG,-1.0,0.0,de,1
+steigtBBC,steigtBBC,ORG,-0.6666666666666666,0.0,de,1
+Indo…,Indo…,ORG,-0.7,0.0,de,1
+Thailand …,Thailand …,ORG,0.0,0.0,de,1
+los!,los!,ORG,0.0,0.0,de,1
+britische Regierung,britische Regierung,ORG,-1.0,0.0,de,1
+US-Landwirte,US-Landwirte,ORG,0.3333333333333333,0.0,de,1
+Schnee-Hexe,Schnee-Hexe,ORG,0.0,0.0,de,1
+The Signal,The Signal,ORG,0.0,0.0,de,1
+habenT…,habenT…,ORG,-1.0,0.0,de,1
+UN-Nachrichten,UN-Nachrichten,ORG,-1.0,0.0,de,1
+"Top-Updates für nationale, internationale","Top-Updates für nationale, internationale",ORG,0.7,0.0,de,1
+Epstein-Akten,Epstein-Akten,ORG,0.35,0.0,de,1
+Baznas,Baznas,ORG,0.0,0.0,de,1
+Dürre,Dürre,ORG,0.0,0.0,de,1
+I-95-Korridors,I-95-Korridors,ORG,0.7,0.0,de,1
+LISSABON,LISSABON,ORG,-1.0,0.0,de,1
+Fridays for Future St. John’s,Fridays for Future St. John’s,ORG,0.0,0.0,de,1
+Westens …,Westens …,ORG,0.0,0.0,de,1
+Assam Electricity Regulatory Commission,Assam Electricity Regulatory Commission,ORG,0.0,0.0,de,1
+Inc…,Inc…,ORG,0.0,0.0,de,1
+bringtLos Angeles Times,bringtLos Angeles Times,ORG,0.7,0.0,de,1
+WHTM,WHTM,ORG,0.0,0.0,de,1
+CUMBERLAND COUNTY,CUMBERLAND COUNTY,ORG,0.0,0.0,de,1
+Sky Weather,Sky Weather,ORG,-0.7,0.0,de,1
+MP,MP,ORG,0.7,0.0,de,1
+MoonSwatch-Mission,MoonSwatch-Mission,ORG,0.0,0.0,de,1
+P…,P…,ORG,0.0,0.0,de,1
+Lifte,Lifte,ORG,0.0,0.0,de,1
+Deutschland,Deutschland,ORG,0.0,0.0,de,1
+dpa,dpa,ORG,0.35,0.0,de,1
+Partei,Partei,ORG,0.7,0.0,de,1
+SCHULSCHLIESSUNG,SCHULSCHLIESSUNG,ORG,-0.7,0.0,de,1
+Indiens informelle Arbeiter,Indiens informelle Arbeiter,ORG,0.0,0.0,de,1
+Ukrainische Drohnenteams,Ukrainische Drohnenteams,ORG,-0.7,0.0,de,1
+EU-Diskriminierungsverbot,EU-Diskriminierungsverbot,ORG,0.0,0.0,de,1
+National Alms Agency,National Alms Agency,ORG,0.0,0.0,de,1
+GSK,GSK,ORG,0.0,0.0,de,1
+Notfallzentrum,Notfallzentrum,ORG,0.0,0.0,de,1
 TikToks,TikToks,ORG,0.0,0.0,de,1
+Bundesliga,Bundesliga,ORG,0.0,0.0,de,1
+CDS,CDS,ORG,0.15000000000000002,0.0,de,1
+NSW Central Coast,NSW Central Coast,ORG,0.7,0.0,de,1
+Wildfire Action Accelerator,Wildfire Action Accelerator,ORG,0.0,0.0,de,1
+Brandmanagement …,Brandmanagement …,ORG,0.0,0.0,de,1
+Tunesien,Tunesien,ORG,0.0,0.0,de,1
+Scottish Avalanche Information Service,Scottish Avalanche Information Service,ORG,0.0,0.0,de,1
+National Geographic,National Geographic,ORG,0.0,0.0,de,1
+Volcán de Fuego,Volcán de Fuego,ORG,1.0,0.0,de,1
+Energiesektors,Energiesektors,ORG,0.0,0.0,de,1
+Nebel!,Nebel!,ORG,0.0,0.0,de,1
+Cultural Landscape Foundation,Cultural Landscape Foundation,ORG,-0.85,0.0,de,1
+VfL Wolfsburg,VfL Wolfsburg,ORG,0.0,0.0,de,1
+TCLF,TCLF,ORG,-0.85,0.0,de,1
+MARCA,MARCA,ORG,-1.0,0.0,de,1
+Cornelia Hahn Oberlander International Lan…,Cornelia Hahn Oberlander International Lan…,ORG,-0.85,0.0,de,1
+Eintracht,Eintracht,ORG,0.0,0.0,de,1
+NBC News,NBC News,ORG,0.0,0.0,de,1
+Mutual Aid Fund,Mutual Aid Fund,ORG,0.0,0.0,de,1
+The Intercept,The Intercept,ORG,0.0,0.0,de,1
+Cool Running,Cool Running,ORG,0.0,0.0,de,1
+Konseque…,Konseque…,ORG,0.0,0.0,de,1
+BBC Weather Watchers,BBC Weather Watchers,ORG,0.0,0.0,de,1
+O'HareABC,O'HareABC,ORG,0.0,0.0,de,1
+Boulder Fire Rescue,Boulder Fire Rescue,ORG,0.0,0.0,de,1
+National Oceanic and Atmospheric Administration,National Oceanic and Atmospheric Administration,ORG,0.0,0.0,de,1
+un…,un…,ORG,0.0,0.0,de,1
+Block Club Chicago,Block Club Chicago,ORG,0.0,0.0,de,1
+Kaltfront,Kaltfront,ORG,0.0,0.0,de,1
 Nordwijk,Nordwijk,ORG,0.7,0.0,de,1
-ROM,ROM,ORG,-0.7,0.0,de,1
+Klimakonferenz,Klimakonferenz,ORG,0.0,0.0,de,1
+Moderna,Moderna,ORG,0.0,0.0,de,1
+RSV,RSV,ORG,0.0,0.0,de,1
+allei…,allei…,ORG,0.0,0.0,de,1
+Sit…,Sit…,ORG,0.0,0.0,de,1
+BILD,BILD,ORG,0.0,0.0,de,1
+SPX,SPX,ORG,0.0,0.0,de,1
 Nasa,Nasa,ORG,0.0,0.0,de,1
+Qore Performance,Qore Performance,ORG,0.0,0.0,de,1
+Rüstungsfirmen,Rüstungsfirmen,ORG,0.0,0.0,de,1
+Zyklon Senyar,Zyklon Senyar,ORG,0.0,0.0,de,1
 NHL-Spiel,NHL-Spiel,ORG,0.0,0.0,de,1
 Canadiens,Canadiens,ORG,0.0,0.0,de,1
-Klimakonferenz,Klimakonferenz,ORG,0.0,0.0,de,1
+ASX,ASX,ORG,0.0,0.0,de,1
+Aemet mi…,Aemet mi…,ORG,0.0,0.0,de,1
 NYC-Bürgermeister,NYC-Bürgermeister,ORG,0.0,0.0,de,1
-Nebelmaschine,Nebelmaschine,ORG,-0.85,0.0,de,1
-US-Landwirte,US-Landwirte,ORG,0.3333333333333333,0.0,de,1
+Brockovich-Gruppe,Brockovich-Gruppe,ORG,0.0,0.0,de,1
+Genasys Inc,Genasys Inc,ORG,0.0,0.0,de,1
 Disney,Disney,ORG,1.0,0.0,de,1
-Prognose,Prognose,ORG,0.0,0.0,de,1
 Erdrutsch,Erdrutsch,ORG,0.7,0.0,de,1
 The Daily Beast,The Daily Beast,ORG,0.0,0.0,de,1
 speitThe Daily Beast Japans Vulkan,speitThe Daily Beast Japans Vulkan,ORG,0.0,0.0,de,1
@@ -504,159 +388,483 @@ Vulkans Sakurajima …,Vulkans Sakurajima …,ORG,0.0,0.0,de,1
 IRNA,IRNA,ORG,0.0,0.0,de,1
 National Disaster Risk Reduction…,National Disaster Risk Reduction…,ORG,0.0,0.0,de,1
 Dengue-Übertragung,Dengue-Übertragung,ORG,0.0,0.0,de,1
-MARCA,MARCA,ORG,-1.0,0.0,de,1
-"Top-Updates für nationale, internationale","Top-Updates für nationale, internationale",ORG,0.7,0.0,de,1
-The Signal,The Signal,ORG,0.0,0.0,de,1
-BL-Drama,BL-Drama,ORG,0.0,0.0,de,1
-Assam Electricity Regulatory Commission,Assam Electricity Regulatory Commission,ORG,0.0,0.0,de,1
-Zürcher Geschichte,Zürcher Geschichte,ORG,0.0,0.0,de,1
-Zentrum des Bebens,Zentrum des Bebens,ORG,0.0,0.0,de,1
-Hurra!,Hurra!,ORG,0.0,0.0,de,1
-Fridays For Future,Fridays For Future,ORG,0.0,0.0,de,1
-UKHSA,UKHSA,ORG,0.0,0.0,de,1
+N…,N…,ORG,0.0,0.0,de,1
 Environment and Climate Change Canada,Environment and Climate Change Canada,ORG,0.0,0.0,de,1
+Boston MA,Boston MA,ORG,0.0,0.0,de,1
+Inger Andersen,Inger Andersen,ORG,0.0,0.0,de,1
+Cincinnati,Cincinnati,ORG,0.0,0.0,de,1
+Morris County Medical Examiner,Morris County Medical Examiner,ORG,0.0,0.0,de,1
+US-Wetterwarnung,US-Wetterwarnung,ORG,0.0,0.0,de,1
+FUNKTIONEN,FUNKTIONEN,ORG,0.0,0.0,de,1
+Silvermoon City…,Silvermoon City…,ORG,0.0,0.0,de,1
+UN…,UN…,ORG,0.0,0.0,de,1
+Ne…,Ne…,ORG,1.0,0.0,de,1
+UN-Weltkongress,UN-Weltkongress,ORG,-1.0,0.0,de,1
+Slumres…,Slumres…,ORG,0.0,0.0,de,1
+Jalan Gua Musang-Lojing FT185,Jalan Gua Musang-Lojing FT185,ORG,-0.7,0.0,de,1
+Washington Free Beacon,Washington Free Beacon,ORG,0.0,0.0,de,1
+UNEP,UNEP,ORG,0.0,0.0,de,1
+Verkehrsclub Österreich,Verkehrsclub Österreich,ORG,0.0,0.0,de,1
+CNES,CNES,ORG,0.7,0.0,de,1
+VCÖ,VCÖ,ORG,0.0,0.0,de,1
+Internationale Energieagentur,Internationale Energieagentur,ORG,0.0,0.0,de,1
+LNG,LNG,ORG,0.0,0.0,de,1
+MUSANG,MUSANG,ORG,-0.7,0.0,de,1
+Finnen-Partei,Finnen-Partei,ORG,0.7,0.0,de,1
+Jalan Gua Musang-Lojing,Jalan Gua Musang-Lojing,ORG,0.0,0.0,de,1
+SEZ,SEZ,ORG,1.0,0.0,de,1
+Frage-und-Antwort-Runde,Frage-und-Antwort-Runde,ORG,0.0,0.0,de,1
+ÖFB-Training,ÖFB-Training,ORG,0.0,0.0,de,1
+The New York Times Frustration,The New York Times Frustration,ORG,0.0,0.0,de,1
+Die Grünen,Die Grünen,ORG,0.0,0.0,de,1
+National Grid,National Grid,ORG,0.0,0.0,de,1
+Kiss,Kiss,ORG,0.0,0.0,de,1
+Crop-Top-Saison,Crop-Top-Saison,ORG,0.0,0.0,de,1
+com…,com…,ORG,0.0,0.0,de,1
+Montreal,Montreal,ORG,0.0,0.0,de,1
+UN-Klimachef,UN-Klimachef,ORG,0.0,0.0,de,1
+AK,AK,ORG,0.0,0.0,de,1
+KAJANG,KAJANG,ORG,0.0,0.0,de,1
+Wetterkorrespondent von FOX,Wetterkorrespondent von FOX,ORG,0.7,0.0,de,1
+Bundestag,Bundestag,ORG,0.0,0.0,de,1
+Sandstorm Yellow Metallic,Sandstorm Yellow Metallic,ORG,0.0,0.0,de,1
+Polizei …,Polizei …,ORG,0.0,0.0,de,1
+SMK Abdul Jalil,SMK Abdul Jalil,ORG,0.0,0.0,de,1
+"live
+","live
+",ORG,-0.7,0.0,de,1
+Washington Commanders,Washington Commanders,ORG,0.85,0.0,de,1
+Herbstfrost,Herbstfrost,ORG,0.0,0.0,de,1
+Starwood Capital Group,Starwood Capital Group,ORG,0.85,0.0,de,1
+Montreal Roses,Montreal Roses,ORG,1.0,0.0,de,1
+N.L.,N.L.,ORG,0.0,0.0,de,1
+Taiwan,Taiwan,ORG,0.35,0.0,de,1
+Taifuns Fung-wong,Taifuns Fung-wong,ORG,0.35,0.0,de,1
+NFL-Trainingsgelände,NFL-Trainingsgelände,ORG,-0.35,0.0,de,1
+UN-Hilfskoordinierungsbüro,UN-Hilfskoordinierungsbüro,ORG,0.6999999999999998,0.0,de,1
+OCHA,OCHA,ORG,0.6999999999999998,0.0,de,1
+NFL-Einrichtung,NFL-Einrichtung,ORG,0.0,0.0,de,1
+Atletico Ottawa,Atletico Ottawa,ORG,-1.0,0.0,de,1
+Cavalry FC,Cavalry FC,ORG,-1.0,0.0,de,1
+Starwood,Starwood,ORG,0.0,0.0,de,1
+Weggeklatscht!,Weggeklatscht!,ORG,0.0,0.0,de,1
+Airbnb,Airbnb,ORG,0.0,0.0,de,1
+SWOT,SWOT,ORG,0.7,0.0,de,1
+Zentrum der Kritik,Zentrum der Kritik,ORG,-1.0,0.0,de,1
+ÖVP,ÖVP,ORG,-1.0,0.0,de,1
+Lawine lostrat,Lawine lostrat,ORG,-1.0,0.0,de,1
+Hurra!,Hurra!,ORG,0.0,0.0,de,1
+County Board of Supervisors,County Board of Supervisors,ORG,0.0,0.0,de,1
+C…,C…,ORG,0.0,0.0,de,1
+Steuerungsgruppe,Steuerungsgruppe,ORG,0.0,0.0,de,1
+ViX.,ViX.,ORG,0.0,0.0,de,1
+CILACAP,CILACAP,ORG,-0.7,0.0,de,1
+Vor…,Vor…,ORG,0.0,0.0,de,1
+Washington,Washington,ORG,1.0,0.0,de,1
+Zürcher Geschichte,Zürcher Geschichte,ORG,0.0,0.0,de,1
+NHAI,NHAI,ORG,0.0,0.0,de,1
+Zentrum des Bebens,Zentrum des Bebens,ORG,0.0,0.0,de,1
+China…,China…,ORG,0.0,0.0,de,1
+Wochenbeginn +++ Liveblog,Wochenbeginn +++ Liveblog,ORG,0.0,0.0,de,1
+Fridays For Future,Fridays For Future,ORG,0.0,0.0,de,1
+Sch…,Sch…,ORG,0.0,0.0,de,1
+Anti-AfD-Protesten +++ Frostig,Anti-AfD-Protesten +++ Frostig,ORG,0.0,0.0,de,1
+Offenbach +++ Gießen,Offenbach +++ Gießen,ORG,0.0,0.0,de,1
+UKHSA,UKHSA,ORG,0.0,0.0,de,1
+WASHINGTON,WASHINGTON,ORG,0.2333333333333333,0.0,de,1
 Inazuma Eleven,Inazuma Eleven,ORG,-1.0,0.0,de,1
+Chennai Weather Today LIVE-Updates,Chennai Weather Today LIVE-Updates,ORG,-0.7,0.0,de,1
 Baby Boks,Baby Boks,ORG,0.0,0.0,de,1
 The Little-Kn…,The Little-Kn…,ORG,0.0,0.0,de,1
-LISSABON,LISSABON,ORG,-1.0,0.0,de,1
-Fridays for Future St. John’s,Fridays for Future St. John’s,ORG,0.0,0.0,de,1
-Inc…,Inc…,ORG,0.0,0.0,de,1
-Baznas,Baznas,ORG,0.0,0.0,de,1
-bringtLos Angeles Times,bringtLos Angeles Times,ORG,0.7,0.0,de,1
-Dürre,Dürre,ORG,0.0,0.0,de,1
-P…,P…,ORG,0.0,0.0,de,1
-Lifte,Lifte,ORG,0.0,0.0,de,1
-Deutschland,Deutschland,ORG,0.0,0.0,de,1
-dpa,dpa,ORG,0.35,0.0,de,1
-Partei,Partei,ORG,0.7,0.0,de,1
-Epstein-Akten,Epstein-Akten,ORG,0.35,0.0,de,1
-Indiens informelle Arbeiter,Indiens informelle Arbeiter,ORG,0.0,0.0,de,1
-Ukrainische Drohnenteams,Ukrainische Drohnenteams,ORG,-0.7,0.0,de,1
-National Alms Agency,National Alms Agency,ORG,0.0,0.0,de,1
-CDS,CDS,ORG,0.15000000000000002,0.0,de,1
-NSW Central Coast,NSW Central Coast,ORG,0.7,0.0,de,1
-Wildfire Action Accelerator,Wildfire Action Accelerator,ORG,0.0,0.0,de,1
-Abgrund,Abgrund,ORG,-1.0,0.0,de,1
-EM-Spektrum,EM-Spektrum,ORG,1.0,0.0,de,1
-SDRF,SDRF,ORG,0.0,0.0,de,1
-State Disaster Response Force,State Disaster Response Force,ORG,0.0,0.0,de,1
-Rover,Rover,ORG,0.0,0.0,de,1
-Rover Perseverance,Rover Perseverance,ORG,0.0,0.0,de,1
-SDRF & F&ES entdecken Hoffnung,SDRF & F&ES entdecken Hoffnung,ORG,0.0,0.0,de,1
+Navan Racing Festivals,Navan Racing Festivals,ORG,-1.0,0.0,de,1
+The Local,The Local,ORG,0.7,0.0,de,1
+Pieps,Pieps,ORG,0.0,0.0,de,1
+Lawinen,Lawinen,ORG,0.0,0.0,de,1
+Antwort…,Antwort…,ORG,0.0,0.0,de,1
+State Farm,State Farm,ORG,0.0,0.0,de,1
+Not…,Not…,ORG,-0.5666666666666667,0.0,de,1
+Bundesbank,Bundesbank,ORG,-1.0,0.0,de,1
+WKS-Präsident,WKS-Präsident,ORG,0.0,0.0,de,1
+fallenCNN,fallenCNN,ORG,0.35,0.0,de,1
+EU Fortschritte,EU Fortschritte,ORG,0.0,0.0,de,1
+bringtNe…,bringtNe…,ORG,0.0,0.0,de,1
+Times Union,Times Union,ORG,0.0,0.0,de,1
+Hurricane Relief,Hurricane Relief,ORG,0.0,0.0,de,1
+Zeitstandards,Zeitstandards,ORG,0.0,0.0,de,1
+Environmental Defense Fund,Environmental Defense Fund,ORG,0.0,0.0,de,1
+Wildfire Action Accelerator-Versprechen,Wildfire Action Accelerator-Versprechen,ORG,0.0,0.0,de,1
+Live Science-Wissenschaftler,Live Science-Wissenschaftler,ORG,0.0,0.0,de,1
+Sony,Sony,ORG,0.7,0.0,de,1
+Sandstorm,Sandstorm,ORG,1.0,0.0,de,1
+CO2-Einfluss,CO2-Einfluss,ORG,-1.0,0.0,de,1
+Verkehrsclubs Österreich,Verkehrsclubs Österreich,ORG,-1.0,0.0,de,1
+Statistik Austria,Statistik Austria,ORG,-1.0,0.0,de,1
+Sunset Fire Burn Scars,Sunset Fire Burn Scars,ORG,0.0,0.0,de,1
+SüdostasienReuters,SüdostasienReuters,ORG,0.0,0.0,de,1
+COP,COP,ORG,0.0,0.0,de,1
+BOGOTA,BOGOTA,ORG,-0.6,0.0,de,1
+New York Times US …,New York Times US …,ORG,-0.5,0.0,de,1
+Chromium,Chromium,ORG,0.0,0.0,de,1
+Firefox-ESR,Firefox-ESR,ORG,0.0,0.0,de,1
+Python …,Python …,ORG,0.0,0.0,de,1
+KI Forschern,KI Forschern,ORG,0.0,0.0,de,1
+Pella Sietas,Pella Sietas,ORG,-0.7,0.0,de,1
+Amerikas,Amerikas,ORG,-1.0,0.0,de,1
+FBI-Spezialagenten,FBI-Spezialagenten,ORG,-0.7,0.0,de,1
+indonesischem Vulkan,indonesischem Vulkan,ORG,0.0,0.0,de,1
+Chinas…,Chinas…,ORG,0.7,0.0,de,1
+Seputeh,Seputeh,ORG,0.0,0.0,de,1
+GOG!,GOG!,ORG,0.0,0.0,de,1
+Lichtschnee…,Lichtschnee…,ORG,0.0,0.0,de,1
+Verkehrsprobleme,Verkehrsprobleme,ORG,0.7,0.0,de,1
+Nebel +++ Fahrerflucht,Nebel +++ Fahrerflucht,ORG,-1.0,0.0,de,1
+Niedernhausen +++ Liveblog,Niedernhausen +++ Liveblog,ORG,-1.0,0.0,de,1
+Frankfurt und …,Frankfurt und …,ORG,-1.0,0.0,de,1
+PPS,PPS,ORG,0.0,0.0,de,1
+Stadtplanung,Stadtplanung,ORG,0.0,0.0,de,1
+Schwerin/Rostock,Schwerin/Rostock,ORG,0.0,0.0,de,1
+ITV-Show,ITV-Show,ORG,0.0,0.0,de,1
+Kommunistischen Partei Chinas,Kommunistischen Partei Chinas,ORG,0.0,0.0,de,1
+Bonner Polizei,Bonner Polizei,ORG,-0.43333333333333335,0.0,de,1
+Polizei von Nawalapitiya,Polizei von Nawalapitiya,ORG,0.0,0.0,de,1
+vob,vob,ORG,1.0,0.0,de,1
+Kühl- und Heiz-Thermoregulierung +,Kühl- und Heiz-Thermoregulierung +,ORG,-0.7,0.0,de,1
+YouTuber,YouTuber,ORG,-1.0,0.0,de,1
+Thanksgiving-Woche für Urlaubsreisen,Thanksgiving-Woche für Urlaubsreisen,ORG,0.0,0.0,de,1
+AccuWeather,AccuWeather,ORG,0.0,0.0,de,1
+BUTTERWORTH,BUTTERWORTH,ORG,0.0,0.0,de,1
+ThanksgivingMLive.com,ThanksgivingMLive.com,ORG,0.7,0.0,de,1
+Hauli Gubbi,Hauli Gubbi,ORG,0.0,0.0,de,1
+ORF-Wetterredaktion,ORF-Wetterredaktion,ORG,0.0,0.0,de,1
+Schneefall…,Schneefall…,ORG,0.0,0.0,de,1
+Wetterbedingungen…,Wetterbedingungen…,ORG,-0.7,0.0,de,1
+BERLIN,BERLIN,ORG,0.09999999999999998,0.0,de,1
+Retro-Punk-Gadgets,Retro-Punk-Gadgets,ORG,0.0,0.0,de,1
+AAA,AAA,ORG,0.0,0.0,de,1
+Generaldirektion für Zivilluftfahrt,Generaldirektion für Zivilluftfahrt,ORG,-0.7,0.0,de,1
+Glatteis,Glatteis,ORG,0.0,0.0,de,1
+g…,g…,ORG,1.0,0.0,de,1
+Süd-Zentral-V…,Süd-Zentral-V…,ORG,0.0,0.0,de,1
+Historic Hotels,Historic Hotels,ORG,0.85,0.0,de,1
+ZAGREB,ZAGREB,ORG,-0.15000000000000002,0.0,de,1
+Bewohner Alaskas,Bewohner Alaskas,ORG,0.0,0.0,de,1
+k…,k…,ORG,0.0,0.0,de,1
+Großraum Tokio,Großraum Tokio,ORG,0.0,0.0,de,1
+Straßeninfrastruktur des Landes,Straßeninfrastruktur des Landes,ORG,0.0,0.0,de,1
+Umweltministerium am Sonntag,Umweltministerium am Sonntag,ORG,-0.7,0.0,de,1
+Krampus,Krampus,ORG,0.0,0.0,de,1
+Zeit des fröhlichen Lachens,Zeit des fröhlichen Lachens,ORG,1.0,0.0,de,1
+Niedernhausen +++ Schnee,Niedernhausen +++ Schnee,ORG,0.0,0.0,de,1
+Hessischen Bergstraße +++ Ermittlungen,Hessischen Bergstraße +++ Ermittlungen,ORG,0.0,0.0,de,1
+Deutsche W…,Deutsche W…,ORG,0.0,0.0,de,1
+Wiesbaden +++  Liveblog für Frankfurt,Wiesbaden +++  Liveblog für Frankfurt,ORG,0.0,0.0,de,1
+Hess…,Hess…,ORG,0.0,0.0,de,1
+Colombo,Colombo,ORG,0.0,0.0,de,1
+National Earthquake Monitoring and Research Center,National Earthquake Monitoring and Research Center,ORG,0.0,0.0,de,1
+USD,USD,ORG,0.0,0.0,de,1
+US-Vulkan,US-Vulkan,ORG,0.0,0.0,de,1
+Fr…,Fr…,ORG,0.0,0.0,de,1
+Disney World-Fahrgeschäfte,Disney World-Fahrgeschäfte,ORG,0.0,0.0,de,1
+Erdgaslobby,Erdgaslobby,ORG,0.0,0.0,de,1
+Thanksgiving,Thanksgiving,ORG,0.0,0.0,de,1
+CHUKAI,CHUKAI,ORG,0.0,0.0,de,1
+au…,au…,ORG,-0.7,0.0,de,1
+DGCA-Problemberatung,DGCA-Problemberatung,ORG,-1.0,0.0,de,1
+Äthiopiens Vulkan,Äthiopiens Vulkan,ORG,0.0,0.0,de,1
+US-Golfküste,US-Golfküste,ORG,0.7,0.0,de,1
+Int…,Int…,ORG,0.0,0.0,de,1
+IT-Teams,IT-Teams,ORG,0.0,0.0,de,1
+ESPN2 Wetter,ESPN2 Wetter,ORG,0.0,0.0,de,1
+ALOR,ALOR,ORG,0.7,0.0,de,1
+Umweltbehörde,Umweltbehörde,ORG,0.0,0.0,de,1
+Somerset Levels,Somerset Levels,ORG,0.0,0.0,de,1
+Freitag Felsbrocken,Freitag Felsbrocken,ORG,0.0,0.0,de,1
+Schneesituation,Schneesituation,ORG,0.7,0.0,de,1
+Nationalen Wetterdienstes,Nationalen Wetterdienstes,ORG,-0.7,0.0,de,1
+USA …,USA …,ORG,0.7,0.0,de,1
+TN,TN,ORG,0.0,0.0,de,1
+BYU Nr. 11,BYU Nr. 11,ORG,-0.7,0.0,de,1
+US-Flughäfen,US-Flughäfen,ORG,0.0,0.0,de,1
+CNA,CNA,ORG,0.0,0.0,de,1
+Knoxville,Knoxville,ORG,0.0,0.0,de,1
+Karen Hua,Karen Hua,ORG,0.0,0.0,de,1
+ADDIS,ADDIS,ORG,0.0,0.0,de,1
+ASFINAG,ASFINAG,ORG,0.0,0.0,de,1
+Räumfahrzeuge,Räumfahrzeuge,ORG,0.0,0.0,de,1
+ABC World News Tonight,ABC World News Tonight,ORG,0.0,0.0,de,1
+TAWAU,TAWAU,ORG,-1.0,0.0,de,1
+CBS Evening News,CBS Evening News,ORG,0.0,0.0,de,1
+Hochschule Geisenheim,Hochschule Geisenheim,ORG,0.0,0.0,de,1
+NB…,NB…,ORG,0.0,0.0,de,1
+Äthiopischer Vulkan,Äthiopischer Vulkan,ORG,0.0,0.0,de,1
+Zentrum der USA,Zentrum der USA,ORG,0.0,0.0,de,1
+National W …,National W …,ORG,0.0,0.0,de,1
+SPM,SPM,ORG,-0.7,0.0,de,1
+Ba…,Ba…,ORG,0.0,0.0,de,1
+Kintail Mountain Rescue Team,Kintail Mountain Rescue Team,ORG,0.0,0.0,de,1
+Deutsche Wetterdienst für Hessen,Deutsche Wetterdienst für Hessen,ORG,0.0,0.0,de,1
+Air India,Air India,ORG,0.0,0.0,de,1
+Bewohner Sumatras,Bewohner Sumatras,ORG,-1.0,0.0,de,1
+Barças,Barças,ORG,0.0,0.0,de,1
+IndiGo,IndiGo,ORG,0.0,0.0,de,1
+SciLogs,SciLogs,ORG,-0.5,0.0,de,1
+ausYahoo News Kanada,ausYahoo News Kanada,ORG,-1.0,0.0,de,1
+UN-Entwicklungsprogramm,UN-Entwicklungsprogramm,ORG,0.0,0.0,de,1
+UNDP,UNDP,ORG,0.0,0.0,de,1
+Kings League,Kings League,ORG,0.0,0.0,de,1
+Harvard,Harvard,ORG,0.0,0.0,de,1
+bringtCNN,bringtCNN,ORG,0.0,0.0,de,1
+Schnee-Eule,Schnee-Eule,ORG,0.0,0.0,de,1
+Penticton Indian Band,Penticton Indian Band,ORG,0.0,0.0,de,1
+Sijil Pelajaran Malaysia,Sijil Pelajaran Malaysia,ORG,-0.7,0.0,de,1
+PIB,PIB,ORG,0.0,0.0,de,1
+ÖAMTC,ÖAMTC,ORG,-0.7,0.0,de,1
+Air New Zealand,Air New Zealand,ORG,0.0,0.0,de,1
+Tauranga,Tauranga,ORG,0.0,0.0,de,1
+Branc…,Branc…,ORG,-0.7,0.0,de,1
+Winter Bayern,Winter Bayern,ORG,-0.7,0.0,de,1
+Wetterdienst,Wetterdienst,ORG,-0.7,0.0,de,1
+Popular Sci…,Popular Sci…,ORG,0.0,0.0,de,1
+Additi…,Additi…,ORG,-1.0,0.0,de,1
+Snow Joe-Schneefräsen,Snow Joe-Schneefräsen,ORG,0.0,0.0,de,1
+SMK Jitra,SMK Jitra,ORG,0.0,0.0,de,1
+israelischen Feuer- und Rettungsbehörde,israelischen Feuer- und Rettungsbehörde,ORG,0.7,0.0,de,1
+TGIFreitag!,TGIFreitag!,ORG,0.0,0.0,de,1
+Sporting Life,Sporting Life,ORG,0.35,0.0,de,1
+LEGO,LEGO,ORG,0.0,0.0,de,1
+Illini,Illini,ORG,0.0,0.0,de,1
 Danakgre,Danakgre,ORG,-0.15000000000000002,0.0,de,1
 C.B.N.,C.B.N.,ORG,0.0,0.0,de,1
+Umwelt und Klimawandel Kanada,Umwelt und Klimawandel Kanada,ORG,0.0,0.0,de,1
 NSW,NSW,ORG,0.0,0.0,de,1
+AKPS,AKPS,ORG,0.0,0.0,de,1
+Malaysiern,Malaysiern,ORG,0.0,0.0,de,1
 RFS,RFS,ORG,0.0,0.0,de,1
+Gießen,Gießen,ORG,-1.0,0.0,de,1
 Konservativen,Konservativen,ORG,0.0,0.0,de,1
+NORD-ACEH,NORD-ACEH,ORG,-1.0,0.0,de,1
+Nationalmannschaft,Nationalmannschaft,ORG,0.0,0.0,de,1
+AfD-Jugend,AfD-Jugend,ORG,0.0,0.0,de,1
+Abgrund,Abgrund,ORG,-1.0,0.0,de,1
+Akhmad Munir,Akhmad Munir,ORG,0.0,0.0,de,1
+Silvretta Montafon,Silvretta Montafon,ORG,0.0,0.0,de,1
+Running Backs,Running Backs,ORG,0.0,0.0,de,1
+gestrichenCBS,gestrichenCBS,ORG,0.09999999999999998,0.0,de,1
+Chicagoer Flughäfen,Chicagoer Flughäfen,ORG,0.09999999999999998,0.0,de,1
+Detroit News,Detroit News,ORG,0.0,0.0,de,1
+NDTV,NDTV,ORG,0.0,0.0,de,1
+The Detroit News,The Detroit News,ORG,-1.0,0.0,de,1
+Bewohner …,Bewohner …,ORG,0.0,0.0,de,1
+National W…,National W…,ORG,0.0,0.0,de,1
 Smart Home Deals,Smart Home Deals,ORG,0.7,0.0,de,1
-Brandmanagement …,Brandmanagement …,ORG,0.0,0.0,de,1
+PGA Tour,PGA Tour,ORG,0.0,0.0,de,1
 Smart Home Produkten,Smart Home Produkten,ORG,0.7999999999999999,0.0,de,1
-Cyber Monday Rabatt-Aktion,Cyber Monday Rabatt-Aktion,ORG,0.7999999999999999,0.0,de,1
-außerg…,außerg…,ORG,0.0,0.0,de,1
-Wein-Universität,Wein-Universität,ORG,0.7,0.0,de,1
-VitiVoltaic,VitiVoltaic,ORG,0.0,0.0,de,1
-K…,K…,ORG,0.0,0.0,de,1
-Wochenendaussichten,Wochenendaussichten,ORG,0.0,0.0,de,1
-VW,VW,ORG,0.2333333333333333,0.0,de,1
-Irlands Test,Irlands Test,ORG,0.0,0.0,de,1
-unterschiedlic…,unterschiedlic…,ORG,0.7,0.0,de,1
-Landesamt für Umwelt:,Landesamt für Umwelt:,ORG,-0.7,0.0,de,1
-Comics,Comics,ORG,0.0,0.0,de,1
-Obeliskium,Obeliskium,ORG,0.0,0.0,de,1
-Schrankauswahl…,Schrankauswahl…,ORG,0.0,0.0,de,1
-ProPublica,ProPublica,ORG,0.0,0.0,de,1
-Scottish Avalanche Information Service,Scottish Avalanche Information Service,ORG,0.0,0.0,de,1
-Energiesektors,Energiesektors,ORG,0.0,0.0,de,1
-Nebel!,Nebel!,ORG,0.0,0.0,de,1
-RI-Regierung,RI-Regierung,ORG,0.0,0.0,de,1
-Mutual Aid Fund,Mutual Aid Fund,ORG,0.0,0.0,de,1
-The Intercept,The Intercept,ORG,0.0,0.0,de,1
-Cool Running,Cool Running,ORG,0.0,0.0,de,1
-Konseque…,Konseque…,ORG,0.0,0.0,de,1
-Boulder Fire Rescue,Boulder Fire Rescue,ORG,0.0,0.0,de,1
-un…,un…,ORG,0.0,0.0,de,1
-Amerikas,Amerikas,ORG,-1.0,0.0,de,1
-indonesischem Vulkan,indonesischem Vulkan,ORG,0.0,0.0,de,1
+ANTARA,ANTARA,ORG,0.0,0.0,de,1
+SDRF & F&ES entdecken Hoffnung,SDRF & F&ES entdecken Hoffnung,ORG,0.0,0.0,de,1
+Schnee!,Schnee!,ORG,0.0,0.0,de,1
+Twist-Style …,Twist-Style …,ORG,0.0,0.0,de,1
 Zentrums für Vulkanologie des Landes,Zentrums für Vulkanologie des Landes,ORG,0.35,0.0,de,1
 CONAF,CONAF,ORG,-1.0,0.0,de,1
 waterSHED,waterSHED,ORG,1.0,0.0,de,1
 Raumsch…,Raumsch…,ORG,0.0,0.0,de,1
 Claussens…,Claussens…,ORG,0.0,0.0,de,1
+FOX-Wettersturmspezialist,FOX-Wettersturmspezialist,ORG,0.0,0.0,de,1
+Todesopf…,Todesopf…,ORG,0.0,0.0,de,1
 Lavender Scare,Lavender Scare,ORG,-0.7,0.0,de,1
-FBI-Spezialagenten,FBI-Spezialagenten,ORG,-0.7,0.0,de,1
+The Hill,The Hill,ORG,0.0,0.0,de,1
 FBI-Akademie,FBI-Akademie,ORG,-0.7,0.0,de,1
 Fakten,Fakten,ORG,0.0,0.0,de,1
 Daily Mail,Daily Mail,ORG,-0.7,0.0,de,1
-Twist-Style …,Twist-Style …,ORG,0.0,0.0,de,1
-Worcester Polytechnic Institute,Worcester Polytechnic Institute,ORG,-0.85,0.0,de,1
-News Wrap,News Wrap,ORG,0.0,0.0,de,1
-Tech-Universität,Tech-Universität,ORG,0.0,0.0,de,1
-KI-System,KI-System,ORG,0.0,0.0,de,1
-Be…,Be…,ORG,0.0,0.0,de,1
-T…,T…,ORG,0.0,0.0,de,1
-Geosphere Austria,Geosphere Austria,ORG,0.0,0.0,de,1
-Wildfire Fund,Wildfire Fund,ORG,0.0,0.0,de,1
-BBB-,BBB-,ORG,0.0,0.0,de,1
+ProPublica,ProPublica,ORG,0.0,0.0,de,1
+San Francisco 49ers,San Francisco 49ers,ORG,-1.0,0.0,de,1
+Schrankauswahl…,Schrankauswahl…,ORG,0.0,0.0,de,1
+Selenskyj,Selenskyj,ORG,0.0,0.0,de,1
+Obeliskium,Obeliskium,ORG,0.0,0.0,de,1
+Comics,Comics,ORG,0.0,0.0,de,1
+EM-Spektrum,EM-Spektrum,ORG,1.0,0.0,de,1
+SDRF,SDRF,ORG,0.0,0.0,de,1
+Sonntag…,Sonntag…,ORG,0.35,0.0,de,1
+State Disaster Response Force,State Disaster Response Force,ORG,0.0,0.0,de,1
+SMK Dusun Nanding,SMK Dusun Nanding,ORG,0.0,0.0,de,1
+Rover,Rover,ORG,0.0,0.0,de,1
+Rover Perseverance,Rover Perseverance,ORG,0.0,0.0,de,1
+Cleveland Browns,Cleveland Browns,ORG,-0.15000000000000002,0.0,de,1
+Cyber Monday Rabatt-Aktion,Cyber Monday Rabatt-Aktion,ORG,0.7999999999999999,0.0,de,1
+Ann ArborDetroit Free Press Winterwetter,Ann ArborDetroit Free Press Winterwetter,ORG,0.0,0.0,de,1
+Midwestgo.com,Midwestgo.com,ORG,0.0,0.0,de,1
+SYDNEY,SYDNEY,ORG,-1.0,0.0,de,1
+Mexiko City,Mexiko City,ORG,0.0,0.0,de,1
+Zentrum des Beben…,Zentrum des Beben…,ORG,0.0,0.0,de,1
+Cuffing-Saison,Cuffing-Saison,ORG,0.0,0.0,de,1
+CUFFING-Saison,CUFFING-Saison,ORG,0.0,0.0,de,1
+Behör…,Behör…,ORG,0.0,0.0,de,1
+sichLos Angeles Times Live-Updates,sichLos Angeles Times Live-Updates,ORG,0.0,0.0,de,1
+Social…,Social…,ORG,0.0,0.0,de,1
+Huntington Bank Stadium TV,Huntington Bank Stadium TV,ORG,0.0,0.0,de,1
+Los Angeles Auto Show,Los Angeles Auto Show,ORG,0.7,0.0,de,1
+MINNESOTA,MINNESOTA,ORG,0.0,0.0,de,1
+Fußball-Bundesliga,Fußball-Bundesliga,ORG,0.0,0.0,de,1
+FSV Mainz 05,FSV Mainz 05,ORG,-0.35,0.0,de,1
+https://punchng.com/drowning-in-splendour-ajah-residents-lose-property-livelihood-to-unending-floo…,https://punchng.com/drowning-in-splendour-ajah-residents-lose-property-livelihood-to-unending-floo…,ORG,0.0,0.0,de,1
+Chicago Wi…,Chicago Wi…,ORG,0.7,0.0,de,1
+Na…,Na…,ORG,0.0,0.0,de,1
+D…,D…,ORG,0.0,0.0,de,1
+Sozioökonomische Fa…,Sozioökonomische Fa…,ORG,0.0,0.0,de,1
+SAR,SAR,ORG,0.0,0.0,de,1
+Erdöls,Erdöls,ORG,0.0,0.0,de,1
+Alarmstufe Frost!,Alarmstufe Frost!,ORG,0.0,0.0,de,1
+könntenABC New…,könntenABC New…,ORG,0.0,0.0,de,1
+AfD,AfD,ORG,0.0,0.0,de,1
+Michigans,Michigans,ORG,-0.85,0.0,de,1
+Deal Hunter minntwins,Deal Hunter minntwins,ORG,0.0,0.0,de,1
+bedeutetClickOnDetroit,bedeutetClickOnDetroit,ORG,-0.85,0.0,de,1
+GDV,GDV,ORG,0.0,0.0,de,1
+National Park Service,National Park Service,ORG,0.0,0.0,de,1
+Deutsche Bahn,Deutsche Bahn,ORG,0.0,0.0,de,1
+FS1 Radio,FS1 Radio,ORG,0.0,0.0,de,1
+KFAN,KFAN,ORG,0.0,0.0,de,1
+außerg…,außerg…,ORG,0.0,0.0,de,1
+Ann Arbor,Ann Arbor,ORG,0.7,0.0,de,1
+Wein-Universität,Wein-Universität,ORG,0.7,0.0,de,1
+VitiVoltaic,VitiVoltaic,ORG,0.0,0.0,de,1
+Detroit,Detroit,ORG,0.7,0.0,de,1
+Wochenendaussichten,Wochenendaussichten,ORG,0.0,0.0,de,1
+VW,VW,ORG,0.2333333333333333,0.0,de,1
+Irlands Test,Irlands Test,ORG,0.0,0.0,de,1
+unterschiedlic…,unterschiedlic…,ORG,0.7,0.0,de,1
+US-Banken,US-Banken,ORG,0.0,0.0,de,1
+NA3HL West Division,NA3HL West Division,ORG,0.7,0.0,de,1
+Landesamt für Umwelt:,Landesamt für Umwelt:,ORG,-0.7,0.0,de,1
+BL-Drama,BL-Drama,ORG,0.0,0.0,de,1
+LA Auto Show,LA Auto Show,ORG,-0.7,0.0,de,1
+Allzeitrekord,Allzeitrekord,ORG,-0.7,0.0,de,1
+ChatGPT-Apps,ChatGPT-Apps,ORG,-1.0,0.0,de,1
+WILLMAR,WILLMAR,ORG,0.7,0.0,de,1
+KI-Apps,KI-Apps,ORG,-1.0,0.0,de,1
+NASA-Satellitenbild,NASA-Satellitenbild,ORG,0.0,0.0,de,1
+Alexandria Blizzard,Alexandria Blizzard,ORG,0.0,0.0,de,1
+Umwelt-NGO,Umwelt-NGO,ORG,0.0,0.0,de,1
+Slipgate Ironworks,Slipgate Ironworks,ORG,0.0,0.0,de,1
+Kommune,Kommune,ORG,0.0,0.0,de,1
+Dresdner Winterdienst,Dresdner Winterdienst,ORG,0.0,0.0,de,1
+dpo,dpo,ORG,0.0,0.0,de,1
+WDI…,WDI…,ORG,-0.85,0.0,de,1
+BBC Fa,BBC Fa,ORG,0.0,0.0,de,1
+GM Garrett Turta,GM Garrett Turta,ORG,0.7,0.0,de,1
+Hybrid-PAC ActBlu …,Hybrid-PAC ActBlu …,ORG,0.0,0.0,de,1
+BARU,BARU,ORG,0.0,0.0,de,1
+INDIAN,INDIAN,ORG,0.0,0.0,de,1
+National Forest System,National Forest System,ORG,-0.3333333333333333,0.0,de,1
+Himal Dolakha Hydropower Company Ltd,Himal Dolakha Hydropower Company Ltd,ORG,0.0,0.0,de,1
+Robert-Koch-Instituts,Robert-Koch-Instituts,ORG,0.0,0.0,de,1
+RKI,RKI,ORG,0.0,0.0,de,1
+Rheinische Post,Rheinische Post,ORG,0.0,0.0,de,1
+Manchester United,Manchester United,ORG,0.0,0.0,de,1
+Red Devils,Red Devils,ORG,1.0,0.0,de,1
+Los Angeles Palisades,Los Angeles Palisades,ORG,0.0,0.0,de,1
+NBC Los Angeles,NBC Los Angeles,ORG,0.0,0.0,de,1
+Online-Tool,Online-Tool,ORG,0.7,0.0,de,1
+US-Bundespolizeibeamte,US-Bundespolizeibeamte,ORG,-0.15000000000000002,0.0,de,1
+Natural Resources,Natural Resources,ORG,0.7,0.0,de,1
+Medizinischen Universität Innsbruck,Medizinischen Universität Innsbruck,ORG,1.0,0.0,de,1
 KGV,KGV,ORG,0.0,0.0,de,1
-philippinische Institut für Vulkanologie und Seismologie,philippinische Institut für Vulkanologie und Seismologie,ORG,0.7,0.0,de,1
+Nepal,Nepal,ORG,0.0,0.0,de,1
+Straßeninfrastruktur,Straßeninfrastruktur,ORG,0.0,0.0,de,1
+LA Palisades,LA Palisades,ORG,-1.0,0.0,de,1
+Manitobas,Manitobas,ORG,0.0,0.0,de,1
+Lachman Fire,Lachman Fire,ORG,0.0,0.0,de,1
+US-Wettervorhersage,US-Wettervorhersage,ORG,-1.0,0.0,de,1
+Küstenbewohner,Küstenbewohner,ORG,0.0,0.0,de,1
+Geologische Agentur des Ministeriums für Energie und Bodenschätze,Geologische Agentur des Ministeriums für Energie und Bodenschätze,ORG,0.0,0.0,de,1
+ESDM,ESDM,ORG,0.0,0.0,de,1
+Tsunami,Tsunami,ORG,0.0,0.0,de,1
+Landeswarnzentrale,Landeswarnzentrale,ORG,0.0,0.0,de,1
+Jahr-Jubiläum,Jahr-Jubiläum,ORG,0.0,0.0,de,1
+steirische Landeswarnzentrale,steirische Landeswarnzentrale,ORG,-1.0,0.0,de,1
+Krisenkoordination,Krisenkoordination,ORG,0.0,0.0,de,1
+Polizei von Kelantan,Polizei von Kelantan,ORG,0.0,0.0,de,1
+EnBW,EnBW,ORG,0.0,0.0,de,1
+h…,h…,ORG,0.0,0.0,de,1
+Landwirtschaftsministerium in Paris,Landwirtschaftsministerium in Paris,ORG,0.0,0.0,de,1
 PHIVOLCS Science Research,PHIVOLCS Science Research,ORG,0.0,0.0,de,1
 Insurance Institute for Business and Home Safety,Insurance Institute for Business and Home Safety,ORG,0.0,0.0,de,1
 PG&E Corporation,PG&E Corporation,ORG,0.0,0.0,de,1
 Fitch Ratings PG&E Corporation,Fitch Ratings PG&E Corporation,ORG,0.0,0.0,de,1
 Outer Banks,Outer Banks,ORG,0.0,0.0,de,1
 Social Media,Social Media,ORG,0.0,0.0,de,1
+JUBA,JUBA,ORG,0.0,0.0,de,1
 Brisbane,Brisbane,ORG,-0.35,0.0,de,1
+Brevard,Brevard,ORG,0.0,0.0,de,1
 Klimaziele,Klimaziele,ORG,-1.0,0.0,de,1
+Zentrum der US-Pläne,Zentrum der US-Pläne,ORG,0.0,0.0,de,1
+EUNICE,EUNICE,ORG,0.0,0.0,de,1
 Hamburg,Hamburg,ORG,0.0,0.0,de,1
 Bundesamt für Seeschifffahrt und Hydrographie,Bundesamt für Seeschifffahrt und Hydrographie,ORG,0.0,0.0,de,1
 Einschränkun…,Einschränkun…,ORG,0.0,0.0,de,1
+Sky News,Sky News,ORG,0.0,0.0,de,1
+JHAPA,JHAPA,ORG,0.0,0.0,de,1
+DSP,DSP,ORG,0.0,0.0,de,1
 Boeing …,Boeing …,ORG,0.0,0.0,de,1
+Bürger Nepals!,Bürger Nepals!,ORG,1.0,0.0,de,1
 Kanadischen Roten Kreuz,Kanadischen Roten Kreuz,ORG,0.0,0.0,de,1
 USDA,USDA,ORG,-0.7,0.0,de,1
 Newcastle United,Newcastle United,ORG,0.0,0.0,de,1
-Landwirtschaftsministerium in Paris,Landwirtschaftsministerium in Paris,ORG,0.0,0.0,de,1
-Todesopfern,Todesopfern,ORG,0.0,0.0,de,1
-Fluchtwegen für Waldbrände,Fluchtwegen für Waldbrände,ORG,-0.7,0.0,de,1
-After-Action…,After-Action…,ORG,0.0,0.0,de,1
-Watch Duty,Watch Duty,ORG,-1.0,0.0,de,1
-US-Beamte,US-Beamte,ORG,-0.675,0.0,de,1
-Schottische Minister,Schottische Minister,ORG,0.0,0.0,de,1
-nan,nan,ORG,0.0,0.0,de,1
-Hi…,Hi…,ORG,0.0,0.0,de,1
-Grand Final-Wochenende,Grand Final-Wochenende,ORG,0.7,0.0,de,1
-Conservation Regulator Victoria,Conservation Regulator Victoria,ORG,0.0,0.0,de,1
-MFD,MFD,ORG,0.0,0.0,de,1
-Washington Post,Washington Post,ORG,0.0,0.0,de,1
-M…,M…,ORG,0.0,0.0,de,1
-mercurynews.com,mercurynews.com,ORG,0.0,0.0,de,1
-KTVK/KPHO,KTVK/KPHO,ORG,-1.0,0.0,de,1
-Herbst!,Herbst!,ORG,0.0,0.0,de,1
-ClimateWatch,ClimateWatch,ORG,0.0,0.0,de,1
-Schocktober!,Schocktober!,ORG,0.0,0.0,de,1
-Ab Mittwoch,Ab Mittwoch,ORG,0.0,0.0,de,1
-PARAFITA,PARAFITA,ORG,-0.15000000000000002,0.0,de,1
-Team Europa,Team Europa,ORG,0.0,0.0,de,1
-USA,USA,ORG,0.0,0.0,de,1
-Biodiversitä…,Biodiversitä…,ORG,0.7,0.0,de,1
-Todesop…,Todesop…,ORG,0.0,0.0,de,1
-Namibias Flaggschiff-Nationalpark Yahoo Namibia,Namibias Flaggschiff-Nationalpark Yahoo Namibia,ORG,0.0,0.0,de,1
-Afrikas…,Afrikas…,ORG,0.0,0.0,de,1
-h…,h…,ORG,0.0,0.0,de,1
-EnBW,EnBW,ORG,0.0,0.0,de,1
-National Forest System,National Forest System,ORG,-0.3333333333333333,0.0,de,1
-Johannes Gutenberg Universität…,Johannes Gutenberg Universität…,ORG,0.0,0.0,de,1
+Asian Hydropower Ltd,Asian Hydropower Ltd,ORG,-1.0,0.0,de,1
+Sanvi Energy,Sanvi Energy,ORG,0.0,0.0,de,1
+Sanvi Energy Ltd,Sanvi Energy Ltd,ORG,0.0,0.0,de,1
+DHARAN,DHARAN,ORG,0.0,0.0,de,1
+Nepal Stock Exchange,Nepal Stock Exchange,ORG,-1.0,0.0,de,1
+NEPSE,NEPSE,ORG,-1.0,0.0,de,1
+Umweltministerium,Umweltministerium,ORG,0.0,0.0,de,1
+US Northeast Bra…,US Northeast Bra…,ORG,0.7,0.0,de,1
+CFB Gagetown,CFB Gagetown,ORG,0.0,0.0,de,1
+NRW-Wetter,NRW-Wetter,ORG,0.0,0.0,de,1
+untersch…,untersch…,ORG,0.0,0.0,de,1
+Hausbauboom,Hausbauboom,ORG,0.0,0.0,de,1
+National Observer,National Observer,ORG,0.0,0.0,de,1
+Europäischen Kommission einberufenes Expertengremium,Europäischen Kommission einberufenes Expertengremium,ORG,0.0,0.0,de,1
+SHREVEPORT,SHREVEPORT,ORG,0.0,0.0,de,1
+La,La,ORG,0.0,0.0,de,1
+KTAL/KMSS,KTAL/KMSS,ORG,-0.7,0.0,de,1
+APS,APS,ORG,-0.5666666666666667,0.0,de,1
+Volcano Vista-Schüler,Volcano Vista-Schüler,ORG,-0.5666666666666667,0.0,de,1
+Albuquerque Public Schools,Albuquerque Public Schools,ORG,-0.5666666666666667,0.0,de,1
+Volcano Vista High School,Volcano Vista High School,ORG,-0.5666666666666667,0.0,de,1
+Clean Air Fund,Clean Air Fund,ORG,0.7,0.0,de,1
+Wiener Philharmonikern,Wiener Philharmonikern,ORG,0.7,0.0,de,1
+Einrichtun…,Einrichtun…,ORG,0.0,0.0,de,1
+Radio City Rockettes,Radio City Rockettes,ORG,0.35,0.0,de,1
+Hurrikan-Aussichten,Hurrikan-Aussichten,ORG,-0.7,0.0,de,1
+Nationale Zentrum für Seismologie,Nationale Zentrum für Seismologie,ORG,0.0,0.0,de,1
+Loop One Festival München,Loop One Festival München,ORG,0.0,0.0,de,1
+Sentinel-2,Sentinel-2,ORG,0.0,0.0,de,1
+Demokraten …,Demokraten …,ORG,0.0,0.0,de,1
+Wass…,Wass…,ORG,0.0,0.0,de,1
+Tobias,Tobias,ORG,0.0,0.0,de,1
+A B.C.,A B.C.,ORG,0.0,0.0,de,1
+tech…,tech…,ORG,0.7,0.0,de,1
+KI-Kooperationsvereinbarung,KI-Kooperationsvereinbarung,ORG,0.0,0.0,de,1
+SunCar,SunCar,ORG,1.0,0.0,de,1
+LLM,LLM,ORG,1.0,0.0,de,1
+Doubao,Doubao,ORG,1.0,0.0,de,1
+Salt Typhoon,Salt Typhoon,ORG,0.0,0.0,de,1
+Oberste Gerichtshof der,Oberste Gerichtshof der,ORG,0.0,0.0,de,1
+Indonesien Vulkan…,Indonesien Vulkan…,ORG,0.0,0.0,de,1
+kanadischen Streitkräfte,kanadischen Streitkräfte,ORG,0.0,0.0,de,1
+Indonesischer Vulkan,Indonesischer Vulkan,ORG,0.7,0.0,de,1
+PH,PH,ORG,0.0,0.0,de,1
 Japan Air Self-Defense Force,Japan Air Self-Defense Force,ORG,0.7,0.0,de,1
 Geobrugg,Geobrugg,ORG,0.0,0.0,de,1
 AK für besseren Versicherungsschutz,AK für besseren Versicherungsschutz,ORG,-1.0,0.0,de,1
 Palisades Wildfire,Palisades Wildfire,ORG,0.0,0.0,de,1
 Schnellstra…,Schnellstra…,ORG,0.7,0.0,de,1
+europäischen Fußballs,europäischen Fußballs,ORG,-0.7,0.0,de,1
 NJ,NJ,ORG,0.0,0.0,de,1
-KAVREPALANCHOWK,KAVREPALANCHOWK,ORG,0.0,0.0,de,1
 BUND Niedersachsen,BUND Niedersachsen,ORG,0.0,0.0,de,1
 STEVE,STEVE,ORG,0.0,0.0,de,1
 MILLOY,MILLOY,ORG,0.0,0.0,de,1
+Johannes Gutenberg Universität…,Johannes Gutenberg Universität…,ORG,0.0,0.0,de,1
 Campi Flegrei,Campi Flegrei,ORG,0.0,0.0,de,1
-kanadischen Streitkräfte,kanadischen Streitkräfte,ORG,0.0,0.0,de,1
 KI-Tool,KI-Tool,ORG,0.0,0.0,de,1
 Heat Tech,Heat Tech,ORG,0.7,0.0,de,1
 Indian Mertrological Department,Indian Mertrological Department,ORG,0.0,0.0,de,1
@@ -665,50 +873,22 @@ Arizona,Arizona,ORG,0.7,0.0,de,1
 Downtow…,Downtow…,ORG,0.0,0.0,de,1
 Sundance Film Festival,Sundance Film Festival,ORG,0.9,0.0,de,1
 Time Magazine,Time Magazine,ORG,-1.0,0.0,de,1
-SBA,SBA,ORG,-1.0,0.0,de,1
 Katastrophenhilfe für Überlebende des Waldbrands,Katastrophenhilfe für Überlebende des Waldbrands,ORG,-1.0,0.0,de,1
-PH,PH,ORG,0.0,0.0,de,1
-CFB Gagetown,CFB Gagetown,ORG,0.0,0.0,de,1
-Robert-Koch-Instituts,Robert-Koch-Instituts,ORG,0.0,0.0,de,1
-Manitobas,Manitobas,ORG,0.0,0.0,de,1
-RKI,RKI,ORG,0.0,0.0,de,1
-Rheinische Post,Rheinische Post,ORG,0.0,0.0,de,1
-Los Angeles Palisades,Los Angeles Palisades,ORG,0.0,0.0,de,1
-NBC Los Angeles,NBC Los Angeles,ORG,0.0,0.0,de,1
-Online-Tool,Online-Tool,ORG,0.7,0.0,de,1
-US-Bundespolizeibeamte,US-Bundespolizeibeamte,ORG,-0.15000000000000002,0.0,de,1
-Natural Resources,Natural Resources,ORG,0.7,0.0,de,1
-Hybrid-PAC ActBlu …,Hybrid-PAC ActBlu …,ORG,0.0,0.0,de,1
-Medizinischen Universität Innsbruck,Medizinischen Universität Innsbruck,ORG,1.0,0.0,de,1
-LA Palisades,LA Palisades,ORG,-1.0,0.0,de,1
-Lachman Fire,Lachman Fire,ORG,0.0,0.0,de,1
-Umweltministerium,Umweltministerium,ORG,0.0,0.0,de,1
-Küstenbewohner,Küstenbewohner,ORG,0.0,0.0,de,1
-Geologische Agentur des Ministeriums für Energie und Bodenschätze,Geologische Agentur des Ministeriums für Energie und Bodenschätze,ORG,0.0,0.0,de,1
-ESDM,ESDM,ORG,0.0,0.0,de,1
-"Agentur für Meteorologie, Klimatologie und Geophysik","Agentur für Meteorologie, Klimatologie und Geophysik",ORG,0.7,0.0,de,1
-BMKG,BMKG,ORG,0.7,0.0,de,1
-Tsunami,Tsunami,ORG,0.0,0.0,de,1
-Landeswarnzentrale,Landeswarnzentrale,ORG,0.0,0.0,de,1
-Jahr-Jubiläum,Jahr-Jubiläum,ORG,0.0,0.0,de,1
-steirische Landeswarnzentrale,steirische Landeswarnzentrale,ORG,-1.0,0.0,de,1
-Krisenkoordination,Krisenkoordination,ORG,0.0,0.0,de,1
-Waldbrandes,Waldbrandes,ORG,0.7,0.0,de,1
-Trinamool,Trinamool,ORG,0.0,0.0,de,1
-NASA-Daten,NASA-Daten,ORG,0.7,0.0,de,1
-Volcano Security Post,Volcano Security Post,ORG,0.0,0.0,de,1
-Northern Arizona University,Northern Arizona University,ORG,0.0,0.0,de,1
-TW Architects,TW Architects,ORG,0.0,0.0,de,1
-BBMB,BBMB,ORG,-1.0,0.0,de,1
-Toronto Film,Toronto Film,ORG,1.0,0.0,de,1
-JP Nadda,JP Nadda,ORG,0.0,0.0,de,1
-NDA-Abgeordnete,NDA-Abgeordnete,ORG,0.0,0.0,de,1
-Amerikanische Rote Kreuz,Amerikanische Rote Kreuz,ORG,0.0,0.0,de,1
-Harjot Bains,Harjot Bains,ORG,0.0,0.0,de,1
+Waldbrandabwehr,Waldbrandabwehr,ORG,0.0,0.0,de,1
+Sonic Fire Tech,Sonic Fire Tech,ORG,1.0,0.0,de,1
+Philippine Institute of …,Philippine Institute of …,ORG,0.0,0.0,de,1
+Castro,Castro,ORG,0.0,0.0,de,1
+München,München,ORG,0.7,0.0,de,1
+Lettland,Lettland,ORG,0.0,0.0,de,1
+BILDSTRECKE,BILDSTRECKE,ORG,0.0,0.0,de,1
+philippinische Institut für Vulkanologie und Seismologie,philippinische Institut für Vulkanologie und Seismologie,ORG,0.7,0.0,de,1
+BBB-,BBB-,ORG,0.0,0.0,de,1
+UN-Experte,UN-Experte,ORG,-0.7,0.0,de,1
+PPK,PPK,ORG,0.0,0.0,de,1
 Waldbrand-Überlebensdramas,Waldbrand-Überlebensdramas,ORG,0.7,0.0,de,1
 PGA Post,PGA Post,ORG,0.0,0.0,de,1
+Volcano Security Post,Volcano Security Post,ORG,0.0,0.0,de,1
 US-Zentralkommando,US-Zentralkommando,ORG,-1.0,0.0,de,1
-UN-Wetterbehörde,UN-Wetterbehörde,ORG,0.0,0.0,de,1
 Truppen,Truppen,ORG,-0.10000000000000002,0.0,de,1
 AAP-Regierung,AAP-Regierung,ORG,0.0,0.0,de,1
 NTT,NTT,ORG,0.0,0.0,de,1
@@ -719,10 +899,26 @@ LA-Hilfsmitteln,LA-Hilfsmitteln,ORG,0.0,0.0,de,1
 Institut für Geodynamik,Institut für Geodynamik,ORG,0.0,0.0,de,1
 Nationalen Observatorium Athens,Nationalen Observatorium Athens,ORG,0.0,0.0,de,1
 Cal Fire,Cal Fire,ORG,0.0,0.0,de,1
-Vibrant Planet,Vibrant Planet,ORG,0.0,0.0,de,1
-UN-Bericht,UN-Bericht,ORG,0.0,0.0,de,1
-Außenministerium,Außenministerium,ORG,0.0,0.0,de,1
-PUNJAB,PUNJAB,ORG,0.0,0.0,de,1
+Ministerium für Feuerwehr und Rettungsdienste,Ministerium für Feuerwehr und Rettungsdienste,ORG,0.7,0.0,de,1
+Wildfire Fund,Wildfire Fund,ORG,0.0,0.0,de,1
+Wi…,Wi…,ORG,0.0,0.0,de,1
+Municipalities N.L.,Municipalities N.L.,ORG,0.0,0.0,de,1
+USA…,USA…,ORG,0.0,0.0,de,1
+Creek Watershed,Creek Watershed,ORG,0.7,0.0,de,1
+Utility Wildfire Fund,Utility Wildfire Fund,ORG,0.0,0.0,de,1
+LA-Forscher,LA-Forscher,ORG,0.0,0.0,de,1
+Lamela,Lamela,ORG,0.0,0.0,de,1
+DENPASAR/JAKARTA,DENPASAR/JAKARTA,ORG,-0.7,0.0,de,1
+Bali Regional Disaster Management Agency,Bali Regional Disaster Management Agency,ORG,-1.0,0.0,de,1
+Nature Communications,Nature Communications,ORG,0.0,0.0,de,1
+Bundes für Stürme und Überschwemmungen,Bundes für Stürme und Überschwemmungen,ORG,0.0,0.0,de,1
+NC State-Wake Forest Game Feuer,NC State-Wake Forest Game Feuer,ORG,0.0,0.0,de,1
+Wake Forest,Wake Forest,ORG,0.0,0.0,de,1
+Allegacy Federal Credit Union Stadium,Allegacy Federal Credit Union Stadium,ORG,0.0,0.0,de,1
+Harjot Bains,Harjot Bains,ORG,0.0,0.0,de,1
+Amerikanische Rote Kreuz,Amerikanische Rote Kreuz,ORG,0.0,0.0,de,1
+NDA-Abgeordnete,NDA-Abgeordnete,ORG,0.0,0.0,de,1
+JP Nadda,JP Nadda,ORG,0.0,0.0,de,1
 tatsächli…,tatsächli…,ORG,0.0,0.0,de,1
 Deutschen Presse-Agentur,Deutschen Presse-Agentur,ORG,0.0,0.0,de,1
 nac…,nac…,ORG,0.0,0.0,de,1
@@ -733,11 +929,10 @@ Flat Fire,Flat Fire,ORG,0.0,0.0,de,1
 Black Hawks,Black Hawks,ORG,0.0,0.0,de,1
 Lufttanker,Lufttanker,ORG,0.0,0.0,de,1
 Buschfeuersaison,Buschfeuersaison,ORG,0.0,0.0,de,1
+PUNJAB,PUNJAB,ORG,0.0,0.0,de,1
 Little,Little,ORG,0.0,0.0,de,1
-Justizministerium,Justizministerium,ORG,0.0,0.0,de,1
 K-12-Schule,K-12-Schule,ORG,-0.2333333333333333,0.0,de,1
 W…,W…,ORG,-1.0,0.0,de,1
-CNN,CNN,ORG,0.7,0.0,de,1
 Goldrausch-Siedlung,Goldrausch-Siedlung,ORG,0.0,0.0,de,1
 Los Angeles Times TCU,Los Angeles Times TCU,ORG,0.0,0.0,de,1
 Lightning Complex,Lightning Complex,ORG,0.0,0.0,de,1
@@ -745,10 +940,59 @@ GESCHICHTE,GESCHICHTE,ORG,0.0,0.0,de,1
 Klimawandels für iberische Waldbrände,Klimawandels für iberische Waldbrände,ORG,0.0,0.0,de,1
 Afghanistan Erdbeben,Afghanistan Erdbeben,ORG,0.0,0.0,de,1
 V3cam,V3cam,ORG,0.0,0.0,de,1
-ABC,ABC,ORG,0.0,0.0,de,1
-PPK,PPK,ORG,0.0,0.0,de,1
+Justizministerium,Justizministerium,ORG,0.0,0.0,de,1
+UN-Bericht,UN-Bericht,ORG,0.0,0.0,de,1
+UN-Wetterbehörde,UN-Wetterbehörde,ORG,0.0,0.0,de,1
+Vibrant Planet,Vibrant Planet,ORG,0.0,0.0,de,1
+Northern Arizona University,Northern Arizona University,ORG,0.0,0.0,de,1
+TW Architects,TW Architects,ORG,0.0,0.0,de,1
+BBMB,BBMB,ORG,-1.0,0.0,de,1
+Toronto Film,Toronto Film,ORG,1.0,0.0,de,1
+KI-Drohnenschwärme,KI-Drohnenschwärme,ORG,0.0,0.0,de,1
+BHAIRAHAWA,BHAIRAHAWA,ORG,0.0,0.0,de,1
+OHS Canada Magazine,OHS Canada Magazine,ORG,-1.0,0.0,de,1
+NASA-Daten,NASA-Daten,ORG,0.7,0.0,de,1
+Waldbrandes,Waldbrandes,ORG,0.7,0.0,de,1
+US-Beamte,US-Beamte,ORG,-0.675,0.0,de,1
+Schottische Minister,Schottische Minister,ORG,0.0,0.0,de,1
+nan,nan,ORG,0.0,0.0,de,1
+Hi…,Hi…,ORG,0.0,0.0,de,1
+Grand Final-Wochenende,Grand Final-Wochenende,ORG,0.7,0.0,de,1
+Conservation Regulator Victoria,Conservation Regulator Victoria,ORG,0.0,0.0,de,1
+MFD,MFD,ORG,0.0,0.0,de,1
+M…,M…,ORG,0.0,0.0,de,1
+mercurynews.com,mercurynews.com,ORG,0.0,0.0,de,1
+Watch Duty,Watch Duty,ORG,-1.0,0.0,de,1
+KTVK/KPHO,KTVK/KPHO,ORG,-1.0,0.0,de,1
+ClimateWatch,ClimateWatch,ORG,0.0,0.0,de,1
+Schocktober!,Schocktober!,ORG,0.0,0.0,de,1
+Ab Mittwoch,Ab Mittwoch,ORG,0.0,0.0,de,1
+PARAFITA,PARAFITA,ORG,-0.15000000000000002,0.0,de,1
+Team Europa,Team Europa,ORG,0.0,0.0,de,1
+USA,USA,ORG,0.0,0.0,de,1
+Biodiversitä…,Biodiversitä…,ORG,0.7,0.0,de,1
+Todesop…,Todesop…,ORG,0.0,0.0,de,1
+Namibias Flaggschiff-Nationalpark Yahoo Namibia,Namibias Flaggschiff-Nationalpark Yahoo Namibia,ORG,0.0,0.0,de,1
+Afrikas…,Afrikas…,ORG,0.0,0.0,de,1
+Herbst!,Herbst!,ORG,0.0,0.0,de,1
+After-Action…,After-Action…,ORG,0.0,0.0,de,1
+Fluchtwegen für Waldbrände,Fluchtwegen für Waldbrände,ORG,-0.7,0.0,de,1
+Todesopfern,Todesopfern,ORG,0.0,0.0,de,1
+Be…,Be…,ORG,0.0,0.0,de,1
+T…,T…,ORG,0.0,0.0,de,1
+Geosphere Austria,Geosphere Austria,ORG,0.0,0.0,de,1
+Trinamool,Trinamool,ORG,0.0,0.0,de,1
 Supertaifuns Ragasa,Supertaifuns Ragasa,ORG,1.0,0.0,de,1
-Yahoo News,Yahoo News,ORG,-1.0,0.0,de,1
+Bundes für sechs Staaten,Bundes für sechs Staaten,ORG,0.0,0.0,de,1
+Cholera-Fällen,Cholera-Fällen,ORG,-0.7,0.0,de,1
+AX,AX,ORG,0.0,0.0,de,1
+indische Armee,indische Armee,ORG,0.0,0.0,de,1
+The Weather Network,The Weather Network,ORG,0.0,0.0,de,1
+Hoover Institution,Hoover Institution,ORG,0.0,0.0,de,1
+Stanford University,Stanford University,ORG,0.0,0.0,de,1
+Meteorologische Zentrum,Meteorologische Zentrum,ORG,0.0,0.0,de,1
+Brandon School Division,Brandon School Division,ORG,0.0,0.0,de,1
+Familie …,Familie …,ORG,1.0,0.0,de,1
 NBCs Ry…,NBCs Ry…,ORG,0.0,0.0,de,1
 Rajya Sabha-Abgeordneten,Rajya Sabha-Abgeordneten,ORG,0.0,0.0,de,1
 Initiative Regierung und …,Initiative Regierung und …,ORG,0.0,0.0,de,1
@@ -759,8 +1003,8 @@ VT,VT,ORG,0.0,0.0,de,1
 VT-Erdbeben,VT-Erdbeben,ORG,0.0,0.0,de,1
 Intensität 1,Intensität 1,ORG,0.0,0.0,de,1
 Realtor.com,Realtor.com,ORG,-1.0,0.0,de,1
+Yahoo News,Yahoo News,ORG,-1.0,0.0,de,1
 San Diego,San Diego,ORG,-1.0,0.0,de,1
-Brandon School Division,Brandon School Division,ORG,0.0,0.0,de,1
 California Flood Watch,California Flood Watch,ORG,-1.0,0.0,de,1
 Bauingenieurwesen …,Bauingenieurwesen …,ORG,0.0,0.0,de,1
 PENAMPANG,PENAMPANG,ORG,0.0,0.0,de,1
@@ -772,102 +1016,17 @@ Jasper Tourism,Jasper Tourism,ORG,1.0,0.0,de,1
 THERMAL,THERMAL,ORG,0.7,0.0,de,1
 Not Burn Out,Not Burn Out,ORG,0.0,0.0,de,1
 Wildfires and the…,Wildfires and the…,ORG,0.0,0.0,de,1
-Cholera-Fällen,Cholera-Fällen,ORG,-0.7,0.0,de,1
-Familie …,Familie …,ORG,1.0,0.0,de,1
-Meteorologische Zentrum,Meteorologische Zentrum,ORG,0.0,0.0,de,1
-Ministerium für Feuerwehr und Rettungsdienste,Ministerium für Feuerwehr und Rettungsdienste,ORG,0.7,0.0,de,1
-Bundes für Stürme und Überschwemmungen,Bundes für Stürme und Überschwemmungen,ORG,0.0,0.0,de,1
-Wi…,Wi…,ORG,0.0,0.0,de,1
-Municipalities N.L.,Municipalities N.L.,ORG,0.0,0.0,de,1
-USA…,USA…,ORG,0.0,0.0,de,1
-Creek Watershed,Creek Watershed,ORG,0.7,0.0,de,1
-Utility Wildfire Fund,Utility Wildfire Fund,ORG,0.0,0.0,de,1
-LA-Forscher,LA-Forscher,ORG,0.0,0.0,de,1
-Lamela,Lamela,ORG,0.0,0.0,de,1
-DENPASAR/JAKARTA,DENPASAR/JAKARTA,ORG,-0.7,0.0,de,1
-Bali Regional Disaster Management Agency,Bali Regional Disaster Management Agency,ORG,-1.0,0.0,de,1
-Nature Communications,Nature Communications,ORG,0.0,0.0,de,1
-NC State-Wake Forest Game Feuer,NC State-Wake Forest Game Feuer,ORG,0.0,0.0,de,1
-Stanford University,Stanford University,ORG,0.0,0.0,de,1
-Wake Forest,Wake Forest,ORG,0.0,0.0,de,1
-Allegacy Federal Credit Union Stadium,Allegacy Federal Credit Union Stadium,ORG,0.0,0.0,de,1
-KI-Drohnenschwärme,KI-Drohnenschwärme,ORG,0.0,0.0,de,1
-BHAIRAHAWA,BHAIRAHAWA,ORG,0.0,0.0,de,1
-OHS Canada Magazine,OHS Canada Magazine,ORG,-1.0,0.0,de,1
-Bundes für sechs Staaten,Bundes für sechs Staaten,ORG,0.0,0.0,de,1
-AX,AX,ORG,0.0,0.0,de,1
-indische Armee,indische Armee,ORG,0.0,0.0,de,1
-The Weather Network,The Weather Network,ORG,0.0,0.0,de,1
-Hoover Institution,Hoover Institution,ORG,0.0,0.0,de,1
-Waldbrandabwehr,Waldbrandabwehr,ORG,0.0,0.0,de,1
-Sonic Fire Tech,Sonic Fire Tech,ORG,1.0,0.0,de,1
-NACHRICHTEN,NACHRICHTEN,ORG,0.7,0.0,de,1
-Die Waldbrandsaison,Die Waldbrandsaison,ORG,0.0,0.0,de,1
-Tsunami Lissabon,Tsunami Lissabon,ORG,0.0,0.0,de,1
-NBC,NBC,ORG,0.0,0.0,de,1
-Al…,Al…,ORG,0.0,0.0,de,1
-S-70i Firehawks,S-70i Firehawks,ORG,0.0,0.0,de,1
-S-70i Firehawk-Feuerlöschhubschrauber,S-70i Firehawk-Feuerlöschhubschrauber,ORG,0.0,0.0,de,1
-Co…,Co…,ORG,1.0,0.0,de,1
-San-Andreas-Verwerfung,San-Andreas-Verwerfung,ORG,0.0,0.0,de,1
-SHI,SHI,ORG,1.0,0.0,de,1
-Pacific Palisades,Pacific Palisades,ORG,1.0,0.0,de,1
-Wählern,Wählern,ORG,0.0,0.0,de,1
-DEBATTENRUNDSCHAU,DEBATTENRUNDSCHAU,ORG,0.0,0.0,de,1
-FDNY-,FDNY-,ORG,0.7,0.0,de,1
-Zeit-Online-Interview,Zeit-Online-Interview,ORG,0.7,0.0,de,1
-RSF,RSF,ORG,0.0,0.0,de,1
-Sudan …,Sudan …,ORG,0.0,0.0,de,1
-Irish Times,Irish Times,ORG,0.0,0.0,de,1
-Dublin,Dublin,ORG,0.0,0.0,de,1
-Typhoon,Typhoon,ORG,0.0,0.0,de,1
-hi…,hi…,ORG,-0.7,0.0,de,1
-deutschen Bergsteigern,deutschen Bergsteigern,ORG,0.0,0.0,de,1
-Silberjod,Silberjod,ORG,0.0,0.0,de,1
-IIT,IIT,ORG,0.0,0.0,de,1
-NYPD-Einsatzkräfte,NYPD-Einsatzkräfte,ORG,0.7,0.0,de,1
-Australian Workers' Union,Australian Workers' Union,ORG,0.0,0.0,de,1
-Samstagnachmi…,Samstagnachmi…,ORG,0.0,0.0,de,1
-Bundesgartenschau,Bundesgartenschau,ORG,0.0,0.0,de,1
-Architektur & Design…,Architektur & Design…,ORG,-0.7,0.0,de,1
-Jamaika-Hurrikan,Jamaika-Hurrikan,ORG,0.0,0.0,de,1
-Anti-Frost-Mittel,Anti-Frost-Mittel,ORG,0.0,0.0,de,1
-Tipps & Tools,Tipps & Tools,ORG,0.7,0.0,de,1
-US-Hurrikanzentrums NHC,US-Hurrikanzentrums NHC,ORG,0.0,0.0,de,1
-Wind…,Wind…,ORG,0.0,0.0,de,1
-Jamaikas Regierung,Jamaikas Regierung,ORG,-0.7,0.0,de,1
-ICH…,ICH…,ORG,0.0,0.0,de,1
-AEMET!,AEMET!,ORG,0.0,0.0,de,1
-Wasserabf…,Wasserabf…,ORG,0.0,0.0,de,1
-CDU,CDU,ORG,0.0,0.0,de,1
-UT-Team,UT-Team,ORG,0.0,0.0,de,1
-HPE,HPE,ORG,0.7,0.0,de,1
-zw…,zw…,ORG,0.0,0.0,de,1
-Bharatiya Janata Party,Bharatiya Janata Party,ORG,-0.85,0.0,de,1
-Atomtest-Moratorium,Atomtest-Moratorium,ORG,0.0,0.0,de,1
-Baarish Dilli se chori hui hai“,Baarish Dilli se chori hui hai“,ORG,0.0,0.0,de,1
-Liste …,Liste …,ORG,0.0,0.0,de,1
-UNOCHA,UNOCHA,ORG,0.0,0.0,de,1
-Fu…,Fu…,ORG,0.0,0.0,de,1
-Chemie- und Stahlmanager,Chemie- und Stahlmanager,ORG,-1.0,0.0,de,1
-Donnerstag…,Donnerstag…,ORG,0.0,0.0,de,1
-Zu…,Zu…,ORG,0.0,0.0,de,1
-Die Lawine,Die Lawine,ORG,-1.0,0.0,de,1
-Rote Kreuz,Rote Kreuz,ORG,-0.7,0.0,de,1
-Consumer Reports,Consumer Reports,ORG,0.0,0.0,de,1
-Dreamers…,Dreamers…,ORG,0.0,0.0,de,1
-UN-Teams,UN-Teams,ORG,0.0,0.0,de,1
-TANGI,TANGI,ORG,-1.0,0.0,de,1
-Bewohner Nordafghanistans,Bewohner Nordafghanistans,ORG,-1.0,0.0,de,1
-Königsberg-Hollenstein Skilifte GmbH,Königsberg-Hollenstein Skilifte GmbH,ORG,0.0,0.0,de,1
-Jammu & Kashmir,Jammu & Kashmir,ORG,0.0,0.0,de,1
+EU-Klimaschutzplan,EU-Klimaschutzplan,ORG,0.7,0.0,de,1
+Europaparlament,Europaparlament,ORG,1.0,0.0,de,1
+PHIVOLCS Project Technical VI Stationärin…,PHIVOLCS Project Technical VI Stationärin…,ORG,0.0,0.0,de,1
+CNN-Gremium,CNN-Gremium,ORG,-1.0,0.0,de,1
 Florida,Florida,ORG,-1.0,0.0,de,1
 Federal Emergency Management Assistance,Federal Emergency Management Assistance,ORG,-0.7,0.0,de,1
 Fed-Vorsitzenden…,Fed-Vorsitzenden…,ORG,0.0,0.0,de,1
 The Gathering,The Gathering,ORG,0.0,0.0,de,1
+Consumer Reports,Consumer Reports,ORG,0.0,0.0,de,1
 EU-Klimaziel,EU-Klimaziel,ORG,0.0,0.0,de,1
-NOAA/CIRA,NOAA/CIRA,ORG,0.0,0.0,de,1
-BBC Fa,BBC Fa,ORG,0.0,0.0,de,1
+Fischfabrik der Stadt,Fischfabrik der Stadt,ORG,0.0,0.0,de,1
 Afghanistans,Afghanistans,ORG,0.7,0.0,de,1
 AfghanistanThe New York Times,AfghanistanThe New York Times,ORG,0.7,0.0,de,1
 NordafghanistanVatican News,NordafghanistanVatican News,ORG,0.7,0.0,de,1
@@ -875,24 +1034,35 @@ WEB-DL,WEB-DL,ORG,0.0,0.0,de,1
 H264-NSBC,H264-NSBC,ORG,0.0,0.0,de,1
 Vrije Universiteit Brussel,Vrije Universiteit Brussel,ORG,1.0,0.0,de,1
 ETH Zürich,ETH Zürich,ORG,1.0,0.0,de,1
+Newsmax,Newsmax,ORG,0.0,0.0,de,1
+Havering Council,Havering Council,ORG,0.0,0.0,de,1
+MS …,MS …,ORG,0.0,0.0,de,1
+del…,del…,ORG,0.0,0.0,de,1
 Büros …,Büros …,ORG,0.0,0.0,de,1
 Symposium,Symposium,ORG,0.0,0.0,de,1
-UNWIEDERERKENNBAR,UNWIEDERERKENNBAR,ORG,0.0,0.0,de,1
-Valencia,Valencia,ORG,0.0,0.0,de,1
-Col CK Nayudu Trophy …,Col CK Nayudu Trophy …,ORG,0.0,0.0,de,1
-Afghanistans Blaue Moschee,Afghanistans Blaue Moschee,ORG,-0.7,0.0,de,1
-erreichenBBC-Gemeinschaften,erreichenBBC-Gemeinschaften,ORG,-1.0,0.0,de,1
-steigtThe New York Times,steigtThe New York Times,ORG,-1.0,0.0,de,1
-AUKH,AUKH,ORG,0.0,0.0,de,1
-GMDA,GMDA,ORG,0.0,0.0,de,1
-GFZ,GFZ,ORG,0.0,0.0,de,1
-d…,d…,ORG,0.0,0.0,de,1
+KI-System,KI-System,ORG,0.0,0.0,de,1
+Tech-Universität,Tech-Universität,ORG,0.0,0.0,de,1
+Nebelmaschine,Nebelmaschine,ORG,-0.85,0.0,de,1
+Worcester Polytechnic Institute,Worcester Polytechnic Institute,ORG,-0.85,0.0,de,1
+Skeptical Science für Woche Nr.,Skeptical Science für Woche Nr.,ORG,0.0,0.0,de,1
+FTSE,FTSE,ORG,0.0,0.0,de,1
+Flugha…,Flugha…,ORG,0.0,0.0,de,1
+Jakarta Regional Disaster Mitigation Agency,Jakarta Regional Disaster Mitigation Agency,ORG,0.0,0.0,de,1
+Miami Hurricanes,Miami Hurricanes,ORG,0.0,0.0,de,1
+Syracuse Orange,Syracuse Orange,ORG,-0.7,0.0,de,1
+Jammu & Kashmir,Jammu & Kashmir,ORG,0.0,0.0,de,1
+Königsberg-Hollenstein Skilifte GmbH,Königsberg-Hollenstein Skilifte GmbH,ORG,0.0,0.0,de,1
+Bewohner Nordafghanistans,Bewohner Nordafghanistans,ORG,-1.0,0.0,de,1
+TANGI,TANGI,ORG,-1.0,0.0,de,1
 KABUL,KABUL,ORG,-1.0,0.0,de,1
+RegenfällenBBC,RegenfällenBBC,ORG,-0.7,0.0,de,1
+CHITWAN,CHITWAN,ORG,-0.7,0.0,de,1
 IIT Kanpur,IIT Kanpur,ORG,0.0,0.0,de,1
 Taliban-Regime,Taliban-Regime,ORG,0.0,0.0,de,1
 Haitis Regierung,Haitis Regierung,ORG,0.0,0.0,de,1
+Afghanistans Blaue Moschee,Afghanistans Blaue Moschee,ORG,-0.7,0.0,de,1
 r…,r…,ORG,0.0,0.0,de,1
-November …,November …,ORG,0.0,0.0,de,1
+nepalesischen Polizei,nepalesischen Polizei,ORG,0.7,0.0,de,1
 Volcano Post,Volcano Post,ORG,0.0,0.0,de,1
 DODOMA,DODOMA,ORG,0.0,0.0,de,1
 Windschutzscheibe,Windschutzscheibe,ORG,0.0,0.0,de,1
@@ -903,62 +1073,98 @@ ANSA,ANSA,ORG,0.0,0.0,de,1
 AfghanistanBBC,AfghanistanBBC,ORG,-0.15000000000000002,0.0,de,1
 PowerWood Canada Corp,PowerWood Canada Corp,ORG,0.0,0.0,de,1
 Alberta,Alberta,ORG,0.0,0.0,de,1
-Top End,Top End,ORG,1.0,0.0,de,1
-"target=""_blank","target=""_blank",ORG,0.0,0.0,de,1
-Philippine Institute of …,Philippine Institute of …,ORG,0.0,0.0,de,1
-Welt,Welt,ORG,0.0,0.0,de,1
-tech…,tech…,ORG,0.7,0.0,de,1
-KI-Kooperationsvereinbarung,KI-Kooperationsvereinbarung,ORG,0.0,0.0,de,1
-SunCar,SunCar,ORG,1.0,0.0,de,1
-LLM,LLM,ORG,1.0,0.0,de,1
-Doubao,Doubao,ORG,1.0,0.0,de,1
-Salt Typhoon,Salt Typhoon,ORG,0.0,0.0,de,1
-EU-Klimaschutzplan,EU-Klimaschutzplan,ORG,0.7,0.0,de,1
-Europaparlament,Europaparlament,ORG,1.0,0.0,de,1
-PHIVOLCS Project Technical VI Stationärin…,PHIVOLCS Project Technical VI Stationärin…,ORG,0.0,0.0,de,1
-Havering Council,Havering Council,ORG,0.0,0.0,de,1
-WELLINGTON/SYDNEY,WELLINGTON/SYDNEY,ORG,0.0,0.0,de,1
-Tobias,Tobias,ORG,0.0,0.0,de,1
-Berlins Jugend,Berlins Jugend,ORG,0.0,0.0,de,1
-Geophysical Research Letters,Geophysical Research Letters,ORG,0.0,0.0,de,1
-Sonne…,Sonne…,ORG,0.0,0.0,de,1
-Paxos,Paxos,ORG,1.0,0.0,de,1
-PayPal Holdings Inc,PayPal Holdings Inc,ORG,0.0,0.0,de,1
-SAATNM,SAATNM,ORG,0.0,0.0,de,1
-Penang Public Works Department,Penang Public Works Department,ORG,0.7,0.0,de,1
-JKR,JKR,ORG,0.7,0.0,de,1
-Sparkassen-Eisdom,Sparkassen-Eisdom,ORG,0.7,0.0,de,1
-Yahoo,Yahoo,ORG,-0.85,0.0,de,1
-A B.C.,A B.C.,ORG,0.0,0.0,de,1
-Wass…,Wass…,ORG,0.0,0.0,de,1
-KI-Modellen,KI-Modellen,ORG,-0.7,0.0,de,1
-Europäischen Kommission einberufenes Expertengremium,Europäischen Kommission einberufenes Expertengremium,ORG,0.0,0.0,de,1
-Castro,Castro,ORG,0.0,0.0,de,1
-München,München,ORG,0.7,0.0,de,1
-BILDSTRECKE,BILDSTRECKE,ORG,0.0,0.0,de,1
-Indonesischer Vulkan,Indonesischer Vulkan,ORG,0.7,0.0,de,1
-Indonesien Vulkan…,Indonesien Vulkan…,ORG,0.0,0.0,de,1
-NRW-Wetter,NRW-Wetter,ORG,0.0,0.0,de,1
-Oberste Gerichtshof der,Oberste Gerichtshof der,ORG,0.0,0.0,de,1
-untersch…,untersch…,ORG,0.0,0.0,de,1
-Hausbauboom,Hausbauboom,ORG,0.0,0.0,de,1
-National Observer,National Observer,ORG,0.0,0.0,de,1
-APS,APS,ORG,-0.5666666666666667,0.0,de,1
-Demokraten …,Demokraten …,ORG,0.0,0.0,de,1
-Volcano Vista-Schüler,Volcano Vista-Schüler,ORG,-0.5666666666666667,0.0,de,1
-Albuquerque Public Schools,Albuquerque Public Schools,ORG,-0.5666666666666667,0.0,de,1
-Volcano Vista High School,Volcano Vista High School,ORG,-0.5666666666666667,0.0,de,1
-Clean Air Fund,Clean Air Fund,ORG,0.7,0.0,de,1
-Wiener Philharmonikern,Wiener Philharmonikern,ORG,0.7,0.0,de,1
-Einrichtun…,Einrichtun…,ORG,0.0,0.0,de,1
-Hurrikan-Aussichten,Hurrikan-Aussichten,ORG,-0.7,0.0,de,1
-Nationale Zentrum für Seismologie,Nationale Zentrum für Seismologie,ORG,0.0,0.0,de,1
-Loop One Festival München,Loop One Festival München,ORG,0.0,0.0,de,1
-Sentinel-2,Sentinel-2,ORG,0.0,0.0,de,1
-Kalifornien…,Kalifornien…,ORG,0.0,0.0,de,1
-LIVE-KARTE,LIVE-KARTE,ORG,-1.0,0.0,de,1
-Sturm …,Sturm …,ORG,0.0,0.0,de,1
-bayerische Innenministerium,bayerische Innenministerium,ORG,0.0,0.0,de,1
+November …,November …,ORG,0.0,0.0,de,1
+HimalayaBBC Lawine,HimalayaBBC Lawine,ORG,0.0,0.0,de,1
+Valencia,Valencia,ORG,0.0,0.0,de,1
+European-Mediterranean Seismological Center,European-Mediterranean Seismological Center,ORG,0.0,0.0,de,1
+EMSC,EMSC,ORG,0.0,0.0,de,1
+NOAA/CIRA,NOAA/CIRA,ORG,0.0,0.0,de,1
+UNWIEDERERKENNBAR,UNWIEDERERKENNBAR,ORG,0.0,0.0,de,1
+ausAP,ausAP,ORG,-0.7,0.0,de,1
+Dreamers…,Dreamers…,ORG,0.0,0.0,de,1
+UN-Teams,UN-Teams,ORG,0.0,0.0,de,1
+Canes,Canes,ORG,0.0,0.0,de,1
+Mach…,Mach…,ORG,0.0,0.0,de,1
+Straße …,Straße …,ORG,0.0,0.0,de,1
+Verfolgungsfahrt +++ Liveblog,Verfolgungsfahrt +++ Liveblog,ORG,-1.0,0.0,de,1
+BRASILIA,BRASILIA,ORG,0.0,0.0,de,1
+TEHERAN,TEHERAN,ORG,0.0,0.0,de,1
+Autos…,Autos…,ORG,0.0,0.0,de,1
+Brandes,Brandes,ORG,0.7,0.0,de,1
+la…,la…,ORG,0.0,0.0,de,1
+Teheran,Teheran,ORG,0.0,0.0,de,1
+Gange …,Gange …,ORG,0.0,0.0,de,1
+Philippinen,Philippinen,ORG,0.0,0.0,de,1
+NHK,NHK,ORG,0.0,0.0,de,1
+di…,di…,ORG,0.0,0.0,de,1
+Was…,Was…,ORG,0.0,0.0,de,1
+aufgehobenCBS News Japans Nordostküste,aufgehobenCBS News Japans Nordostküste,ORG,0.7,0.0,de,1
+AusfallBloomberg.co,AusfallBloomberg.co,ORG,0.7,0.0,de,1
+Zentrum des Wirbelsturms,Zentrum des Wirbelsturms,ORG,0.0,0.0,de,1
+Kommende Woche,Kommende Woche,ORG,0.0,0.0,de,1
+FUNG-WONG,FUNG-WONG,ORG,0.0,0.0,de,1
+TCWS,TCWS,ORG,0.0,0.0,de,1
+aufgehobenCBS News Japan,aufgehobenCBS News Japan,ORG,0.7,0.0,de,1
+staatli…,staatli…,ORG,0.0,0.0,de,1
+herausgegebenAP News Japan,herausgegebenAP News Japan,ORG,0.7,0.0,de,1
+aufDie New York Times,aufDie New York Times,ORG,0.7,0.0,de,1
+New York Times Iran,New York Times Iran,ORG,0.0,0.0,de,1
+UN-Flüchtlingshilfswerk,UN-Flüchtlingshilfswerk,ORG,-1.0,0.0,de,1
+ISABELA,ISABELA,ORG,-1.0,0.0,de,1
+SA Power Networks,SA Power Networks,ORG,-0.6666666666666666,0.0,de,1
+DGP der UP,DGP der UP,ORG,1.0,0.0,de,1
+RNK,RNK,ORG,1.0,0.0,de,1
+Feuerwehrleute…,Feuerwehrleute…,ORG,0.0,0.0,de,1
+Wasser…,Wasser…,ORG,0.0,0.0,de,1
+indischen Regierung,indischen Regierung,ORG,0.7,0.0,de,1
+Garagenbrand +++ Frankfurt,Garagenbrand +++ Frankfurt,ORG,-1.0,0.0,de,1
+UN-Chef,UN-Chef,ORG,-0.7,0.0,de,1
+Unwetter-Warnung!,Unwetter-Warnung!,ORG,0.0,0.0,de,1
+WHO,WHO,ORG,0.0,0.0,de,1
+Lara,Lara,ORG,0.0,0.0,de,1
+Sturm!,Sturm!,ORG,1.0,0.0,de,1
+Los Angeles,Los Angeles,ORG,0.0,0.0,de,1
+JD Vance,JD Vance,ORG,0.0,0.0,de,1
+Aftab Pureval,Aftab Pureval,ORG,0.0,0.0,de,1
+Großraum L.A.,Großraum L.A.,ORG,0.0,0.0,de,1
+Todesfall,Todesfall,ORG,0.0,0.0,de,1
+BOM,BOM,ORG,0.7,0.0,de,1
+Institut für Ökologie der Uni Innsbruck,Institut für Ökologie der Uni Innsbruck,ORG,1.0,0.0,de,1
+Synergy Grant,Synergy Grant,ORG,1.0,0.0,de,1
+Europäischen Forschungsrats  ,Europäischen Forschungsrats  ,ORG,1.0,0.0,de,1
+Survival-Spiel Permafrost,Survival-Spiel Permafrost,ORG,1.0,0.0,de,1
+Pot…,Pot…,ORG,0.7,0.0,de,1
+CPU-Bundle,CPU-Bundle,ORG,0.0,0.0,de,1
+Zeit für ein CPU Upgrade,Zeit für ein CPU Upgrade,ORG,0.7,0.0,de,1
+RNN-basierten,RNN-basierten,ORG,-1.0,0.0,de,1
+University of Melbourne,University of Melbourne,ORG,1.0,0.0,de,1
+Daily Caller News Foundation,Daily Caller News Foundation,ORG,0.0,0.0,de,1
+US-Sanktionen,US-Sanktionen,ORG,0.0,0.0,de,1
+Flugeinsatzteams,Flugeinsatzteams,ORG,-0.7,0.0,de,1
+SA Country Fire Service,SA Country Fire Service,ORG,-0.7,0.0,de,1
+AVAVAV,AVAVAV,ORG,0.0,0.0,de,1
+Sneaker News,Sneaker News,ORG,0.0,0.0,de,1
+EDF,EDF,ORG,0.7,0.0,de,1
+India Business News,India Business News,ORG,0.0,0.0,de,1
+BENGALURU,BENGALURU,ORG,0.0,0.0,de,1
+Britannia Industries,Britannia Industries,ORG,0.0,0.0,de,1
+reidenshi,reidenshi,ORG,0.0,0.0,de,1
+d…,d…,ORG,0.0,0.0,de,1
+GMDA,GMDA,ORG,0.0,0.0,de,1
+AUKH,AUKH,ORG,0.0,0.0,de,1
+Stromausfälle,Stromausfälle,ORG,0.0,0.0,de,1
+Kommunistische Partei,Kommunistische Partei,ORG,0.0,0.0,de,1
+US-Märkten,US-Märkten,ORG,0.7,0.0,de,1
+NS-Staaten,NS-Staaten,ORG,0.0,0.0,de,1
+Western Woodlot Services Cooperative,Western Woodlot Services Cooperative,ORG,0.0,0.0,de,1
+Gas,Gas,ORG,-1.0,0.0,de,1
+Gewerbepark-Wildwuchs,Gewerbepark-Wildwuchs,ORG,0.0,0.0,de,1
+Kalt & kuschlig,Kalt & kuschlig,ORG,-0.7,0.0,de,1
+Malaria,Malaria,ORG,0.7,0.0,de,1
+Unternehmens,Unternehmens,ORG,0.0,0.0,de,1
+KI-Revolution,KI-Revolution,ORG,0.0,0.0,de,1
+OCF,OCF,ORG,0.0,0.0,de,1
+Fiat,Fiat,ORG,0.0,0.0,de,1
 National Hurricane Center,National Hurricane Center,ORG,0.0,0.0,de,1
 The Guardian Film- und Modestars,The Guardian Film- und Modestars,ORG,0.7,0.0,de,1
 Minister Sirsa,Minister Sirsa,ORG,0.0,0.0,de,1
@@ -969,22 +1175,33 @@ Rote Kreuz rech…,Rote Kreuz rech…,ORG,0.0,0.0,de,1
 SNAP-Vorteile,SNAP-Vorteile,ORG,0.0,0.0,de,1
 NEW ORLEANS,NEW ORLEANS,ORG,0.7,0.0,de,1
 WGNO,WGNO,ORG,0.7,0.0,de,1
+bayerische Innenministerium,bayerische Innenministerium,ORG,0.0,0.0,de,1
 Grünen,Grünen,ORG,0.0,0.0,de,1
-OCF,OCF,ORG,0.0,0.0,de,1
 NSF,NSF,ORG,0.0,0.0,de,1
 NSF ASCEND Engine,NSF ASCEND Engine,ORG,0.7,0.0,de,1
 Innosphere,Innosphere,ORG,0.7,0.0,de,1
 Regional Disaster Management Agency,Regional Disaster Management Agency,ORG,0.0,0.0,de,1
 IDF,IDF,ORG,0.0,0.0,de,1
-Hamas,Hamas,ORG,0.0,0.0,de,1
+The Conversation,The Conversation,ORG,0.0,0.0,de,1
+BC Hydro,BC Hydro,ORG,0.0,0.0,de,1
 israelischen Armee,israelischen Armee,ORG,0.0,0.0,de,1
-WINNIPEG,WINNIPEG,ORG,0.7,0.0,de,1
-Wildfire Prevention Grants,Wildfire Prevention Grants,ORG,0.7,0.0,de,1
-DW,DW,ORG,0.0,0.0,de,1
-Fiat,Fiat,ORG,0.0,0.0,de,1
-KI-Revolution,KI-Revolution,ORG,0.0,0.0,de,1
+Karibikwpxi.com,Karibikwpxi.com,ORG,-1.0,0.0,de,1
+Welt,Welt,ORG,0.0,0.0,de,1
+WELLINGTON/SYDNEY,WELLINGTON/SYDNEY,ORG,0.0,0.0,de,1
+Berlins Jugend,Berlins Jugend,ORG,0.0,0.0,de,1
+US-Spiel,US-Spiel,ORG,-0.7,0.0,de,1
+Geophysical Research Letters,Geophysical Research Letters,ORG,0.0,0.0,de,1
+Sonne…,Sonne…,ORG,0.0,0.0,de,1
+Paxos,Paxos,ORG,1.0,0.0,de,1
+PayPal Holdings Inc,PayPal Holdings Inc,ORG,0.0,0.0,de,1
+SAATNM,SAATNM,ORG,0.0,0.0,de,1
+Penang Public Works Department,Penang Public Works Department,ORG,0.7,0.0,de,1
+JKR,JKR,ORG,0.7,0.0,de,1
+Sparkassen-Eisdom,Sparkassen-Eisdom,ORG,0.7,0.0,de,1
+Kalifornien…,Kalifornien…,ORG,0.0,0.0,de,1
+KI-Modellen,KI-Modellen,ORG,-0.7,0.0,de,1
+LIVE-KARTE,LIVE-KARTE,ORG,-1.0,0.0,de,1
 AMG-Sp…,AMG-Sp…,ORG,0.0,0.0,de,1
-Air Itam Dam,Air Itam Dam,ORG,0.0,0.0,de,1
 HNK Rijeka,HNK Rijeka,ORG,0.0,0.0,de,1
 Sparta Prag,Sparta Prag,ORG,0.0,0.0,de,1
 Conference League,Conference League,ORG,0.0,0.0,de,1
@@ -995,16 +1212,73 @@ KTAB/KRBC,KTAB/KRBC,ORG,0.0,0.0,de,1
 RCMP,RCMP,ORG,0.0,0.0,de,1
 Adelaides Harvest Rock-Musikveranstaltung,Adelaides Harvest Rock-Musikveranstaltung,ORG,0.0,0.0,de,1
 OzAsia Festival,OzAsia Festival,ORG,0.0,0.0,de,1
+Air Itam Dam,Air Itam Dam,ORG,0.0,0.0,de,1
 Houston Weather Radar,Houston Weather Radar,ORG,0.0,0.0,de,1
-Malaria,Malaria,ORG,0.7,0.0,de,1
 China,China,ORG,0.0,0.0,de,1
-Karibikwpxi.com,Karibikwpxi.com,ORG,-1.0,0.0,de,1
-The Conversation,The Conversation,ORG,0.0,0.0,de,1
-Kommunistische Partei,Kommunistische Partei,ORG,0.0,0.0,de,1
-US-Märkten,US-Märkten,ORG,0.7,0.0,de,1
-NS-Staaten,NS-Staaten,ORG,0.0,0.0,de,1
-Western Woodlot Services Cooperative,Western Woodlot Services Cooperative,ORG,0.0,0.0,de,1
-Gas,Gas,ORG,-1.0,0.0,de,1
-Gewerbepark-Wildwuchs,Gewerbepark-Wildwuchs,ORG,0.0,0.0,de,1
-Kalt & kuschlig,Kalt & kuschlig,ORG,-0.7,0.0,de,1
-US-Banken,US-Banken,ORG,0.0,0.0,de,1
+Hamas,Hamas,ORG,0.0,0.0,de,1
+WINNIPEG,WINNIPEG,ORG,0.7,0.0,de,1
+steigtThe New York Times,steigtThe New York Times,ORG,-1.0,0.0,de,1
+NYPD-Einsatzkräfte,NYPD-Einsatzkräfte,ORG,0.7,0.0,de,1
+Al…,Al…,ORG,0.0,0.0,de,1
+S-70i Firehawks,S-70i Firehawks,ORG,0.0,0.0,de,1
+S-70i Firehawk-Feuerlöschhubschrauber,S-70i Firehawk-Feuerlöschhubschrauber,ORG,0.0,0.0,de,1
+Co…,Co…,ORG,1.0,0.0,de,1
+San-Andreas-Verwerfung,San-Andreas-Verwerfung,ORG,0.0,0.0,de,1
+SHI,SHI,ORG,1.0,0.0,de,1
+Pacific Palisades,Pacific Palisades,ORG,1.0,0.0,de,1
+News Wrap,News Wrap,ORG,0.0,0.0,de,1
+Wählern,Wählern,ORG,0.0,0.0,de,1
+Die Waldbrandsaison,Die Waldbrandsaison,ORG,0.0,0.0,de,1
+DEBATTENRUNDSCHAU,DEBATTENRUNDSCHAU,ORG,0.0,0.0,de,1
+Zeit-Online-Interview,Zeit-Online-Interview,ORG,0.7,0.0,de,1
+RSF,RSF,ORG,0.0,0.0,de,1
+Sudan …,Sudan …,ORG,0.0,0.0,de,1
+Irish Times,Irish Times,ORG,0.0,0.0,de,1
+Dublin,Dublin,ORG,0.0,0.0,de,1
+Typhoon,Typhoon,ORG,0.0,0.0,de,1
+hi…,hi…,ORG,-0.7,0.0,de,1
+deutschen Bergsteigern,deutschen Bergsteigern,ORG,0.0,0.0,de,1
+Irland,Irland,ORG,0.0,0.0,de,1
+Silberjod,Silberjod,ORG,0.0,0.0,de,1
+IIT,IIT,ORG,0.0,0.0,de,1
+Polizeibehörde…,Polizeibehörde…,ORG,0.0,0.0,de,1
+MUSTANG,MUSTANG,ORG,-1.0,0.0,de,1
+Zu…,Zu…,ORG,0.0,0.0,de,1
+Samstagnachmi…,Samstagnachmi…,ORG,0.0,0.0,de,1
+Die Lawine,Die Lawine,ORG,-1.0,0.0,de,1
+Col CK Nayudu Trophy …,Col CK Nayudu Trophy …,ORG,0.0,0.0,de,1
+erreichenBBC-Gemeinschaften,erreichenBBC-Gemeinschaften,ORG,-1.0,0.0,de,1
+Tsunami Lissabon,Tsunami Lissabon,ORG,0.0,0.0,de,1
+FDNY-,FDNY-,ORG,0.7,0.0,de,1
+Wildfire Prevention Grants,Wildfire Prevention Grants,ORG,0.7,0.0,de,1
+Australian Workers' Union,Australian Workers' Union,ORG,0.0,0.0,de,1
+DW,DW,ORG,0.0,0.0,de,1
+Sturm …,Sturm …,ORG,0.0,0.0,de,1
+DPR,DPR,ORG,-1.0,0.0,de,1
+"target=""_blank","target=""_blank",ORG,0.0,0.0,de,1
+Rote Kreuz,Rote Kreuz,ORG,-0.7,0.0,de,1
+Top End,Top End,ORG,1.0,0.0,de,1
+Architektur & Design…,Architektur & Design…,ORG,-0.7,0.0,de,1
+Jamaika-Hurrikan,Jamaika-Hurrikan,ORG,0.0,0.0,de,1
+Anti-Frost-Mittel,Anti-Frost-Mittel,ORG,0.0,0.0,de,1
+Tipps & Tools,Tipps & Tools,ORG,0.7,0.0,de,1
+US-Hurrikanzentrums NHC,US-Hurrikanzentrums NHC,ORG,0.0,0.0,de,1
+Wind…,Wind…,ORG,0.0,0.0,de,1
+Jamaikas Regierung,Jamaikas Regierung,ORG,-0.7,0.0,de,1
+ICH…,ICH…,ORG,0.0,0.0,de,1
+AEMET!,AEMET!,ORG,0.0,0.0,de,1
+Wasserabf…,Wasserabf…,ORG,0.0,0.0,de,1
+Bundesgartenschau,Bundesgartenschau,ORG,0.0,0.0,de,1
+CDU,CDU,ORG,0.0,0.0,de,1
+HPE,HPE,ORG,0.7,0.0,de,1
+zw…,zw…,ORG,0.0,0.0,de,1
+Bharatiya Janata Party,Bharatiya Janata Party,ORG,-0.85,0.0,de,1
+Atomtest-Moratorium,Atomtest-Moratorium,ORG,0.0,0.0,de,1
+Baarish Dilli se chori hui hai“,Baarish Dilli se chori hui hai“,ORG,0.0,0.0,de,1
+Liste …,Liste …,ORG,0.0,0.0,de,1
+UNOCHA,UNOCHA,ORG,0.0,0.0,de,1
+Fu…,Fu…,ORG,0.0,0.0,de,1
+Chemie- und Stahlmanager,Chemie- und Stahlmanager,ORG,-1.0,0.0,de,1
+Donnerstag…,Donnerstag…,ORG,0.0,0.0,de,1
+UT-Team,UT-Team,ORG,0.0,0.0,de,1
+ICEPLATE,ICEPLATE,ORG,-0.7,0.0,de,1

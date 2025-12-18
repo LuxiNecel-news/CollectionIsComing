@@ -250,7 +250,7 @@ for repo in repos:
         newsDf['hash'] = newsDf.index 
         newsDf = pd.merge(newsDf, keysDf, how='left', left_on=['keyword'], right_on=['keyword'])
         newsDf = newsDf.dropna(subset=['topic'])
-        newsDf = newsDf.drop(newsDf[newsDf.valid < 0.5].index)      ## LATER ALLOW ALL, update current status!
+        newsDf = newsDf.drop(newsDf[newsDf.valid < 0.2].index)      ## LATER ALLOW ALL, update current status!
         if(existingDict and not newsDf.empty):
             ## later update valid flag for existing ones!
             newsDf.index = newsDf['hash']  #!!

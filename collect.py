@@ -77,7 +77,7 @@ def addNewsToCollection(data):
 def storeCollection():
     global collectedNews
     #cols = ['published','keyword','domain','language','valid','title','description','url','image','archive','content','quote']
-    cols = ['published','extreme','topic','domain','language','valid', 'title','description', 'url','image','archive', 'content','en','de','la']
+    cols = ['published','extreme','topic','domain','language','valid', 'title','description', 'url','image','archive', 'content','en','de','la', 'country','ipcc','continent']
     for dateFile in collectedNews:
         df = pd.DataFrame.from_dict(collectedNews[dateFile], orient='index', columns=cols)
         df.index = df['url'].apply( lambda x: hashlib.sha256(x.encode()).hexdigest()[:32])   

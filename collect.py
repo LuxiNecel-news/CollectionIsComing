@@ -31,41 +31,9 @@ extremeColors = {'invalid':'#ffff00', 'Thunderstorm':'#53785a', 'Flood':'#030ba1
 
 topicColors = {'Hazard':'#ff0000', 'Impacts':'#ffff00', 'Mitigation':'#00ff00', 'Adaptation':'#0000ff', 'Causes':'#00ffff', 'unknown':'#000000' }
 
-githubRepos = {'MarcoL95-news/earthquakeIsComing': {'Extreme':'Earthquake'}, 
-               'sonjanews/DroughtIsComing': {'Extreme':'Drought'},
-               'paulski99-news/volcanoIsComing': {'Extreme':'Volcano'},
-               'paularicarda-news/VolcanoIsComing': {'Extreme':'Volcano'},
-               'JoPhi24-news/floodIsComing': {'Extreme':'Flood'},
-               'Emma-news/FloodIsComing': {'Extreme':'Flood'},
-               'liese97-news/HurricaneIsComing': {'Extreme':'Tropical Cyclone'},
-               'jens-news/hurricaneIsComing': {'Extreme':'Tropical Cyclone'},
-               'MarcoL95-News25/StormIsComing': {'Extreme':'Storm'},
-               'TinoH91news/ThunderstormIsComing': {'Extreme':'Thunderstorm'},  
-               'magaliekathrin-news/wildFire': {'Extreme':'Wildfire'}, 
-               'MomoMusic/surgeIsComing': {'Extreme':'Storm Surge'}, 
-               'tlais147-physgeo01/snowIceIsComing': {'Extreme':'Snow&Ice'},
-               'tapio-22-Digitale-Methoden-News/MassIsComing': {'Extreme':'Landslide'},
-               'annajungfleischnews/coldIsComing': {'Extreme':'Cold Wave'},
-               'Leoniews/fogIsComing': {'Extreme':'Fog'},
-               'picawe-news/AvalancheIsComing': {'Extreme':'Snow Avalanche'},
-               'hannak555-news/heatIsComing': {'Extreme':'Heat Wave'},
-               'hb219-news/wetSpellIsComing': {'Extreme':'Wet Spell'},
-               'hb219-news/droughtIsComing': {'Extreme':'Drought'},         
-               'magaliekathrin-news/HeatIsComing': {'Extreme':'Heat Wave'},     
-               'jannikdo28-news/RainIsComing': {'Extreme':'Precipitation'},  
-               'mizilett-news/snowIsComing': {'Extreme':'Snow&Ice'},
-               'JW-news/ColdIsComing': {'Extreme':'Cold Wave'},
-               'tg-news/EarthquakeIsComing': {'Extreme':'Earthquake'}, 
-               'svpblank1/FogIsComing': {'Extreme':'Fog'},
-               'celiapi-news/landslideIsComing': {'Extreme':'Landslide'},
-               'MarcoL95-news/avalancheIsComing': {'Extreme':'Snow Avalanche'},
-               'friedhumb-news/thunderstormIsComing': {'Extreme':'Thunderstorm'},
-               'friedhumb-news/stormIsComing': {'Extreme':'Storm'},  
-               'MarcoL95-news/tsunamiIsComing': {'Extreme':'Tsunami'},  
-               'tg-news/TsunamiIsComing': {'Extreme':'Tsunami'}, 
+githubRepos = {'pg-ufr-news/germanExtremes': {'Language':'de'}, 
+               'newsWhisperer/greekExtremes': {'Language':'el'},
               }
-
-
            
 
 currentMonths = []
@@ -117,9 +85,9 @@ def storeCollection():
         df.index.name = 'index'
         df = df.sort_values(by=['published', 'index'], ascending=True)
         #df.to_csv(DATA_PATH / dateFile, index=True) 
-        if(not os.path.exists(DATA_PATH / 'csv')):
-            os.mkdir(DATA_PATH / 'csv')
-        df.to_csv(DATA_PATH / 'csv' / dateFile, index_label='index') 
+        if(not os.path.exists(DATA_PATH / 'cxsv')):
+            os.mkdir(DATA_PATH / 'cxsv')
+        df.to_csv(DATA_PATH / 'cxsv' / dateFile, index_label='index') 
     collectedNews = {}
 
 def similar(a, b):
@@ -221,35 +189,35 @@ repos =  list(githubRepos.keys())
 random.shuffle(repos)
 for repo in repos:
   #load sentiments_locations.csv
+  '''
   locationsFile = "https://github.com/"+repo+"/blob/main/csv/sentiments_locations.csv?raw=true"
   locationsRequest = requests.get(locationsFile, headers={'Accept': 'text/plain'})
   if(locationsRequest.status_code == 200):
     locationsDf=pd.read_csv(io.StringIO(locationsRequest.content.decode('utf-8')), delimiter=',')
-    locationsDf['extreme'] = githubRepos[repo]['Extreme']
+    locationsDf['language'] = githubRepos[repo]['Language']
+
     if(allLocationsDF.empty):
       allLocationsDF = locationsDf
     else:
       allLocationsDF = pd.concat([allLocationsDF,locationsDf])
-  #load keywords...
-  keysFile = "https://github.com/"+repo+"/blob/main/keywords.csv?raw=true"
-  keyRequest = requests.get(keysFile, headers={'Accept': 'text/plain'})
-  if(keyRequest.status_code == 200):
-    keysDf=pd.read_csv(io.StringIO(keyRequest.content.decode('utf-8')), delimiter=',')
-    keysDf = keysDf.drop(columns = ['language', 'limitPages', 'ratioNew', 'keywordColor'])
+  '''
+  if(200 == 200):
     for currMonth in currentMonths:
     #load existing ones
       existingName = "news_"+currMonth+".csv" 
       existingDict = loadExistingNews(currMonth)
-      newsFile = "https://github.com/"+repo+"/blob/main/csv/news_"+currMonth+".csv?raw=true"
+      newsFile = "https://github.com/"+repo+"/blob/main/cxsv/news_"+currMonth+".csv?raw=true"
       print(newsFile)
       newsRequest = requests.get(newsFile, headers={'Accept': 'text/plain'})
       if(newsRequest.status_code == 200):
         newsDf=pd.read_csv(io.StringIO(newsRequest.content.decode('utf-8')), delimiter=',', index_col='index')
-        newsDf['extreme'] = githubRepos[repo]['Extreme']
+        ## newsDf['extreme'] = githubRepos[repo]['Extreme']
         ## newsDf['extremeColor'] = githubRepos[repo]['extremeColor']
         newsDf['hash'] = newsDf.index 
-        newsDf = pd.merge(newsDf, keysDf, how='left', left_on=['keyword'], right_on=['keyword'])
-        newsDf = newsDf.dropna(subset=['topic'])
+        newsDf['extreme'] = newsDf['topic']
+        newsDf['topic'] = ''  # 'Hazard','Causes',...
+        ## newsDf = pd.merge(newsDf, keysDf, how='left', left_on=['keyword'], right_on=['keyword'])
+        ## newsDf = newsDf.dropna(subset=['topic'])
         ## newsDf = newsDf.drop(newsDf[newsDf.valid < 0.2].index)      ## LATER ALLOW ALL, update current status!
         if(existingDict and not newsDf.empty):
             ## later update valid flag for existing ones!
@@ -268,8 +236,10 @@ for repo in repos:
             data = translateData(data)
           addNewsToCollection(data)
 
+'''
 allLocationsDF = allLocationsDF.sort_values(by=['count'], ascending=False)
 allLocationsDF.to_csv(DATA_PATH / 'csv' / "sentiments_locations.csv", index=True)
+'''
 storeCollection()
 
 

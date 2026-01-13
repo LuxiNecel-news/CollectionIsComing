@@ -39,6 +39,8 @@ githubRepos = {'pg-ufr-news/germanExtremes': {'Language':'de'},
                ## 'Leoniews/czechExtremes': {'Language':'cs'},  ## no news!
                'picawe-news/englishExtremes': {'Language':'en'},
                'TinoH91news/frenchExtremes': {'Language':'fr'},
+               ## 'picawe-news/hebrewExtremes': {'Language':'he'},  ## little news!
+               'hannak555-news/HindiExtremes': {'Language':'hi'},
               }
            
 

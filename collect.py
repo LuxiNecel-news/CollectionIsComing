@@ -35,20 +35,23 @@ githubRepos = {'pg-ufr-news/germanExtremes': {'Language':'de'},
                'newsWhisperer/greekExtremes': {'Language':'el'},
                'MarcoL95-News25/ArabianExtremes': {'Language':'ar'},
                ## 'sonjanews/bengaliExtremes': {'Language':'bn'},  ## no news!
-               'tapio-22-Digitale-Methoden-News/chineseExtremes': {'Language':'zh'},
+               'tapio-22-Digitale-Methoden-News/chineseExtremes': {'Language':'zh'},  ## classification of valid!
                ## 'Leoniews/czechExtremes': {'Language':'cs'},  ## no news!
                'picawe-news/englishExtremes': {'Language':'en'},
                'TinoH91news/frenchExtremes': {'Language':'fr'},
                ## 'picawe-news/hebrewExtremes': {'Language':'he'},  ## little news!
                'hannak555-news/HindiExtremes': {'Language':'hi'},
                'annajungfleischnews/italianExtremes': {'Language':'it'},
-               ##'annajungfleischnews/japaneseExtremes': {'Language':'ja'},  ## classification valid!
+               ##'annajungfleischnews/japaneseExtremes': {'Language':'ja'},  ## classification of valid!
                'MarcoL95-News25/netherlandExtremes': {'Language':'nl'},
                ## 'sonjanews/norwegianExtreme': {'Language':'no'},  ## little news!
                ## 'hannak555-news/polishExtremes': {'Language':'pl'},  ## little news! 
                'jens-news/portoExtremes': {'Language':'pt'},
                ## 'TinoH91news/romanianExtremes': {'Language':'ro'},  ## little news! 
                'Leoniews/russianExtremes': {'Language':'ru'},
+               'jannikdo28-news/spanishExtremes': {'Language':'es'},
+               'jannikdo28-news/TurkishExtremes': {'Language':'tr'},
+               ## 'friedhumb-news/zuluExtremes': {'Language':'zu'},  ## no news! 
               }
            
 

@@ -41,8 +41,9 @@ githubRepos = {'pg-ufr-news/germanExtremes': {'Language':'de'},
                'TinoH91news/frenchExtremes': {'Language':'fr'},
                ## 'picawe-news/hebrewExtremes': {'Language':'he'},  ## little news!
                'hannak555-news/HindiExtremes': {'Language':'hi'},
+               ## 'jens-news/hungarianExtremes': {'Language':'hu'},  ## no news!
                'annajungfleischnews/italianExtremes': {'Language':'it'},
-               ##'annajungfleischnews/japaneseExtremes': {'Language':'ja'},  ## classification of valid!
+               'annajungfleischnews/japaneseExtremes': {'Language':'ja'},  ## classification of valid!
                'MarcoL95-News25/netherlandExtremes': {'Language':'nl'},
                ## 'sonjanews/norwegianExtreme': {'Language':'no'},  ## little news!
                ## 'hannak555-news/polishExtremes': {'Language':'pl'},  ## little news! 

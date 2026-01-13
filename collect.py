@@ -38,6 +38,7 @@ githubRepos = {'pg-ufr-news/germanExtremes': {'Language':'de'},
                'tapio-22-Digitale-Methoden-News/chineseExtremes': {'Language':'zh'},
                ## 'Leoniews/czechExtremes': {'Language':'cs'},  ## no news!
                'picawe-news/englishExtremes': {'Language':'en'},
+               'TinoH91news/frenchExtremes': {'Language':'fr'},
               }
            
 

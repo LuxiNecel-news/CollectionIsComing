@@ -3,7 +3,6 @@ import numpy as np
 import numbers
 import math
 import random
-import colorsys
 
 import matplotlib.pyplot as plt
 import matplotlib.cm as cm
@@ -85,7 +84,7 @@ osm_img = cimgt.OSM()
 fig = plt.figure(figsize=(12,9))
 # project using coordinate reference system (CRS) of street map 
 ax1 = plt.axes(projection=osm_img.crs) 
-ax1.set_title('Hazard Density Map',fontsize=18)
+ax1.set_title('Language Density Map',fontsize=18)
 extent = [limits['lonMin'], limits['lonMax'], limits['latMin'], limits['latMax']] 
 ax1.set_extent(extent)
 ax1.set_xticks(np.linspace(limits['lonMin'],limits['lonMax'],9),crs=ccrs.PlateCarree()) 

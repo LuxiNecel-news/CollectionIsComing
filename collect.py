@@ -42,6 +42,7 @@ githubRepos = {'pg-ufr-news/germanExtremes': {'Language':'de'},
                ## 'picawe-news/hebrewExtremes': {'Language':'he'},  ## little news!
                'hannak555-news/HindiExtremes': {'Language':'hi'},
                'annajungfleischnews/italianExtremes': {'Language':'it'},
+               ##'annajungfleischnews/japaneseExtremes': {'Language':'ja'},  ## classification valid!
               }
            
 

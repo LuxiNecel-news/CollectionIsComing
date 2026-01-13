@@ -193,7 +193,6 @@ repos =  list(githubRepos.keys())
 random.shuffle(repos)
 for repo in repos:
   #load sentiments_locations.csv
-  '''
   locationsFile = "https://github.com/"+repo+"/blob/main/csv/sentiments_locations.csv?raw=true"
   locationsRequest = requests.get(locationsFile, headers={'Accept': 'text/plain'})
   if(locationsRequest.status_code == 200):
@@ -204,7 +203,7 @@ for repo in repos:
       allLocationsDF = locationsDf
     else:
       allLocationsDF = pd.concat([allLocationsDF,locationsDf])
-  '''
+
   if(200 == 200):
     for currMonth in currentMonths:
     #load existing ones
@@ -222,7 +221,7 @@ for repo in repos:
         newsDf['topic'] = ''  # 'Hazard','Causes',...
         ## newsDf = pd.merge(newsDf, keysDf, how='left', left_on=['keyword'], right_on=['keyword'])
         ## newsDf = newsDf.dropna(subset=['topic'])
-        ## newsDf = newsDf.drop(newsDf[newsDf.valid < 0.2].index)      ## LATER ALLOW ALL, update current status!
+        newsDf = newsDf.drop(newsDf[newsDf.valid < 0.2].index)      ## LATER ALLOW ONLY *NEARLY* VALID ONES!
         if(existingDict and not newsDf.empty):
             ## later update valid flag for existing ones!
             newsDf.index = newsDf['hash']  #!!
@@ -240,10 +239,10 @@ for repo in repos:
             data = translateData(data)
           addNewsToCollection(data)
 
-'''
+
 allLocationsDF = allLocationsDF.sort_values(by=['count'], ascending=False)
 allLocationsDF.to_csv(DATA_PATH / 'csv' / "sentiments_locations.csv", index=True)
-'''
+
 storeCollection()
 
 

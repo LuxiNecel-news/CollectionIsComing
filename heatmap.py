@@ -3,6 +3,7 @@ import numpy as np
 import numbers
 import math
 import random
+import colorsys
 
 import matplotlib.pyplot as plt
 import matplotlib.cm as cm
@@ -100,6 +101,8 @@ ax1.add_image(osm_img, scale)
 
 ax1.coastlines(resolution='50m', color='black', linewidth=1)
 
+languageColors = {}
+
 sumCounts = np.sum(locationsDF['count'])
 maxCount = np.max(locationsDF['count'])
 print(['sum',sumCounts,'max',maxCount])   #211,28
@@ -108,9 +111,11 @@ for index, column in locationsDF.iterrows():
   if(isinstance(column['longitude'], numbers.Number) and isinstance(column['latitude'], numbers.Number)):
     if((limits['latMin']<column['latitude']<limits['latMax']) and (limits['lonMin']<column['longitude']<limits['lonMax'])):
         delta = 1.0
-        colorextr = '#ffffff'
-        if(column['extreme'] in extremeColors): 
-          colorExtr = extremeColors[column['extreme']]
+        colorExtr = "#{:02x}{:02x}{:02x}".format(random.randint(0, 255),random.randint(0, 255),random.randint(0, 255))
+        if(column['language'] in languageColors): 
+          colorExtr = languageColors[column['language']]
+        else:
+          languageColors[column['language']] = colorExtr 
         counter = int(column['count']/maxCount*250+column['count']/sumCounts*180)
         if(column['geotype']=='L'):   #large
             #counter = 1
@@ -144,15 +149,15 @@ sns.kdeplot(x=lat1, y=long1, fill=False,  levels=10, thresh=.0005, color='grey',
 #for label in labels:
 #    ax1.text(label['lon'],label['lat'],label['name'], color='#200000', fontsize=14, ha='center', va='center',transform=ccrs.PlateCarree())
 
-colorLeg = list(extremeColors.values())
+colorLeg = list(languageColors.values())
 colorLeg.reverse()
-labelLeg = list(extremeColors.keys())
+labelLeg = list(languageColors.keys())
 labelLeg.reverse()
 custom_lines = [plt.Line2D([],[], ls="", marker='.', 
                 mec='k', mfc=c, mew=.1, ms=30) for c in colorLeg]
 leg = ax1.legend(custom_lines, labelLeg, 
           loc='center left', fontsize=12, bbox_to_anchor=(0.99, .5))
-leg.set_title("Topics", prop = {'size':16}) 
+leg.set_title("Languages", prop = {'size':16}) 
 fig.add_artist(leg)
 plt.tight_layout()
 

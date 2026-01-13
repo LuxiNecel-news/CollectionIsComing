@@ -33,6 +33,8 @@ topicColors = {'Hazard':'#ff0000', 'Impacts':'#ffff00', 'Mitigation':'#00ff00', 
 
 githubRepos = {'pg-ufr-news/germanExtremes': {'Language':'de'}, 
                'newsWhisperer/greekExtremes': {'Language':'el'},
+               'MarcoL95-News25/ArabianExtremes': {'Language':'ar'},
+               ## 'sonjanews/bengaliExtremes': {'Language':'bn'},  ##no news!
               }
            
 

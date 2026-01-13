@@ -34,7 +34,9 @@ topicColors = {'Hazard':'#ff0000', 'Impacts':'#ffff00', 'Mitigation':'#00ff00', 
 githubRepos = {'pg-ufr-news/germanExtremes': {'Language':'de'}, 
                'newsWhisperer/greekExtremes': {'Language':'el'},
                'MarcoL95-News25/ArabianExtremes': {'Language':'ar'},
-               ## 'sonjanews/bengaliExtremes': {'Language':'bn'},  ##no news!
+               ## 'sonjanews/bengaliExtremes': {'Language':'bn'},  ## no news!
+               'tapio-22-Digitale-Methoden-News/chineseExtremes': {'Language':'zh'},
+               ## 'Leoniews/czechExtremes': {'Language':'cs'},  ## no news!
               }
            
 

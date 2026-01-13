@@ -46,6 +46,8 @@ githubRepos = {'pg-ufr-news/germanExtremes': {'Language':'de'},
                'MarcoL95-News25/netherlandExtremes': {'Language':'nl'},
                ## 'sonjanews/norwegianExtreme': {'Language':'no'},  ## little news!
                ## 'hannak555-news/polishExtremes': {'Language':'pl'},  ## little news! 
+               'jens-news/portoExtremes': {'Language':'pt'},
+               'TinoH91news/romanianExtremes': {'Language':'ro'},
               }
            
 

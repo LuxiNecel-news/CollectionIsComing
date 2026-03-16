@@ -211,6 +211,7 @@ for repo in repos:
   print(repo) 
   #load sentiments_locations.csv
   locationsFile = "https://github.com/"+repo+"/blob/main/csv/sentiments_locations.csv?raw=true"
+  locationsFile = "https://raw.githubusercontent.com/"+repo+"/refs/heads/main/csv/sentiments_locations.csv"
   locationsRequest = requests.get(locationsFile, headers={'Accept': 'text/plain'})
   if(locationsRequest.status_code == 200):
     locationsDf=pd.read_csv(io.StringIO(locationsRequest.content.decode('utf-8')), delimiter=',')

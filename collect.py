@@ -208,13 +208,14 @@ allLocationsDF = pd.DataFrame()
 repos =  list(githubRepos.keys())     
 random.shuffle(repos)
 for repo in repos:
+  print(repo) 
   #load sentiments_locations.csv
   locationsFile = "https://github.com/"+repo+"/blob/main/csv/sentiments_locations.csv?raw=true"
   locationsRequest = requests.get(locationsFile, headers={'Accept': 'text/plain'})
   if(locationsRequest.status_code == 200):
     locationsDf=pd.read_csv(io.StringIO(locationsRequest.content.decode('utf-8')), delimiter=',')
     locationsDf['language'] = githubRepos[repo]['Language']
-
+    print(locationsDf)
     if (not 'count' in locationsDf.columns):
       print(['count missing in ',repo]) 
     

@@ -223,7 +223,8 @@ for repo in repos:
       allLocationsDF = locationsDf
     else:
       allLocationsDF = pd.concat([allLocationsDF,locationsDf])
-
+  else:    
+    print(['status code',locationsRequest.status_code,locationsFile])
   if(200 == 200):
     for currMonth in currentMonths:
     #load existing ones

@@ -215,6 +215,9 @@ for repo in repos:
     locationsDf=pd.read_csv(io.StringIO(locationsRequest.content.decode('utf-8')), delimiter=',')
     locationsDf['language'] = githubRepos[repo]['Language']
 
+    if (not 'count' in locationsDf.columns):
+      print(['count missing in ',repo]) 
+    
     if(allLocationsDF.empty):
       allLocationsDF = locationsDf
     else:
